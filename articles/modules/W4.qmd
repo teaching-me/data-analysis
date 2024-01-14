@@ -1,0 +1,122 @@
+---
+title: "W4: Correlation and Regression"
+description: "This is the module for Week 4. We will start learning the basics of how to model continuous relationships between variables."
+order: 3
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Introduce linear models via correlation and regression
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Please complete the following BEFORE class
+
+### Wednesday
+
+- Read Chapter 15 (everything before Section 15.4) from the Gravetter & Wallnau (2017) textbook.
+- Read Chapter 16 (everything before Section 16.2) from the Gravetter & Wallnau (2017) textbook.
+
+
+### Friday
+
+- Read Chapter 15 (Section 15.5) from the Gravetter & Wallnau (2017) textbook.
+
+
+After class, you are encouraged to go over the following video tutorial(s):
+
+- <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a>
+
+- <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a>
+
+- <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a>
+
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W4: Slides 1</a>
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W4: Slides 2</a>
+
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 4 Quiz
+- Problem Set 3 due on Feb 19
+- Optional Meme
+::::
+:::
+
+
+::::
+:::::

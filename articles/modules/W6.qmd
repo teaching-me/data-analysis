@@ -1,0 +1,110 @@
+---
+title: "W6: Probabilty and Sampling"
+description: "This is the module for Week 6. We will cover some basic ideas from probability theory and connect them to ideas of making inferences about populations from samples."
+order: 5
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Discuss fundamental concepts in probability
+- Understand the idea of probability distributions
+- Describe sampling distributions and the basis of inferential statistics
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Please complete the following BEFORE class
+
+### Tuesday
+
+- Read Chapter 6 from the Gravetter & Wallnau (2017) textbook.
+
+
+### Thursday
+
+- Read Chapter 7 from the Gravetter & Wallnau (2017) textbook.
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W12: Slides</a>
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 6 Quiz
+- Optional Meme
+
+::::
+:::
+
+
+::::
+:::::

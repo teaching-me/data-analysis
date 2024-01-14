@@ -1,0 +1,118 @@
+---
+title: "W3: Variability & z-scores"
+description: "This is the module for Week 3. We will discuss how to conceptualize variability within the broader framework of fitting models to data"
+order: 2
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Discuss how modeling and variability are related
+- Elaborate on the concepts of variance, standard deviations, and z-scores
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Please complete the following BEFORE class
+
+### Wednesday
+
+
+- Read Chapter 4 from the Gravetter & Wallnau (2017) textbook.
+
+### Friday
+
+- Read Chapter 5 from the Gravetter & Wallnau (2017) textbook.
+
+After class, you are encouraged to go over the following video tutorial(s):
+
+- <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W3: Slides 1</a>
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W3: Slides 2</a>
+
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 3 Quiz
+- Problem Set 2 due on Feb 12!
+- Optional Meme
+::::
+:::
+
+
+::::
+:::::

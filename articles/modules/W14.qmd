@@ -1,0 +1,116 @@
+---
+title: "W14: Non-Continuous Data"
+description: "This is the module for Week 14. We will learn about how to model data that are not continuous"
+order: 11
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Discuss non-continuous data
+- Introduce non-parametric tests
+- Discuss how to approach statistical analyses and/or research design
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Please complete the following BEFORE class:
+
+### Wednesday
+
+
+- Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.
+
+
+### Friday
+
+- TBD
+
+
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W14: Slides 1</a>
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W14: Slides 2</a>
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 14 Quiz
+- Problem Set 7 due on April 29!
+- Optional Meme
+
+::::
+:::
+
+
+::::
+:::::

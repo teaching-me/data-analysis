@@ -1,0 +1,114 @@
+---
+title: "W7: Hypothesis Testing"
+description: "This is the module for Week 7. We will learn about the ideas behind why we use statistics to make claims about the world around us."
+order: 6
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Introduce the logic of hypothesis testing
+- Connect to previous ideas about making inferences from data
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Please complete the following BEFORE class
+
+### Wednesday
+
+
+- Read Chapter 8 from the Gravetter & Wallnau (2017) textbook.
+
+### Friday
+
+- Read Chapter 9 from the Gravetter & Wallnau (2017) textbook.
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W6: Slides 1</a>
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W6: Slides 2</a>
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 7 Quiz
+- Problem Set 4 due on March 11!
+- Optional Meme
+
+You will also be working with your group to complete the HW assigned in class about data recording.
+
+::::
+:::
+
+
+::::
+:::::

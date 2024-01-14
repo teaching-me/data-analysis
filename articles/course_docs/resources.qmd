@@ -1,0 +1,34 @@
+---
+title: "Additional resources"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## APA resources
+
+1. [Purdue OWL's general APA guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
+2. [APA's guide for reporting statistical information](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf)
+
+## Interesting perspectives/research/videos
+
+1. Carol Dweck on [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+2. [Experimentology](https://experimentology.io/): A new, open-source textbook on experiment design
+
+
+## Helpful library resources
+
+[Course Reserves Search](https://cbbcat.net/screens/reserves.html): Search for course reserves by your professor's name or course ID.
+
+[Need Research Help? Ask a Librarian!](https://library.bowdoin.edu/research/appointment.shtml): Meet with a research librarian in-person or virtually.
+
+[Research Guides by Subject](https://bowdoin.libguides.com/): Find research resources by subject or course curated by Bowdoin librarians.
+
+[Library Databases](https://bowdoin.libguides.com/az.php): Access articles, streaming music & video, primary sources, images, and more from over 500 databases.
+
+[Style and Citation Guides](https://library.bowdoin.edu/research/citation-guides.shtml): Citation style guides, when and how to cite, and citation management tools.
+

@@ -1,0 +1,122 @@
+---
+title: "W2: Summarizing and Fitting Models to Data"
+description: "This is the module for Week 2. We will review some basic research design principles that will be relevant for this course and start to understand how to visualize and summarize data as well as start to think about basic descriptive statistics"
+order: 1
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Review research methods and design principles
+- Understand histograms and frequency distributions
+- Discuss the concept of a statistical model and how it can be used to describe data
+- Describe the concepts of central tendencies
+
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+Please complete the following BEFORE class
+
+### Wednesday
+
+
+- Read Chapter 2 from the Gravetter & Wallnau (2017) textbook.
+
+
+### Friday
+
+
+- Read Chapter 3 from the Gravetter & Wallnau (2017) textbook.
+
+After class, you are encouraged to go over the following video tutorial(s):
+
+- <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a>
+
+- <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a>
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W2: Slides 1</a>
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W2: Slides 2</a>
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 2 Quiz
+- Problem Set 1 due on Feb 5!
+- Optional Meme
+::::
+:::
+
+
+::::
+:::::

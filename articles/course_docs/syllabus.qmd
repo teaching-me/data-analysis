@@ -1,0 +1,278 @@
+---
+title: "Syllabus: Data Analysis"
+---
+
+### Basic Course Information
+
+**Course number**: PSYC 2520<br>
+**Semester**: Spring 2024 </u><br>
+**When**: Wednesdays & Fridays, 10.05-11.30 AM<br>
+**Where**: Mills 127 <br>
+**Website**: You are here!<br>
+**Pre-requisites**: Two of: <br>
+
+- PSYC 1101 or Placement in above PSYC 1101
+- Either BIOL 1102 or BIOL 1109 or Placement in BIOL 2000 level or PSYC 2510
+
+### Who is your instructor?
+
+<img width = "30%" height = "auto" src = "../../images/kumar.png"><br>
+**Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
+**Pronouns**: she/her
+
+**About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new recipes, and playing tennis (badly)! <br>
+
+**Email**: a.kumar\@bowdoin.edu
+
+**Office**: Kanbar Hall, Room 217
+
+### Who are your learning assistants?
+<!--
+<img width = "30%" height = "auto" src = "../../images/jon.jpg"><br>
+**Jon Sides**
+
+**Pronouns**: he/they
+
+**About me**: I am a junior majoring in psychology and math. I grew up in Minnesota and Connecticut, and after Bowdoin I hope to live in the city (New York, Chicago, Oslo?) and pursue a clinical neuroscience career. For now, I enjoy shopping, concerts and musicals, hockey, coffee shops, and Star Wars. I have also been a Starbucks barista for 5 years. <br>
+
+**Email**: jsides\@bowdoin.edu
+
+**Office**: Kanbar Hall, Room 200
+
+!-->
+
+### Student/Office Hours 
+
+**Abhilasha's office hours (Kanbar 217)**: <br>
+
+- Wednesdays, 2 pm-4 pm
+- Fridays, 9 am - 1 pm
+
+**LA's office hours (Kanbar 200)**<br>
+
+<!--
+
+- Tuesdays and Sundays, 7-8 pm, Kanbar 200
+
+!-->
+
+You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
+
+### What is this course about?
+
+We live in what has been called the "golden age of data" (Poldrack, 2019), where professionals from all walks of life have access to and are sharing data freely, including but not limited to government officials, policymakers, scientists, and engineers. We see charts, numbers, and scientific "facts" all around us, and it is imperative that we are equipped with the skill set to interpret this information in a logical and useful manner. Statistics is a toolkit that enables us to understand and describe the complex world we live in, while also empowering us with skills that allow us to test questions and claims about the world. 
+
+This course is an introduction to the statistical procedures commonly used by *psychologists* to describe, analyze, and interpret data. You will acquire skills to empirically test questions and claims about human behavior and mental processes. You will learn the types of inferences and conclusions that can (and cannot) be drawn from various scientific research procedures. As such, this course provides a conceptual and mathematical understanding of common statistical procedures. 
+
+This course counts towards Bowdoin's  [MCSR](https://bowdoin-public.courseleaf.com/curriculum/#distributions) distribution requirement.
+
+### Why take this course? a.k.a. learning goals
+
+My hope as an instructor is to **empower** you with an analytical toolkit that will not only prepare you for other psychology courses you may take in your academic career, but also apply to other areas of your life. At the end of this course, you will be able to: <br>
+
+1. <span style="color:#E7AC10">Understand</span> data, uncertainty, and the logic behind statistical thinking [Department Goal #5]
+2. <span style="color:#508AB0">Evaluate</span> scientific and non-scientific work by applying a statistical toolkit to specific claims and questions [Department Goal #4]
+3. <span style="color:#1CB447">Communicate</span> through numbers, graphs, and scientific writing [Department Goal #7]
+
+### Course textbook
+
+- Gravetter, F. J., & Wallnau, L. B. (2017). Statistics for the Behavioral Sciences (10th ed.). Belmont, CA: Thomson Wadsworth. 
+
+**Please make sure you obtain the 10th edition as the problem sets come from the textbook and they vary from one edition to another.**
+	
+You will also need a calculator for weekly quizzes, problem sets, and exams.
+
+All other course materials (e.g., slides, data, etc.) will be available in a timely fashion on this course website and/or posted on Canvas. 
+
+### Weekly module structure
+
+There are 15.5 total weeks in this course.This is an **in-person** class.
+
+Weekly learning modules include three components to encourage engagement with the data and statistics in different ways.
+
+**PREP**: Most modules have assigned readings from the course textbook. Student are expected to complete the assigned material **before** classes where the material is discussed. 
+
+**TRY**: At the end of each week, there will be a short online quiz where students will be expected to answer questions about the content covered during the week. These quizzes are meant to help you keep track of your progress and will count towards your final grade.
+
+**APPLY**: Every couple weeks, you will also have a problem set due. These problem sets will help you build on the skills you learn in class and review through the quiz, and apply them to new data. There are some [in-built options](#problem-sets) regarding these problem sets that are discussed in detail below.
+
+
+## Course Schedule
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
+#library(data.table)
+library(readxl)
+Lectures <- read_excel("data_2024_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures$Week <- as.character(Lectures$Week)
+Lectures[is.na(Lectures)] <- " "
+knitr::kable(Lectures)
+
+```
+
+## Grading
+
+The grading scale for this class is as follows:
+
+| Letter grade | Points       |
+|:-------------|:------------|
+| A            | 95 - 100+    |
+| A-           | 90 - 94.99  |
+| B+           | 87 - 89.99  |
+| B            | 83 - 86.99 |
+| B-           | 80 - 82.99    |
+| C+           | 77 - 79.99 |
+| C            | 73 - 77.99    |
+| C-           | 70 - 72.99   |
+| D            | 60 - 69.99 |
+| F            | fewer than 60%     |
+
+Grades will be determined based on the following rubric, which is based on emphasizing our [three learning goals](#why-take-this-course-a.k.a.-learning-goals).
+
+There are multiple ways for students to engage with class and course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
+
+### Points
+
+| Component        | Points  | 
+|:------------------|:-------| 
+| [Weekly quizzes](#weekly-quizzes) |     10  | 
+| [Problem sets](#problem-sets) |     35  | 
+| [Exam: Midterm 1](#exams)      |      15  | 
+| [Exam: Midterm 2](#exams)     |       15 | 
+| [Exam: Final](#exams)      |      20  | 
+| [Class participation](#class-participation)      |      5  | 
+| [Extra credit](#extra-credit) | 5 |  
+|           Total        |   105     |     |
+
+
+Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](#late-work-policy)).
+
+
+### Weekly Quizzes
+
+At the end of each weekly module, there will be a Canvas quiz that covers the content discussed in class through multiple-choice or true-false questions. Quizzes will test your conceptual understanding of the material each week.
+
+Overall, these quizzes contribute 10 TOTAL points towards your final grade, but each quiz will be individually graded for 10 points and then all quizzes will be scaled to total up to 10 points at the end of the semester.
+
+### Problem Sets
+
+Problem sets are an additional mechanism for you to practice and accumulate points over the course of the semester. Most problem sets will come from the course textbook and will involve solving small problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the [video tutorials](videos.html#tutorial-library) on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform. 
+
+Each problem set is worth 5 points and there will be 7 problem sets throughout the semester. Problem sets will be due roughly every week and will contain 10-15 questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines.
+
+All submissions must be made through Canvas. Please make sure to carefully review the [instructions on the submission format](videos.html#submitting-assignments) for these problem sets. 
+
+Some students find it useful to consistently practice problem solving throughout the semester, whereas others are more comfortable with sporadic assessments. You will have the option to choose between two possibilities:
+
+- **Option 1**: You may complete (and grade) all problem sets. If you choose this option: 
+  - You must submit an initial attempt by the deadline for the specific problem set. This initial attempt is worth 2.5 points and will be graded as whether or not you have attempted at least 75% of the problems. An "attempt" only counts if you have genuinely tried to solve the problem and demonstrated your work.
+  - Once you receive your initial attempt back and the solution set has been released (by Wednesday), to gain the remaining 2.5 points, you must grade your initial attempt and re-attempt the problems by the resubmission deadline. If you submit a corrected version (that includes ALL corrected problems), you will receive the additional 2.5 points for that problem set. Please follow the template on Canvas to submit corrections and explanations. 
+- **Option 2**: You may choose to forego the problem sets and add these points to your exams. Specifically, there will be three deadlines to drop out of doing the problem sets:
+  - Deadline 1: At the beginning of the course
+  - Deadline 2: After the first midterm
+  - Deadline 3: After the second midterm
+  
+If you chose to opt out of problem sets, those points will be re-distributed to the exam points for that portion of the semester (e.g., if you opt out at the beginning of the semester, the points for those problem sets are re-allocated to Midterm 1). You must opt out of Option 1 (or back into Option 1) by sending an email so that we both have a record of your decision. Due dates for opting in and out are on the Course Calendar and Canvas. These are hard deadlines. You are strongly encouraged to opt for Option 1 at least through the second midterm. At that point, you may consider opting out. I am happy to meet with anyone who wants to talk about which approach would be best for them.
+
+### Exams
+
+The two midterm exams are not cumulative. Each exam is divided into two parts: a **conceptual** in-person part and a **computational** take-home part. 
+- The **conceptual** in-person part includes multiple choice questions, definitions, matching items, and short answer questions. It will be given during our Friday class time. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.
+- The **computational** take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me for help. You cannot ask the Learning Assistants for help of any sort on the quizzes.
+
+### Class participation
+
+Students are encouraged to participate during class by responding to and reflecting on the course content, as well as engaging with other students via activities and group work. Additionally, there will be an opportunity to participate in a discussion board throughout the semester.
+
+Overall, here is a breakdown of how class participation will be assessed:
+
+| Component        | Points |    
+|:------------------|-------:|
+| In-class participation and/or attending office hours |     2.5 |
+| Discussion board participation     |      2.5 |
+|             Total      |     5   |    
+
+In-class participation will be assessed based on how engaged you are in or outside class - I will be looking for engagement via participating in in-class activities, asking questions, volunteering answers, attending my or LA's office hours etc. on an *overall* basis. 
+
+There will be a Canvas discussion board (Data Around Us) that will remain active all semester. You will post about data and statistics you see in the world around you. The goal is to notice how data are presented and interpreted in different non-academic contexts. There are two ways to participate in the discussion board:
+
+- You can make a discussion post by taking a screenshot of a graph or statistical claim you see in any non-academic source/media (e.g., news articles, media analysis, books, etc.), and commenting on (1) whether you like/dislike the graph and/or analysis, and (2) what kind of graph/statistical test is being discussed, and (3) any questions that came to mind based on the graph/claim. 
+
+- You may also respond to someone else's discussion post by commenting on (1) whether you like/dislike the graph and/or analysis, (2) whether you agree or disagree with the original poster's assessment about the type of graph/statistical test being discussed, and (3) any questions that came to mind based on the graph/claim.
+
+Participation in the discussion board will be assessed in the following manner: 
+
+- Posting at least 5 times during the semester will earn you the full 2.5 points. Each individual post is worth 0.5 points. 
+- The two students who are most active in this discussion board (above and beyond the 5 required posts) will receive 1 extra credit point each (see [extra credit](#extra-credit)).
+
+
+### Extra credit
+
+There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
+
+1. <u>Complete class surveys (2 points) </u>: There will be 4 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey, all other surveys will be anonymous, and you will be able to earn 0.5 point for each survey you complete. 
+
+2. <u> Win Data Detective (1 point)</u>: At different points in the semester, there will be opportunities to find instances of statistics being used in the world around us, and assessing the quality of these statistics via a Canvas discusson board. The two students who are most active and incisive in this discussion board will receive 1 extra credit point each.  
+
+3. <u> Win Memer of the Semester (1 point) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will both receive 1 additional point. **Note**: A student can only receive a maximum of 1 point through this mechanism, even if the same student has the highest average score in the context *and* the best scoring meme.
+
+## Course Policies
+
+### Academic honesty and plagiarism
+
+We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism in any form will be subject to grade reductions and disciplinary action. Specifically, you are permitted to make use of online resources and/or search platforms. However, directly copying or adapting written material and/or your classmates' answers or ideas will be considered plagiarism. This policy applies to both individual and group assignments. 
+
+Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
+
+
+### Use of generative artificial intelligence tools
+
+**Acknowledgement**: This policy about generative AI was generated using the [Generative AI Syllabus Statement Tool provided by Seaver College](https://courses.pepperdine.edu/access/content/user/cheard/Twine/Generative_AI_Syllabus_Statement.html)
+
+Generative artificial intelligence tools — software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT/Bard for text and DALL-E for images. This policy governs all such tools, including those released during our semester together. You may use generative AI tools for work in this course to help with idea generation, understanding code, literature review, drafting, and other such academic work. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, following the pattern for computer software provided by the [American Psychological Association (APA)](https://apastyle.apa.org/blog/how-to-cite-chatgpt) guide. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility as a scholar — NOT the tool’s — to assure the quality, integrity, and accuracy of work you submit in any college course. Although you have wide latitude to determine how you use generative AI tools in this course, you must be wary of unintentional plagiarism or fabrication of data. Please act with integrity, for the sake of both your personal character and your academic record.
+
+### Electronic devices
+
+Most of our class time will be spent in active learning and in-person/online activities that require the use of technology. Therefore, **please bring a Macbook and iPad to class**. Some students find it helpful to examine data on their Mac and use their iPad for looking at slides, so please consider bringing both devices to class. 
+
+Please make sure that your devices are fully charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and [put your Mac/iPad on "work" mode](https://support.apple.com/guide/mac-help/set-up-a-focus-to-stay-on-task-mchl613dc43f/mac). All class time should be devoted to working on in-class activities and group projects. 
+
+### Attendance: How many classes can you miss? 
+It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. 
+
+Attendance will not count towards your grade. If you miss class, it is entirely your responsibility to make sure you get notes and keep track of the material. I will be happy to meet to answer questions about the content, but will not redo/review the material outside of class time. You may also make use of LA’s office hours to ask questions about the material.
+
+**Note: If you are sick, please stay home**. 
+
+### Late Work Policy
+
+Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
+
+1. Each student has **5 "flex" days** that they can use at their discretion throughout the semester. You can use all 5 days at once for a single assignment and turn in one assignment 5 days late (with no questions asked), OR you can spread the love across different assignments. 
+2. Flex days can be used for quizzes and problem sets unless otherwise stated in class.
+3. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
+4. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 70% of the original points.
+5. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension and any work that is handed in beyond 24 hours after a flex day was requested will either need to use an additional flex day or will be graded on 70% of the original points.
+6. To request a flex day, you can send me an email within the 24-hour extension window, or simply leave a comment on your submitted assignment on Canvas. 
+
+### Inclusion
+I will do my very best to ensure that students from all backgrounds and perspectives receive equitable access and opportunity in this course, that students' learning needs be addressed both in and out of class, and that the diversity students bring to this class is viewed as a resource, strength, and benefit. I hope to employ materials and engage in activities and dialogue that are respectful of different aspects of your identity. 
+
+### Religious Holidays
+No student is required to take an examination or fulfill other scheduled course requirements on recognized religious holidays. Students are expected to declare their intention to observe these holidays at the beginning of the semester. 
+
+### Accommodations
+Students with documented Bowdoin-granted accommodations have a right to have these met. I encourage you to see me in the **first 2 weeks of class** to discuss how your accommodations may support your learning process in this course. I highly encourage all students to meet with me in the first few weeks of class to discuss your learning preferences, challenges you may face learning this semester, and how we can create an effective learning experience for you. If you are interested in learning more about accommodations please see Lesley Levy in the Office of Student Accessibility or visit [Bowdoin's website on accessibility-related policies and resources](https://www.bowdoin.edu/accessibility/).
+
+### Counseling Resources
+As a student, you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduced ability to participate in daily activities. Bowdoin College is committed to advancing the mental health and well-being of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. You can learn more about the broad range of confidential mental health services available on campus at [this](https://www.bowdoin.edu/counseling/) link. The [Dean of Students Office](https://www.bowdoin.edu/dean-of-students/index.html) is also a resource for students facing personal and academic challenges. I encourage you to reach out to the amazing people in the dean’s office for a meeting anytime. 
+
+### Learning Resources
+
+The [Baldwin Center for Learning and Teaching](https://www.bowdoin.edu/baldwin-center) offers peer-to-peer resources including mentors, Q-Tutors, and Writing Assistants. If you or your family are multilingual, you may also take advantage of Lisa Flanagan to work on writing and speaking assignments and projects. Tina Chong is available as an Academic Coach to work with you on goal setting, managing time, study habits and other strategies to support academic success. You are encouraged to [make an appointment](https://www.bowdoin.edu/baldwin-center/make-an-appointment/) and learn more about how the Center can support your learning.
+
+### Other resources
+
+If you are on a budget or would benefit from financial assistance of any kind at any point in the semester, I encourage you to contact your Dean and explore the [Supplemental and Emergency Funding website](https://www.bowdoin.edu/dean-of-students/resources/emergency-funding/index.html). The Office of the Dean of Students has grant and loan funds available to remove financial barriers so that students can more fully access the Bowdoin experience or to assist students with unexpected financial needs.
+
+### Mandated Reporter
+As a faculty member, I am considered a **Responsible Employee**, per the Student Sexual Misconduct and Gender Based Violence Policy. As a Responsible Employee I am required to report disclosures of sexual misconduct, dating violence, stalking, and/or sexual and gender-based harassment to Bowdoin's Title IX Coordinator, Kate O'Grady. My reporting does NOT mean that any actions will be taken beyond Kate reaching out to you and trying to schedule a time to talk to see what assistance you might need to be successful as a student here at Bowdoin. For more information please check out [Bowdoin's Title IX page](http://www.bowdoin.edu/title-ix).

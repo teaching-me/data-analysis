@@ -1,0 +1,64 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+    - "!*.rmd"
+  output-dir: docs
+  resources:
+    - "images/"
+    - "slides/"
+    - "textbook/book/"
+  
+
+website:
+  site-url: "https://teaching-me.github.io/data-analysis/"
+  
+  google-analytics: "G-0PT8LKEC0K"
+  
+  repo-url: https://github.com/teaching-cognition/coglab
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    left: "This page is built with [Quarto](https://quarto.org/)."
+    right:
+    - text: "License"
+      href: LICENSE.md
+  
+  open-graph: true
+  twitter-card:
+    creator: "@abhilashaakumar"
+  
+  title: "data-analysis"
+  navbar:
+    logo: "images/logobar.png"
+    title: false
+    align: center
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Syllabus"
+        file: articles/course_docs/syllabus.qmd
+      - text: "Schedule"
+        file: articles/course_docs/syllabus.html#course-schedule
+      - text: "Grading"
+        file: articles/course_docs/syllabus.html#grading
+      - text: "Video Tutorials"
+        file: articles/course_docs/videos.qmd
+      - text: "Additional Resources"
+        file: articles/course_docs/resources.qmd
+
+  sidebar:
+      - title: "Learning Modules"
+        logo: images/data.png
+        contents: articles/modules/*
+      
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+
+editor: source
+

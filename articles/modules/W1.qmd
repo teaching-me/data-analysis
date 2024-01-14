@@ -1,0 +1,129 @@
+---
+title: "W1: Getting Started on Statistical Thinking"
+description: "This is a general orientation for PSYC 2520, Spring 2024. Start here to learn more about how this course will work and get some intutions going about data and measurement"
+order: 0 
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+## Goals
+
+- Quick course orientation
+- Show you how weekly modules will work
+- Explore what data are and how measurements are made
+- Get you ready for Week 2!
+
+## Instructions 
+
+Work through each of the following Prep, Try, and Apply sections. 
+
+- The **Prep** section will provide details on all the assigned material for Wednesday and Friday each week.
+- The **Try** section will contain any slides/links that may be used during class. 
+- The **Apply** section will provide instructions about assignment(s) due at the end of the week.
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Please complete the following BEFORE class.
+
+### Wednesday
+
+- Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or on the Canvas discussion board.
+
+### Friday
+
+- Read Chapter 1 and Appendix A from the Gravetter & Wallnau (2017) textbook.
+
+After class, you are encouraged to go over the following video tutorial(s):
+
+- <a href="https://youtu.be/FIkZ1sPmKNw" target="_blank">Introduction to Google Sheets</a>
+
+
+::::
+:::
+::::
+:::::
+
+
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<!--
+<a class="btn btn-outline-info" href="" role="button" target="_blank">W1: Slides</a>
+!-->
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following:
+
+- Week 1 Quiz
+- Class survey 
+- Optional Meme
+
+::::
+:::
+
+
+::::
+:::::

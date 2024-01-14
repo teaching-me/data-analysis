@@ -1,0 +1,48 @@
+---
+title: "Data Analysis (PSYC 2520)"
+description: "A course on statistical data analysis"
+image: 'images/cognition_social.jpg'
+image-alt: "A course on statistical data analysis"
+opengraph:
+  twitter:
+    card: summary_large_image
+    creator: "@abhilashaakumar"
+editor: source
+title-block-style: none
+---
+
+Welcome! This is the course website for **Data Analysis** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+
+**Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
+Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
+
+<!--
+
+**Learning Assistant**: Jon Sides<br>
+Email: [jsides\@bowdoin.edu](jsides@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
+
+!-->
+
+## Note to students
+
+We will use the resources on this website along with Canvas throughout the semester. This website will always contain the most up-to-date syllabus, slides, and course policies. The syllabus, list of reading material, and other resources can all be accessed using the tabs at the top of the page or through the sidebar.
+
+**You can start exploring the website now: Start with the [syllabus](articles/course_docs/syllabus.html)! **
+
+Looking forward to meeting you in class!
+
+If you have questions, please email me. If you think other students might have the same question, then please ask your question on the Canvas discussion board for this course.
+
+## Acknowledgments
+
+This course has been developed using the materials and wisdom generously shared by the following faculty:
+
+- [Dr. Suzanne Lovett](https://www.bowdoin.edu/profiles/faculty/slovett/index.html)
+- [Dr. Michael N. Jones](https://www.jonesmn.com/)
+- [Dr. Russell Poldrack](https://profiles.stanford.edu/russell-poldrack) [[course website]](https://statsthinking21.github.io/statsthinking21-core-site/)
+
+## Open-educational resource
+
+This is an open-educational resource that is free to use, share, copy, edit, and remix, with attribution and following the [CC BY-SA 4.0 creative-commons license](https://creativecommons.org/licenses/by-sa/4.0/).
+
+The suite is developed using open-source software (R, RStudio, Bookdown). The source code for this project is available at <https://github.com/teaching-me.github.io/mindsandmachines>. These materials are being actively developed.

@@ -1,0 +1,57 @@
+---
+title: "Video tutorials"
+description: "This page hosts video tutorials for working with data using Google Sheets as well as instructions for submitting data-based assignments"
+---
+
+## Submitting assignments
+
+For all problem sets or exams you complete in this course, you will be provided small to medium-sized datasets that you will need to conduct a set of analyses on using Google Sheets. The videos on this page will help you conduct these analyses as well as guide you through the process of submission from start to finish.
+
+1. <a href="https://drive.google.com/file/d/1RSw1uhTpQPCSF77SMWHRw55DCNkIvoAD/view?usp=drive_link" target="_blank">Submitting a problem set</a>
+  - This video describes how to submit an initial attempt for a problem set. Please watch it carefully before your first assignment so that you follow all the guidelines. 
+  - Below is a checklist that you should go through BEFORE you submit any assignment/exam:
+    - Copy over the solution template and edit it with your answers and explanations. Solution sheets should be brief and only mention numerical answers or provide brief explanations. They do not need to show any calculations - all calculations should be done in your worksheet.
+    - Provide a link to the worksheet with ALL your calculations at the TOP of your solution sheet. Each question that includes any calculations should have a separate "sheet"/"tab" in your worksheet.
+    - Make sure that the link you have provided opens up in an INCOGNITO tab without logging into any email.
+
+2. <a href="https://drive.google.com/file/d/1DwWZlpevgR2F5XBmdBt9kAZGQepkrHyo/view?usp=drive_link" target="_blank">Revising a problem set</a>
+  - This video describes how to revise an initial attempt for a problem set. 
+  - Please make sure you indicate your revisions/corrections in PURPLE as shown in the video. 
+  - Your new worksheet should only contain calculations that were incorrect or needed to be revised. 
+<!--
+3. Submitting an exam
+  - This video describes how to submit the computational portion of an exam in this course. Please watch it carefully before your first midterm so that you follow all the guidelines. 
+!-->
+
+
+## Tutorial Library
+
+Visit each of the links below to learn about how to conduct simple statistical analyses in Google Sheets. You will be expected to conduct these analyses in problem sets and exams. 
+
+1. <a href="https://youtu.be/FIkZ1sPmKNw" target="_blank">Introduction to Google Sheets</a>
+
+2. <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a>
+
+3. <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a>
+
+3. <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
+
+3. <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a>
+
+3. <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a>
+
+3. <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a>
+
+<!--
+
+5. Hypothesis Testing (z-test)
+
+6. Hypothesis Testing (correlation & regression)
+
+7. Hypothesis Testing (t-tests)
+
+8. Hypothesis Testing (ANOVAs)
+
+9. Hypothesis Testing (Chi-square)
+
+!-->
