@@ -15,9 +15,9 @@ title: "Syllabus: Data Analysis"
 - Either BIOL 1102 or BIOL 1109 or Placement in BIOL 2000 level or PSYC 2510
 
 ### Who is your instructor?
-
+#### **Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
 <img width = "30%" height = "auto" src = "../../images/kumar.png"><br>
-**Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
+
 **Pronouns**: she/her
 
 **About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new recipes, and playing tennis (badly)! <br>
@@ -27,34 +27,43 @@ title: "Syllabus: Data Analysis"
 **Office**: Kanbar Hall, Room 217
 
 ### Who are your learning assistants?
-<!--
-<img width = "30%" height = "auto" src = "../../images/jon.jpg"><br>
-**Jon Sides**
+#### **Whitt Dodge**
+<img width = "30%" height = "auto" src = "../../images/whitt.jpg"><br>
 
-**Pronouns**: he/they
+**Pronouns**: he/him
 
-**About me**: I am a junior majoring in psychology and math. I grew up in Minnesota and Connecticut, and after Bowdoin I hope to live in the city (New York, Chicago, Oslo?) and pursue a clinical neuroscience career. For now, I enjoy shopping, concerts and musicals, hockey, coffee shops, and Star Wars. I have also been a Starbucks barista for 5 years. <br>
+**About me**: I am a junior Biology and Gender, Sexuality, and Women’s Studies major with a minor in Psychology. I took Data Analysis last spring and really enjoyed it, so I am super excited to be one of the learning assistants this semester. I enjoy skiing, hiking, rock climbing, and rugby in my free time. I have one of the most basic dogs on the planet (Kudos if you can guess her name and breed), and my favorite animal is a snake. I can’t wait to meet you all!  <br>
 
-**Email**: jsides\@bowdoin.edu
+**Email**: edodge\@bowdoin.edu
 
 **Office**: Kanbar Hall, Room 200
 
-!-->
+#### **Yanevith Peña**
+<img width = "30%" height = "auto" src = "../../images/yanevith.jpg"><br>
+
+**Pronouns**: she/her
+
+**About me**: Hi everyone! I am an international student from Venezuela, neuroscience/education major. I took this course last spring and really enjoyed it! Last fall, I was abroad at the University of Edinburgh where I continued to learn more about data analysis and ethics in scientific research. Outside of school, I love to bake, crochet/knit, sew, and the outdoors. I am really excited to be one of your LAs and to meet you all during class and LA hours, please come say hi! [Picture above of me hiking Edinburgh’s resident ancient volcano]<br>
+
+**Email**: ypena2\@bowdoin.edu
+
+**Office**: Kanbar Hall, Room 200
 
 ### Student/Office Hours 
 
 **Abhilasha's office hours (Kanbar 217)**: <br>
 
-- Wednesdays, 2 pm-4 pm
-- Fridays, 9 am - 1 pm
+- In-person: Wednesdays, 2 pm - 4 pm
+- Virtual: Thursdays, 2 pm - 4 pm
 
-**LA's office hours (Kanbar 200)**<br>
+**Whitt's office hours (Kanbar 200)**<br>
 
-<!--
+- Mondays, 7 pm - 8.30 pm
 
-- Tuesdays and Sundays, 7-8 pm, Kanbar 200
+**Yanevith's office hours (Kanbar 200)**<br>
 
-!-->
+- Sundays, 3.30 pm - 5 pm
+
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
 
