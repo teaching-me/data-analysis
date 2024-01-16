@@ -13,20 +13,15 @@ title-block-style: none
 
 Welcome! This is the course website for **Data Analysis** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
-**Instructor**: 
+**Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
+Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
 
-- <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a> (she/her)<br> 
-Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
+<!--
 
+**Learning Assistant**: Jon Sides<br>
+Email: [jsides\@bowdoin.edu](jsides@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
 
-**Learning Assistants** 
-
-- Whitt Dodge (he/him) <br>
-Email: [edodge\@bowdoin.edu](edodge@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
-
-- Yanevith Peña (she/her) <br>
-Email: [ypena2\@bowdoin.edu](ypena2@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
-
+!-->
 
 ## Note to students
 
