@@ -9,6 +9,7 @@ knitr::opts_chunk$set(
 )
 ```
 
+
 ## APA resources
 
 1. [Purdue OWL's general APA guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
@@ -18,7 +19,6 @@ knitr::opts_chunk$set(
 
 1. Carol Dweck on [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 2. [Experimentology](https://experimentology.io/): A new, open-source textbook on experiment design
-3. [Statistical Thinking in the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/): Dr. Russell Poldrack's textbook on introductory statistics
 
 
 ## Helpful library resources
@@ -32,4 +32,5 @@ knitr::opts_chunk$set(
 [Library Databases](https://bowdoin.libguides.com/az.php): Access articles, streaming music & video, primary sources, images, and more from over 500 databases.
 
 [Style and Citation Guides](https://library.bowdoin.edu/research/citation-guides.shtml): Citation style guides, when and how to cite, and citation management tools.
+
 
