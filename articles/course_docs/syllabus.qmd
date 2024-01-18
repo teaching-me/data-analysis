@@ -201,9 +201,9 @@ In-class participation will be assessed based on how engaged you are in or outsi
 
 There will be a Canvas discussion board (Data Around Us) that will remain active all semester. You will post about data and statistics you see in the world around you. The goal is to notice how data are presented and interpreted in different non-academic contexts. There are two ways to participate in the discussion board:
 
-- You can make a discussion post by taking a screenshot of a graph or statistical claim you see in any non-academic source/media (e.g., news articles, media analysis, books, etc.), and commenting on (1) whether you like/dislike the graph and/or analysis, and (2) what kind of graph/statistical test is being discussed, and (3) any questions that came to mind based on the graph/claim. 
+- You can make a discussion post by taking a screenshot of a graph or statistical claim you see in any non-academic source/media (e.g., news articles, media analysis, books, etc.), and commenting on (1) what type of data may have contributed to the plot/claim, and (2) what kind of graph/statistical test is being discussed or could be conducted on the data being described
 
-- You may also respond to someone else's discussion post by commenting on (1) whether you like/dislike the graph and/or analysis, (2) whether you agree or disagree with the original poster's assessment about the type of graph/statistical test being discussed, and (3) any questions that came to mind based on the graph/claim.
+- You may also respond to someone else's discussion post by commenting on (1) whether you agree or disagree with the original poster's assessment about the type of data and  graph/statistical test being discussed or the data being described, and (2) any questions that came to mind based on the graph/claim or the poster's assessment.
 
 Participation in the discussion board will be assessed in the following manner: 
 
@@ -253,11 +253,11 @@ Attendance will not count towards your grade. If you miss class, it is entirely 
 
 Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
 
-1. Each student has **5 "flex" days** that they can use at their discretion throughout the semester. You can use all 5 days at once for a single assignment and turn in one assignment 5 days late (with no questions asked), OR you can spread the love across different assignments. 
-2. Flex days can be used for quizzes and problem sets unless otherwise stated in class.
+1. Each student has **2 "flex" days** that they can use at their discretion throughout the semester. You can use both days at once for a single assignment and turn in one assignment 2 days late (with no questions asked), OR you can spread the love across different assignments. 
+2. Flex days can ONLY be used for quizzes and **initial attempts** to problem sets unless otherwise stated in class.
 3. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
-4. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 70% of the original points.
-5. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension and any work that is handed in beyond 24 hours after a flex day was requested will either need to use an additional flex day or will be graded on 70% of the original points.
+4. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 90% of the original points if it is 12 hours late, 70% of the original points if it is between 12-24 hours late, and 50% of the original points if it is over 24 hours late.
+5. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension and any work that is handed in beyond 24 hours after a flex day was requested will either need to use an additional flex day or will be graded based on the policy specified in Point 4 above.
 6. To request a flex day, you can send me an email within the 24-hour extension window, or simply leave a comment on your submitted assignment on Canvas. 
 
 ### Inclusion
