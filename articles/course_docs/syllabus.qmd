@@ -165,7 +165,9 @@ Overall, these quizzes contribute 10 TOTAL points towards your final grade, but 
 
 Problem sets are an additional mechanism for you to practice and accumulate points over the course of the semester. Most problem sets will come from the course textbook and will involve solving small problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the [video tutorials](videos.html#tutorial-library) on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform. 
 
-Each problem set is worth 5 points and there will be 7 problem sets throughout the semester. Problem sets will be due roughly every week and will contain 10-15 questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines.
+Each problem set is worth 5 points and there will be 7 problem sets throughout the semester. Problem sets will be due roughly every week and will contain questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines. 
+
+You are **strongly encouraged** to work regularly on the problem sets, i.e., try to attempt problems after each class so that the work does not pile up right before the deadline. You will find that you are able to grasp the concepts and calculations better this way.
 
 All submissions must be made through Canvas. Please make sure to carefully review the [instructions on the submission format](videos.html#submitting-assignments) for these problem sets. 
 
