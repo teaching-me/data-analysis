@@ -101,7 +101,9 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
+This week, you will be submitting the following (on Canvas):
 
+- BCQs!
 ::::
 :::
 

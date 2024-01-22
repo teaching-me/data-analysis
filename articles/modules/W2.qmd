@@ -47,12 +47,9 @@ Please complete the following BEFORE class
 
 
 - Read Chapter 3 from the Gravetter & Wallnau (2017) textbook.
-
-After class, you are encouraged to go over the following video tutorial(s):
-
-- <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a>
-
-- <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a>
+- Video tutorials:
+  - <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a>
+  - <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a>
 
 ::::
 :::

@@ -44,9 +44,7 @@ Please complete the following BEFORE class
 
 - Read Chapter 5 from the Gravetter & Wallnau (2017) textbook.
 
-After class, you are encouraged to go over the following video tutorial(s):
-
-- <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
+- Video tutorial: <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
 
 ::::
 :::

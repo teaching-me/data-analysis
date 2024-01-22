@@ -101,6 +101,7 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 11 Quiz
+- March class survey for extra credit
 - Problem Set 6 due on April 8!
 - Optional Meme
 

@@ -49,14 +49,12 @@ Please complete the following BEFORE class.
 ### Wednesday
 
 - Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or on the Canvas discussion board.
+- Complete the pre-class survey on Canvas!
 
 ### Friday
 
+- Video tutorial: <a href="https://youtu.be/FIkZ1sPmKNw" target="_blank">Introduction to Google Sheets</a>
 - Read Chapter 1 and Appendix A from the Gravetter & Wallnau (2017) textbook.
-
-After class, you are encouraged to go over the following video tutorial(s):
-
-- <a href="https://youtu.be/FIkZ1sPmKNw" target="_blank">Introduction to Google Sheets</a>
 
 
 ::::

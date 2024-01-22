@@ -35,7 +35,7 @@ title: "Syllabus: Data Analysis"
 
 **Email**: edodge\@bowdoin.edu
 
-**Office**: Kanbar Hall, Room 200
+**Office**: Kanbar Hall, Room 101
 
 #### **Yanevith Peña**
 <img width = "30%" height = "auto" src = "../../images/yanevith.jpg"><br>
@@ -45,22 +45,22 @@ title: "Syllabus: Data Analysis"
 
 **Email**: ypena2\@bowdoin.edu
 
-**Office**: Kanbar Hall, Room 200
+**Office**: Kanbar Hall, Room 101
 
 ### Student/Office Hours 
 
 **Abhilasha's office hours (Kanbar 217)**: <br>
 
-- Wednesdays, 2 pm - 4 pm
-- Thursdays, 2 pm - 4 pm
+- **In-person**: Wednesdays, 2 pm - 4 pm
+- **Zoom**: Thursdays, 2 pm - 4 pm (link on Canvas)
 
-**Whitt's office hours (Kanbar 200)**<br>
+**Whitt's office hours (Kanbar 101)**<br>
 
 - Mondays, 7 pm - 8.30 pm
 
-**Yanevith's office hours (Kanbar 200)**<br>
+**Yanevith's office hours (Kanbar 101)**<br>
 
-- Mondays, 3.30 pm - 5 pm
+- Sundays, 3.30 pm - 5 pm
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
 
@@ -86,7 +86,7 @@ My hope as an instructor is to **empower** you with an analytical toolkit that w
 
 **Please make sure you obtain the 10th edition as the problem sets come from the textbook and they vary from one edition to another.**
 	
-You will also need a calculator for weekly quizzes, problem sets, and exams.
+You may also need a calculator for weekly quizzes, problem sets, and exams.
 
 All other course materials (e.g., slides, data, etc.) will be available in a timely fashion on this course website and/or posted on Canvas. 
 
@@ -98,7 +98,7 @@ Weekly learning modules include three components to encourage engagement with th
 
 **PREP**: Most modules have assigned readings from the course textbook. Student are expected to complete the assigned material **before** classes where the material is discussed. 
 
-**TRY**: At the end of each week, there will be a short online quiz where students will be expected to answer questions about the content covered during the week. These quizzes are meant to help you keep track of your progress and will count towards your final grade.
+**TRY**: At the end of each week, there will be a short online [quiz](#weekly-quizzes) where students will be expected to answer questions about the content covered during the week. These quizzes are meant to help you keep track of your progress and will count towards your final grade.
 
 **APPLY**: Every couple weeks, you will also have a problem set due. These problem sets will help you build on the skills you learn in class and review through the quiz, and apply them to new data. There are some [in-built options](#problem-sets) regarding these problem sets that are discussed in detail below.
 
@@ -169,25 +169,27 @@ Each problem set is worth 5 points and there will be 7 problem sets throughout t
 
 You are **strongly encouraged** to work regularly on the problem sets, i.e., try to attempt problems after each class so that the work does not pile up right before the deadline. You will find that you are able to grasp the concepts and calculations better this way.
 
-All submissions must be made through Canvas. Please make sure to carefully review the [instructions on the submission format](videos.html#submitting-assignments) for these problem sets. 
+All submissions must be made through Canvas. Please make sure to carefully review the [instructions on the submission format](videos.html#submitting-assignments) for these problem sets. The document with all problem sets is also available on Canvas.
 
 Some students find it useful to consistently practice problem solving throughout the semester, whereas others are more comfortable with sporadic assessments. You will have the option to choose between two possibilities:
 
 - **Option 1**: You may complete (and grade) all problem sets. If you choose this option: 
-  - You must submit an initial attempt by the deadline for the specific problem set. This initial attempt is worth 2.5 points and will be graded as whether or not you have attempted at least 75% of the problems. An "attempt" only counts if you have genuinely tried to solve the problem and demonstrated your work.To calculate 75%, add up each individual item (e.g., 1a, b, c, d counts as 4 problems) and then take 75% of that total.
-  - Once you receive your initial attempt back and the solution set has been released (by Wednesday), to gain the remaining 2.5 points, you must grade your initial attempt and re-attempt the problems by the resubmission deadline. If you submit a corrected version (that includes ALL corrected problems), you will receive the additional 2.5 points for that problem set. Please follow the template described in this [video](videos.html#submitting-assignments) to submit corrections and explanations. 
+  - You must submit an initial attempt by the deadline for the specific problem set. This initial attempt is worth 2.5 points and will be graded as whether or not you have attempted at least 75% of the problems. An "attempt" only counts if you have genuinely tried to solve the problem and demonstrated your work. To calculate 75%, add up each individual item (e.g., 1a, b, c, d counts as 4 problems) and then take 75% of that total.
+  - Once the solution set has been released and you receive your initial attempt back (by Wednesday), to gain the remaining 2.5 points, you must grade your initial attempt and re-attempt the problems by the resubmission deadline. If you submit a corrected version (that includes ALL corrected problems), you will receive the additional 2.5 points for that problem set. Please follow the template described in this [video](videos.html#submitting-assignments) to submit corrections and explanations. 
 - **Option 2**: You may choose to forego the problem sets and add these points to your exams. Specifically, there will be three deadlines to drop out of doing the problem sets:
   - Deadline 1: At the beginning of the course
   - Deadline 2: After the first midterm
   - Deadline 3: After the second midterm
   
-If you chose to opt out of problem sets, those points will be re-distributed to the exam points for that portion of the semester (e.g., if you opt out at the beginning of the semester, the points for those problem sets are re-allocated to Midterm 1). You must opt out of Option 1 (or back into Option 1) by sending an email so that we both have a record of your decision. Due dates for opting in and out are on the Course Calendar and Canvas. These are hard deadlines. You are strongly encouraged to opt for Option 1 at least through the second midterm. At that point, you may consider opting out. I am happy to meet with anyone who wants to talk about which approach would be best for them.
+If you choose to opt out of problem sets, those points will be re-distributed to the exam points for that portion of the semester (e.g., if you opt out at the beginning of the semester, the 15 points for the first three problem sets are re-allocated to Midterm 1). You must opt out of Option 1 (or back into Option 1) by indicating so on Canvas, so that we both have a record of your decision. Due dates for opting in and out are on the [course schedule](#course-schedule) and Canvas. These are hard deadlines. **You are strongly encouraged to opt for Option 1 at least through the first midterm**. At that point, you may consider opting out. I am happy to meet with anyone who wants to talk about which approach would be best for them.
 
 ### Exams
 
-The two midterm exams are not cumulative. Each exam is divided into two parts: a **conceptual** in-person part and a **computational** take-home part. 
+The two midterm exams are not cumulative. Each exam is divided into two parts: a **conceptual** in-person part and a **computational** take-home part.
+
 - The **conceptual** in-person part includes multiple choice questions, definitions, matching items, and short answer questions. It will be given during our Friday class time. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.
-- The **computational** take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me for help. You cannot ask the Learning Assistants for help of any sort on the quizzes.
+
+- The **computational** take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me for help. 
 
 ### Class participation
 
@@ -249,7 +251,7 @@ Please make sure that your devices are fully charged when you arrive to class. I
 ### Attendance: How many classes can you miss? 
 It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. 
 
-Attendance will not count towards your grade. If you miss class, it is entirely your responsibility to make sure you get notes and keep track of the material. I will be happy to meet to answer questions about the content, but will not redo/review the material outside of class time. You may also make use of LA’s office hours to ask questions about the material.
+Attendance will not count towards your grade. If you miss class, it is entirely your responsibility to make sure you get notes and keep track of the material. I will be happy to meet to answer questions about the content, but will not redo/review the material outside of class time. You may also make use of LA’s office hours to ask **questions** about the material, but they are not expected to redo/review the material with you. 
 
 **Note: If you are sick, please stay home**. 
 
