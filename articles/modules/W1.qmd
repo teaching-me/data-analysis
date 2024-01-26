@@ -90,6 +90,8 @@ Here you will find the slides for each class session as well as links to any dem
 !-->
 
 <a class="btn btn-outline-info" href="../../slides/W1_getting_started.pdf" role="button" target="_blank">W1: Slides 1</a>
+
+<a class="btn btn-outline-info" href="../../slides/W1_statistical_thinking.pdf" role="button" target="_blank">W1: Slides 2</a>
 ::::
 :::
 
@@ -119,6 +121,8 @@ This week, you will be submitting the following:
 - Week 1 Quiz
 - Class survey 
 - Optional Meme
+
+You should also start working on Problem Set 1 (Chapter 1 problems)
 
 ::::
 :::
