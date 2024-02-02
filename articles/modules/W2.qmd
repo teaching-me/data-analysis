@@ -35,21 +35,19 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-Please complete the following BEFORE class
 
-### Wednesday
-
+### Before Wednesday
 
 - Read Chapter 2 from the Gravetter & Wallnau (2017) textbook.
 
+### Before Friday
 
-### Friday
-
-
+- Watch  <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a>
 - Read Chapter 3 from the Gravetter & Wallnau (2017) textbook.
-- Video tutorials:
-  - <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a>
-  - <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a>
+
+### After Friday
+- Watch <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a>
+- Review everything! 
 
 ::::
 :::
@@ -78,9 +76,9 @@ knitr::include_graphics("imgs/try.png")
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
 <a class="btn btn-outline-info" href="../../slides/W2_summarize.pdf" role="button" target="_blank">W2: Slides 1</a>
-<!--
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W2: Slides 2</a>
-!-->
+
+<a class="btn btn-outline-info" href="../../slides/W2_central_tendency.pdf" role="button" target="_blank">W2: Slides 2</a>
+
 
 ::::
 :::
