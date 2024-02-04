@@ -33,18 +33,19 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-Please complete the following BEFORE class
 
-### Wednesday
+### Before Wednesday
 
+- Read Chapters 4 and 5 from the Gravetter & Wallnau (2017) textbook.
 
-- Read Chapter 4 from the Gravetter & Wallnau (2017) textbook.
+### Before Friday
 
-### Friday
+- Watch  <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
+- Read Chapter 6 (Section 6.2 and 6.3) from the Gravetter & Wallnau (2017) textbook.
 
-- Read Chapter 5 from the Gravetter & Wallnau (2017) textbook.
-
-- Video tutorial: <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
+### After Friday
+- Review everything! 
+- Work on Problem Set #2
 
 ::::
 :::
