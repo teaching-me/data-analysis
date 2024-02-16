@@ -77,6 +77,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W4_correlation_regression.pdf" role="button" target="_blank">W4: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W4_correlations_2.pdf" role="button" target="_blank">W4: Slides 2</a>
+
 
 
 
