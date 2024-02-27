@@ -34,16 +34,20 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-Please complete the following BEFORE class
+### Before Wednesday
 
-### Tuesday
+- Read Chapter 6 (Sections 6.1, 6.4, and 6.5) from the Gravetter & Wallnau (2017) textbook.
 
-- Read Chapter 6 from the Gravetter & Wallnau (2017) textbook.
-
-
-### Thursday
+### Before Friday
 
 - Read Chapter 7 from the Gravetter & Wallnau (2017) textbook.
+
+
+### After Friday
+
+- Review your Exam 1 performance
+- Decide if you want to opt-out of Problem Sets
+- Work on Problem Set #4 (due March 11)
 ::::
 :::
 ::::
