@@ -76,6 +76,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W6_probability.pdf" role="button" target="_blank">W6: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W6_sampling.pdf" role="button" target="_blank">W6: Slides 2</a>
+
 
 ::::
 :::
