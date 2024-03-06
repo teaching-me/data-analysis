@@ -70,8 +70,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W6: Slides 1</a>
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W6: Slides 2</a>
+<a class="btn btn-outline-info" href="../../slides/W7_hypothesis_testing.pdf" role="button" target="_blank">W7: Slides 1</a>
 
 
 ::::
@@ -101,10 +100,8 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 7 Quiz
-- Problem Set 4 due on March 11!
+- Problem Set 4 due on March 12!
 - Optional Meme
-
-You will also be working with your group to complete the HW assigned in class about data recording.
 
 ::::
 :::
