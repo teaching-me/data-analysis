@@ -1,6 +1,6 @@
 ---
 title: "W10: Modeling Relationships I"
-description: "Welcome back!! This is the module for Week 10. We will revisit linear models via hypothesis testing and also introduce newer types of data"
+description: "Welcome back!! This is the module for Week 10. We will revisit hypothesis testing, t-tests, and linear models!"
 order: 7
 ---
 
@@ -13,7 +13,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Revisit ideas of correlation and regression for hypothesis testing
+- Revisit ideas of hypothesis testing and t-test
+- Review correlation and regression
 - Describe and understand basic models for categorical data
 - Re-introduce t-tests and its variations
 
@@ -34,21 +35,26 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-Please complete the following BEFORE class
+### Before Wednesday
 
-### Wednesday
-
+- Review <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a> [10 min] and <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a> [7.5 min] videos
+- Review [W7](../modules/W7.html#slides) slides!
 - Read Chapter 16 (Section 16.2) from the Gravetter & Wallnau (2017) textbook.
 - Read Chapter 15 (Section 15.4) from the Gravetter & Wallnau (2017) textbook.
 
-### Friday
+### Before Friday
 
-Please complete the following BEFORE class:
+- Watch <a href="https://drive.google.com/file/d/1xeFdH3wDgfJZ--BBmjQgIjIeNnnCl3i1/view?usp=sharing" target="_blank">Hypothesis Testing (Pearson correlation) </a> [8 min]
+- Watch <a href="https://drive.google.com/file/d/1ga-NhaRGGFedn0YJhA4GcqnlszORI_1q/view?usp=drive_link" target="_blank"> Hypothesis Testing (Linear regression: t-test) </a> [14 min]
 
-- Re-read Chapter 9 from the Gravetter & Wallnau (2017) textbook.
+
+### After Friday
+
+- Watch <a href="https://drive.google.com/file/d/1ynV0050sH3nLTdXqBjMGGw0NzXQgKcAC/view?usp=drive_link" target="_blank">Hypothesis Testing (Linear regression: F-test) </a> [13.5 min]
 - Read Chapter 10 from the Gravetter & Wallnau (2017) textbook.
-
-
+- Watch <a href="https://drive.google.com/file/d/15N2JiDs8FTGL83B1Ker0xwnsE_vbBR7b/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: t-test) </a> [11 min]
+- Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: F-test) </a> [12 min]
+- Work on Problem Set 5!
 
 ::::
 :::
@@ -107,7 +113,7 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 10 Quiz
-- Problem Set 5 due on April 1!
+- Problem Set 5 due on April 2!
 - Optional Meme
 
 ::::
