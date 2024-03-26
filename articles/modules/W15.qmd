@@ -34,7 +34,11 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Wednesday
 
-- TBD
+- Complete all practice assessments, review the material, and bring questions to class!
+
+### Friday
+
+- Final exam (cumulative!)
 
 
 
@@ -92,8 +96,8 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 15 Quiz
-- April class survey for extra credit
+- Final Exam computational worksheet
+- April/May class survey for extra credit
 - Optional Meme
 
 ::::

@@ -32,7 +32,6 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-Please complete the following BEFORE class
 
 ### Wednesday
 

@@ -32,17 +32,13 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
 
 Please complete the following BEFORE class:
 
-- TBD
+- ALL <i>Data Around Us </i> discussion board posts
+- ALL meme submissions
+- ALL PS submissions/revisions
 
-### Thursday
-
-Please complete the following BEFORE class:
-
-- TBD
 
 ::::
 :::
