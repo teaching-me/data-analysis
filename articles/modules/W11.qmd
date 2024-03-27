@@ -36,13 +36,20 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class
 
-### Wednesday
+### Before Wednesday
 
-- Read Chapter 12 from the Gravetter & Wallnau (2017) textbook.
+- Review [W10](../modules/W10.html#slides) slides on F-test and t-test!
+- [optional] Read Chapter 12 from the Gravetter & Wallnau (2017) textbook.
 
-### Friday
+### Before Friday
+- Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: F-test) </a> [12 min]
+- Watch <a href="https://drive.google.com/file/d/1vTOd9K0wxKDy7s1YmsIaTC-FE3dxtzjr/view?usp=sharing" target="_blank">Hypothesis Testing (one-way ANOVA: F-test) </a> [18 min]
+- [optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook.
 
-- Read Chapter 14 from the Gravetter & Wallnau (2017) textbook.
+### After Friday
+
+- Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min]
+- Work on Problem Set 6!
 
 ::::
 :::
