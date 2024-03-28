@@ -45,7 +45,7 @@ knitr::include_graphics("imgs/prep.png")
 ### Before Friday
 
 - Watch <a href="https://drive.google.com/file/d/1xeFdH3wDgfJZ--BBmjQgIjIeNnnCl3i1/view?usp=sharing" target="_blank">Hypothesis Testing (Pearson correlation) </a> [8 min]
-- Watch <a href="https://drive.google.com/file/d/1ga-NhaRGGFedn0YJhA4GcqnlszORI_1q/view?usp=drive_link" target="_blank"> Hypothesis Testing (Linear regression: t-test) </a> [14 min]
+- Watch <a href="https://drive.google.com/file/d/1SCGHcyaPTyodO8yOl3TvUU5m-HmJ50PD/view?usp=sharing" target="_blank"> Hypothesis Testing (Linear regression: t-test) </a> [14 min]
 
 
 ### After Friday
