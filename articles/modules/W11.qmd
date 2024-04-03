@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Discuss how to fit models with categorical predictors
+- Discuss how to fit models with categorical/nominal predictors
 - Re-introduce ANOVAs and its variations
 - Connect multiple regression to factorial designs
 
@@ -77,8 +77,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W11: Slides 1</a>
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W11: Slides 2</a>
+<a class="btn btn-outline-info" href="../../slides/W11_anovas.pdf" role="button" target="_blank">W11: Slides 1</a>
 
 
 ::::
@@ -107,9 +106,8 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 11 Quiz
 - March class survey for extra credit
-- Problem Set 6 due on April 8!
+- Problem Set 6 due on April 9!
 - Optional Meme
 
 ::::
