@@ -15,7 +15,6 @@ knitr::opts_chunk$set(
 
 - Discuss how to fit models with categorical/nominal predictors
 - Re-introduce ANOVAs and its variations
-- Connect multiple regression to factorial designs
 
 ## Prep 
 
@@ -44,12 +43,12 @@ Please complete the following BEFORE class
 ### Before Friday
 - Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: F-test) </a> [12 min]
 - Watch <a href="https://drive.google.com/file/d/1vTOd9K0wxKDy7s1YmsIaTC-FE3dxtzjr/view?usp=sharing" target="_blank">Hypothesis Testing (one-way ANOVA: F-test) </a> [18 min]
-- [optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook.
+
 
 ### After Friday
 
-- Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min]
 - Work on Problem Set 6!
+- Complete all practice assessments, review the material, and bring questions to class!
 
 ::::
 :::

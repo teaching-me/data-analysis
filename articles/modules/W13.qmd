@@ -1,5 +1,5 @@
 ---
-title: "W13: Non-Independent Data"
+title: "W13: Factorial Designs"
 description: "This is the module for Week 13. We will discuss how to model data that are non-independent"
 order: 10
 ---
@@ -13,8 +13,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Discuss paired t-tests
-- Discuss repeated measures ANOVA
+- Discuss factorial designs
+
 
 ## Prep 
 
@@ -32,16 +32,19 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Wednesday
+### Before Wednesday
 
 Please complete the following BEFORE class:
 
-- Read Chapter 11 from the Gravetter & Wallnau (2017) textbook.
+- [optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook.
 
+### Before Friday
 
-### Friday
+- Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min]
 
-- Read Chapter 13 from the Gravetter & Wallnau (2017) textbook.
+### After Friday
+
+- Start working on Problem Set #7!
 
 ::::
 :::
@@ -68,10 +71,6 @@ knitr::include_graphics("imgs/try.png")
 ### Slides
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
-
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W13: Slides 1</a>
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W13: Slides 2</a>
-
 
 ::::
 :::

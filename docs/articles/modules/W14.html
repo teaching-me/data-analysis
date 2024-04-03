@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.313">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="This is the module for Week 14. We will learn about how to model data that violate assumptions or have formats that we haven’t discussed yet!">
+<meta name="description" content="This is the module for Week 14. We will discuss how to model data that are non-independent. We will also learn about how to model data that violate assumptions or have formats that we haven’t discussed yet!">
 
 <title>data-analysis - W14: Miscellaneous Data</title>
 <style>
@@ -72,10 +72,10 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="data-analysis - W14: Miscellaneous Data">
-<meta property="og:description" content="This is the module for Week 14. We will learn about how to model data that violate assumptions or have formats that we haven't discussed yet!">
+<meta property="og:description" content="This is the module for Week 14. We will discuss how to model data that are non-independent.">
 <meta property="og:site-name" content="data-analysis">
 <meta name="twitter:title" content="data-analysis - W14: Miscellaneous Data">
-<meta name="twitter:description" content="This is the module for Week 14. We will learn about how to model data that violate assumptions or have formats that we haven't discussed yet!">
+<meta name="twitter:description" content="This is the module for Week 14. We will discuss how to model data that are non-independent.">
 <meta name="twitter:creator" content="@abhilashaakumar">
 <meta name="twitter:card" content="summary">
 </head>
@@ -197,7 +197,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W13.html" class="sidebar-item-text sidebar-link">W13: Non-Independent Data</a>
+  <a href="../../articles/modules/W13.html" class="sidebar-item-text sidebar-link">W13: Factorial Designs</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -241,7 +241,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 <div>
   <div class="description">
-    This is the module for Week 14. We will learn about how to model data that violate assumptions or have formats that we haven’t discussed yet!
+    This is the module for Week 14. We will discuss how to model data that are non-independent. We will also learn about how to model data that violate assumptions or have formats that we haven’t discussed yet!
   </div>
 </div>
 
@@ -259,6 +259,8 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <section id="goals" class="level2">
 <h2 class="anchored" data-anchor-id="goals">Goals</h2>
 <ul>
+<li>Discuss paired t-tests</li>
+<li>Discuss repeated measures ANOVA</li>
 <li>Discuss non-continuous data</li>
 <li>Introduce non-parametric tests</li>
 <li>Discuss how to approach statistical analyses and/or research design</li>
@@ -274,7 +276,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/prep.png" class="img-fluid figure-img"></p>
+<p><img src="imgs/prep.png" class="img-fluid figure-img" width="312"></p>
 </figure>
 </div>
 </div>
@@ -287,11 +289,18 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <section id="wednesday" class="level3">
 <h3 class="anchored" data-anchor-id="wednesday">Wednesday</h3>
 <ul>
-<li>Read Chapter 17 from the Gravetter &amp; Wallnau (2017) textbook.</li>
+<li>[optional] Read Chapter 11 from the Gravetter &amp; Wallnau (2017) textbook.</li>
+<li>[optional] Read Chapter 13 from the Gravetter &amp; Wallnau (2017) textbook.</li>
 </ul>
 </section>
-<section id="friday" class="level3">
-<h3 class="anchored" data-anchor-id="friday">Friday</h3>
+<section id="before-friday" class="level3">
+<h3 class="anchored" data-anchor-id="before-friday">Before Friday</h3>
+<ul>
+<li>[optional] Read Chapter 17 from the Gravetter &amp; Wallnau (2017) textbook.</li>
+</ul>
+</section>
+<section id="after-friday" class="level3">
+<h3 class="anchored" data-anchor-id="after-friday">After Friday</h3>
 <ul>
 <li>Read about <a href="https://statsthinking21.github.io/statsthinking21-core-site/resampling-and-simulation.html">resampling and bootstrapping</a></li>
 </ul>
@@ -311,7 +320,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/try.png" class="img-fluid figure-img"></p>
+<p><img src="imgs/try.png" class="img-fluid figure-img" width="312"></p>
 </figure>
 </div>
 </div>
@@ -322,7 +331,6 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <section id="slides" class="level3 card-body">
 <h3 class="anchored" data-anchor-id="slides">Slides</h3>
 <p>Here you will find the slides for each class session as well as links to any demos/activities we may do in class.</p>
-<p><a class="btn btn-outline-info" href="" role="button" target="_blank">W14: Slides 1</a> <a class="btn btn-outline-info" href="" role="button" target="_blank">W14: Slides 2</a></p>
 </section>
 </div>
 </div>
@@ -338,7 +346,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/apply.png" class="img-fluid figure-img"></p>
+<p><img src="imgs/apply.png" class="img-fluid figure-img" width="288"></p>
 </figure>
 </div>
 </div>

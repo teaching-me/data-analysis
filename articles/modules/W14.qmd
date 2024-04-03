@@ -1,6 +1,6 @@
 ---
 title: "W14: Miscellaneous Data"
-description: "This is the module for Week 14. We will learn about how to model data that violate assumptions or have formats that we haven't discussed yet!"
+description: "This is the module for Week 14. We will discuss how to model data that are non-independent. We will also learn about how to model data that violate assumptions or have formats that we haven't discussed yet!"
 order: 11
 ---
 
@@ -13,6 +13,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
+- Discuss paired t-tests
+- Discuss repeated measures ANOVA
 - Discuss non-continuous data
 - Introduce non-parametric tests
 - Discuss how to approach statistical analyses and/or research design
@@ -39,10 +41,14 @@ Please complete the following BEFORE class:
 ### Wednesday
 
 
-- Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.
+- [optional] Read Chapter 11 from the Gravetter & Wallnau (2017) textbook.
+- [optional] Read Chapter 13 from the Gravetter & Wallnau (2017) textbook.
 
+### Before Friday
 
-### Friday
+- [optional] Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.
+
+### After Friday
 
 - Read about [resampling and bootstrapping](https://statsthinking21.github.io/statsthinking21-core-site/resampling-and-simulation.html)
 
@@ -72,9 +78,6 @@ knitr::include_graphics("imgs/try.png")
 ### Slides
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
-
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W14: Slides 1</a>
-<a class="btn btn-outline-info" href="" role="button" target="_blank">W14: Slides 2</a>
 
 
 ::::
