@@ -3,6 +3,38 @@ title: "Video tutorials"
 description: "This page hosts video tutorials for working with data using Google Sheets as well as instructions for submitting data-based assignments"
 ---
 
+
+## Tutorial Library
+
+Visit each of the links below to learn about how to conduct simple statistical analyses in Google Sheets. You will be expected to conduct these analyses in problem sets and exams. 
+
+1. <a href="https://youtu.be/FIkZ1sPmKNw" target="_blank">Introduction to Google Sheets</a> [14 min]
+
+2. <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a> [32 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1gttiACvs_Hl6KUrPClquHqojyiR_tWvzNi6r7cQ_Sco/edit?usp=sharing)
+
+3. <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a> [16 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1zLSI3JOpme0AD-OBq6xPY_2kRSbG3eG_7vXCFnQZmfI/edit?usp=sharing)
+
+4. <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a> [8 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1tLnMaEC2yQvTvr6VeealI2ZKt7Mfly2DlD77chUxrho/edit?usp=sharing)
+
+5. <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a> [10 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/10Qt8QBd-l6da4as99_5jtqqxVXfKs8yOI9qILnbiDFo/edit?usp=drive_link)
+
+6. <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a> [8 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/10Qt8QBd-l6da4as99_5jtqqxVXfKs8yOI9qILnbiDFo/edit?usp=drive_link)
+
+7. <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a> [15 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/10Qt8QBd-l6da4as99_5jtqqxVXfKs8yOI9qILnbiDFo/edit?usp=drive_link)
+
+8. <a href="https://drive.google.com/file/d/1xeFdH3wDgfJZ--BBmjQgIjIeNnnCl3i1/view?usp=sharing" target="_blank">Hypothesis Testing (Pearson correlation: t-test) </a> [8 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1FpF26OTQ5wWNIWKfUGxjNnhp7k46Cl6QS1UTaEklxQA/edit?usp=sharing)
+
+9. <a href="https://drive.google.com/file/d/1SCGHcyaPTyodO8yOl3TvUU5m-HmJ50PD/view?usp=sharing" target="_blank"> Hypothesis Testing (Linear regression: t-test) </a> [14 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1FpF26OTQ5wWNIWKfUGxjNnhp7k46Cl6QS1UTaEklxQA/edit?usp=sharing)
+
+10. <a href="https://drive.google.com/file/d/1ynV0050sH3nLTdXqBjMGGw0NzXQgKcAC/view?usp=drive_link" target="_blank">Hypothesis Testing (Linear regression: F-test) </a> [13.5 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1FpF26OTQ5wWNIWKfUGxjNnhp7k46Cl6QS1UTaEklxQA/edit?usp=sharing)
+
+11. <a href="https://drive.google.com/file/d/15N2JiDs8FTGL83B1Ker0xwnsE_vbBR7b/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: t-test) </a> [11 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1sLI5W5TJsfbE43uBtnn8CvSSxYMi-TEMTZ8eeot_ymc/edit?usp=sharing)
+
+12. <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: F-test) </a> [12 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1sLI5W5TJsfbE43uBtnn8CvSSxYMi-TEMTZ8eeot_ymc/edit?usp=sharing)
+
+13. <a href="https://drive.google.com/file/d/1vTOd9K0wxKDy7s1YmsIaTC-FE3dxtzjr/view?usp=sharing" target="_blank">Hypothesis Testing (one-way ANOVA: F-test) </a> [18 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1y-QYZo_ECkmbpYPvOkgzrWmlglbzP3A5E7YdJbWZutM/edit?usp=drive_link)
+
+
 ## Submitting assignments
 
 For all problem sets or exams you complete in this course, you will be provided small to medium-sized datasets that you will need to conduct a set of analyses on using Google Sheets. The videos on this page will help you conduct these analyses as well as guide you through the process of submission from start to finish.
@@ -24,34 +56,3 @@ For all problem sets or exams you complete in this course, you will be provided 
 !-->
 
 
-## Tutorial Library
-
-Visit each of the links below to learn about how to conduct simple statistical analyses in Google Sheets. You will be expected to conduct these analyses in problem sets and exams. 
-
-1. <a href="https://youtu.be/FIkZ1sPmKNw" target="_blank">Introduction to Google Sheets</a>
-
-2. <a href="https://drive.google.com/file/d/198UgYH2am7THaPztrXmS8GFQY3F4el-E/view?usp=sharing" target="_blank">Summarizing data </a>
-
-3. <a href="https://drive.google.com/file/d/1xEqhRtPxg36sR297cu7vMwmAmwJkyVve/view?usp=drive_link" target="_blank">Central Tendencies </a>
-
-3. <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
-
-3. <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a>
-
-3. <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a>
-
-3. <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a>
-
-<!--
-
-5. Hypothesis Testing (z-test)
-
-6. Hypothesis Testing (correlation & regression)
-
-7. Hypothesis Testing (t-tests)
-
-8. Hypothesis Testing (ANOVAs)
-
-9. Hypothesis Testing (Chi-square)
-
-!-->
