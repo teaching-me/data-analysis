@@ -1,5 +1,5 @@
 ---
-title: "W13: Additional Predicrtors"
+title: "W13: Additional Predictors"
 description: "This is the module for Week 13. We will discuss how to model data using more than one predictor"
 order: 10
 ---
@@ -41,7 +41,7 @@ Please complete the following BEFORE class:
 
 ### Before Friday
 
-- Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min]
+- Watch <a href="https://drive.google.com/file/d/1aDFkG_VUMJUEkNoE0Y21XhAZgD7yLU6W/view?usp=sharing" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min]
 
 ### After Friday
 
