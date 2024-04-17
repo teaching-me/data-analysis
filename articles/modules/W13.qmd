@@ -73,6 +73,8 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
+<a class="btn btn-outline-info" href="../../slides/W13_additional_predictors.pdf" role="button" target="_blank">W13: Slides</a>
+
 ::::
 :::
 
