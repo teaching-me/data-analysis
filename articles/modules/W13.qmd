@@ -1,6 +1,6 @@
 ---
-title: "W13: Factorial Designs"
-description: "This is the module for Week 13. We will discuss how to model data that are non-independent"
+title: "W13: Additional Predicrtors"
+description: "This is the module for Week 13. We will discuss how to model data using more than one predictor"
 order: 10
 ---
 
@@ -14,6 +14,7 @@ knitr::opts_chunk$set(
 ## Goals
 
 - Discuss factorial designs
+- Discuss multiple regression
 
 
 ## Prep 
