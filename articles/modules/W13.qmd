@@ -73,7 +73,9 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W13_additional_predictors.pdf" role="button" target="_blank">W13: Slides</a>
+<a class="btn btn-outline-info" href="../../slides/W13_additional_predictors_1.pdf" role="button" target="_blank">W13: Slides 1</a>
+
+<a class="btn btn-outline-info" href="../../slides/W13_additional_predictors_2.pdf" role="button" target="_blank">W13: Slides 2</a>
 
 ::::
 :::
@@ -103,6 +105,7 @@ This week, you will be submitting the following (on Canvas):
 
 - Week 13 Quiz
 - Optional Meme
+- Canvas discussion board post OR practice questions!
 
 ::::
 :::

@@ -146,8 +146,8 @@ There are multiple ways for students to engage with class and course materials a
 | [Exam: Midterm 2](#exams)     |       15 | 
 | [Exam: Final](#exams)      |      20  | 
 | [Class participation](#class-participation)      |      5  | 
-| [Extra credit](#extra-credit) | 5 |  
-|           Total        |   105     |     |
+| [Extra credit](#extra-credit) | 4 |  
+|           Total        |   104     |     |
 
 
 Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](#late-work-policy)).
