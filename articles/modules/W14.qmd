@@ -17,7 +17,6 @@ knitr::opts_chunk$set(
 - Discuss repeated measures ANOVA
 - Discuss non-continuous data
 - Introduce non-parametric tests
-- Discuss how to approach statistical analyses and/or research design
 
 ## Prep 
 
@@ -46,11 +45,14 @@ Please complete the following BEFORE class:
 
 ### Before Friday
 
+- Watch <a href="https://drive.google.com/file/d/1uOQEaG6Y8qtFtL7dzvkmQf9EwgOI-sU1/view?usp=sharing" target="_blank">Dependent Groups t-test </a> [6 min]
+- Watch <a href="https://drive.google.com/file/d/1UzjppvZhRpoOlARZv01KiSG1RuKo97dU/view?usp=drive_link" target="_blank">Repeated Measures ANOVA </a> [16 min]
 - [optional] Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.
 
 ### After Friday
 
-- Read about [resampling and bootstrapping](https://statsthinking21.github.io/statsthinking21-core-site/resampling-and-simulation.html)
+- Watch <a href="https://drive.google.com/file/d/1wlatMsrdIqa3tfGPCwIw9Vma-ygRdQg0/view?usp=sharing" target="_blank">Chi-square Goodness of Fit Test </a> [13 min]
+- Watch <a href="https://drive.google.com/file/d/1O7ecae2KLkrBCceNmuTMGz7TVBNRyD04/view?usp=drive_link" target="_blank">Chi-square Test of Independence </a> [11 min]
 
 
 ::::
@@ -109,6 +111,8 @@ This week, you will be submitting the following (on Canvas):
 - Week 14 Quiz
 - Problem Set 7 due on April 30!
 - Optional Meme
+- Canvas discussion board post OR practice questions!
+
 
 ::::
 :::

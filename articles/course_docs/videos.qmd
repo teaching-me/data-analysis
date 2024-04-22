@@ -36,6 +36,16 @@ Visit each of the links below to learn about how to conduct simple statistical a
 
 14. <a href="https://drive.google.com/file/d/1udtNFQMpI53oQKv5b8-5Cujm1Xry-ONG/view?usp=sharing" target="_blank">Completing F tables </a> [8 min]
 
+15. <a href="https://drive.google.com/file/d/1aDFkG_VUMJUEkNoE0Y21XhAZgD7yLU6W/view?usp=sharing" target="_blank">Factorial ANOVA </a> [33 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1cZYeVF1hO5bgklITBCxFZgXuU_olaD9QmhgPRkRuPNc/edit?usp=sharing)
+
+16. <a href="https://drive.google.com/file/d/1uOQEaG6Y8qtFtL7dzvkmQf9EwgOI-sU1/view?usp=sharing" target="_blank">Dependent Groups t-test </a> [6 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1D6vnu9QXpcavVchUgVSYapY9pi6O49cmDZr92YxXhJo/edit?usp=sharing)
+
+17. <a href="https://drive.google.com/file/d/1UzjppvZhRpoOlARZv01KiSG1RuKo97dU/view?usp=drive_link" target="_blank">Repeated Measures ANOVA </a> [16 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/1pLwb9_jb80ldLOBQfY0CdOyQ1foMUb8nh7_g3fSpghY/edit?usp=sharing)
+
+18. <a href="https://drive.google.com/file/d/1wlatMsrdIqa3tfGPCwIw9Vma-ygRdQg0/view?usp=sharing" target="_blank">Chi-square Goodness of Fit Test </a> [13 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/19dq0aATbCrN7zQGfgGqQR1fjO5Gn1M709LJzacOh6kg/edit?usp=sharing)
+
+19. <a href="https://drive.google.com/file/d/1O7ecae2KLkrBCceNmuTMGz7TVBNRyD04/view?usp=drive_link" target="_blank">Chi-square Test of Independence </a> [11 min] [[Sheets solution]](https://docs.google.com/spreadsheets/d/19dq0aATbCrN7zQGfgGqQR1fjO5Gn1M709LJzacOh6kg/edit?usp=sharing)
+
 ## Submitting assignments
 
 For all problem sets or exams you complete in this course, you will be provided small to medium-sized datasets that you will need to conduct a set of analyses on using Google Sheets. The videos on this page will help you conduct these analyses as well as guide you through the process of submission from start to finish.
