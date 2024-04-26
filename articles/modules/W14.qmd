@@ -83,6 +83,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W14_dependent_data.pdf" role="button" target="_blank">W14: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W14_chi_square.pdf" role="button" target="_blank">W14: Slides 2</a>
+
 
 
 ::::
