@@ -68,8 +68,11 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
+<a class="btn btn-outline-info" href="../../slides/W15_review.pdf" role="button" target="_blank">W15: Review Slides</a>
+
 ::::
 :::
+
 
 
 ::::
