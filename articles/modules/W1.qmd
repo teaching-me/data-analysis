@@ -48,8 +48,8 @@ Please complete the following BEFORE class.
 
 ### Before/End of Tuesday
 
-- Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or on the Canvas discussion board.
-- Complete the pre-class survey on Canvas!
+- Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or on the pre-class survey.
+- Complete the <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/assignments/73288?module_item_id=430220" target="_blank">Pre-class survey</a></span>!
 
 ### Before Thursday
 
