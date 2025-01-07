@@ -32,13 +32,13 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Wednesday
+### Tuesday
 
 - Complete all practice assessments, review the material, and bring questions to class!
 
-### Friday
+### Thursday
 
-- Final exam (cumulative!)
+- Complete all practice assessments, review the material, and bring questions to class!
 
 
 
@@ -68,7 +68,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W15_review.pdf" role="button" target="_blank">W15: Review Slides</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W15_review.pdf" role="button" target="_blank">W15: Review Slides</a> -->
 
 ::::
 :::
@@ -97,9 +97,9 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Canvas discussion board post/Practice questions! (due May 2)
-- Final Exam computational (due May 7)
-- Optional Meme
+<!-- - Canvas discussion board post/Practice questions! (due May 2) -->
+<!-- - Final Exam computational (due May 7) -->
+<!-- - Optional Meme -->
 
 ::::
 :::

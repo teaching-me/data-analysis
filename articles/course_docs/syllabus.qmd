@@ -5,9 +5,9 @@ title: "Syllabus: Data Analysis"
 ### Basic Course Information
 
 **Course number**: PSYC 2520<br>
-**Semester**: Spring 2024 </u><br>
-**When**: Wednesdays & Fridays, 10.05-11.30 AM<br>
-**Where**: Mills 127 <br>
+**Semester**: Spring 2025 </u><br>
+**When**: Tuesdays & Thursdays, 1.15 PM - 2.40 PM<br>
+**Where**: TBD <br>
 **Website**: You are here!<br>
 **Pre-requisites**: Two of: <br>
 
@@ -27,40 +27,39 @@ title: "Syllabus: Data Analysis"
 **Office**: Kanbar Hall, Room 217
 
 ### Who are your learning assistants?
-#### **Whitt Dodge**
-<img width = "30%" height = "auto" src = "../../images/whitt.jpg"><br>
-**Pronouns**: he/him
-
-**About me**: I am a junior Biology and Gender, Sexuality, and Women’s Studies major with a minor in Psychology. I took Data Analysis last spring and really enjoyed it, so I am super excited to be one of the learning assistants this semester. I enjoy skiing, hiking, rock climbing, and rugby in my free time. I have one of the most basic dogs on the planet (Kudos if you can guess her name and breed), and my favorite animal is a snake. I can’t wait to meet you all!  <br>
-
-**Email**: edodge\@bowdoin.edu
-
-**Office**: Kanbar Hall, Room 101
-
-#### **Yanevith Peña**
-<img width = "30%" height = "auto" src = "../../images/yanevith.jpg"><br>
+#### **Sydney Morrison**
+<img width = "30%" height = "auto" src = "../../images/sydney.jpg"><br>
 **Pronouns**: she/her
 
-**About me**: Hi everyone! I am an international student from Venezuela, neuroscience/education major. I took this course last spring and really enjoyed it! Last fall, I was abroad at the University of Edinburgh where I continued to learn more about data analysis and ethics in scientific research. Outside of school, I love to bake, crochet/knit, sew, and the outdoors. I am really excited to be one of your LAs and to meet you all during class and LA hours, please come say hi! [Picture is of me hiking Edinburgh’s resident ancient volcano]<br>
+**About me**: I am a junior Psychology and Government double major with a minor in music! I am from Dedham, MA, and am just getting back from my semester abroad in Athens, Greece. In my free time, I love to sing with my a cappella group (Missy!) and to explore the outdoors! I was nervous before taking Data Analysis last spring, but I ended up really enjoying the course and learning so much. I am excited to be a resource for you all and please feel free to contact me with any questions!  <br>
 
-**Email**: ypena2\@bowdoin.edu
+**Email**: smorrison\@bowdoin.edu
+
+**Office**: TBD
+
+#### **Jon Sides**
+<img width = "30%" height = "auto" src = "../../images/jon.png"><br>
+**Pronouns**: he/him
+
+**About me**: I am a senior from Minnesota/Connecticut majoring in psychology and math. I am interested in clinical neuroscience and statistics, and I did language comprehension research in Prof. Kumar’s lab. I was also a barista for five years. Outside school, my interests include hockey, coffee, makeup, Star Wars, and musicals. Last fall, I studied abroad in Copenhagen.<br>
+
+**Email**: jsides\@bowdoin.edu
 
 **Office**: Kanbar Hall, Room 101
 
 ### Student/Office Hours 
 
-**Abhilasha's office hours (Kanbar 217)**: <br>
+**Prof. Kumar's office hours (Kanbar 217)**: <br>
 
-- **In-person**: Wednesdays, 2 pm - 5 pm
-- **Zoom**: Thursdays, 2 pm - 4 pm (link on Canvas)
+TBD
 
-**Whitt's office hours (Kanbar 101)**<br>
+**Sydney's office hours (Kanbar 101)**<br>
 
-- Tuesdays, 4.15 pm - 5.45 pm
+TBD
 
-**Yanevith's office hours (Kanbar 101)**<br>
+**Jon's office hours (Kanbar 101)**<br>
 
-- Sundays, 3.30 pm - 5 pm
+TBD
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
 
@@ -76,17 +75,15 @@ This course counts towards Bowdoin's  [MCSR](https://bowdoin-public.courseleaf.c
 
 My hope as an instructor is to **empower** you with an analytical toolkit that will not only prepare you for other psychology courses you may take in your academic career, but also apply to other areas of your life. At the end of this course, you will be able to: <br>
 
-1. <span style="color:#E7AC10">Understand</span> data, uncertainty, and the logic behind statistical thinking [Department Goal #5]
-2. <span style="color:#508AB0">Evaluate</span> scientific and non-scientific work by applying a statistical toolkit to specific claims and questions [Department Goal #4]
-3. <span style="color:#1CB447">Communicate</span> through numbers, graphs, and scientific writing [Department Goal #7]
+1. <span style="color:#E7AC10">Describe</span> the *conceptual* principles behind statistical thinking and uncertainty [Department Goal #1]
+2. <span style="color:#508AB0">Apply</span> a *computational and statistical* toolkit to test specific claims and questions [Department Goal #5]
+3. <span style="color:#1CB447">Communicate</span> effectively through numbers, graphs, and scientific writing [Department Goal #7]
 
 ### Course textbook
 
 - Gravetter, F. J., & Wallnau, L. B. (2017). Statistics for the Behavioral Sciences (10th ed.). Belmont, CA: Thomson Wadsworth. 
 
 **Please make sure you obtain the 10th edition as the problem sets come from the textbook and they vary from one edition to another.**
-	
-You may also need a calculator for weekly quizzes, problem sets, and exams.
 
 All other course materials (e.g., slides, data, etc.) will be available in a timely fashion on this course website and/or posted on Canvas. 
 
@@ -96,11 +93,11 @@ There are 15.5 total weeks in this course.This is an **in-person** class.
 
 Weekly learning modules include three components to encourage engagement with the data and statistics in different ways.
 
-**PREP**: Most modules have assigned readings from the course textbook. Student are expected to complete the assigned material **before** classes where the material is discussed. 
+**PREP**: Most modules have some assigned material before class (a reading from the textbook or a video to watch). Student are expected to complete the assigned material **before** classes where the material is discussed. 
 
-**TRY**: At the end of each week, there will be a short online [quiz](#weekly-quizzes) where students will be expected to answer questions about the content covered during the week. These quizzes are meant to help you keep track of your progress and will count towards your final grade.
+**TRY**: At the end of each week, there will be a short online [quiz](#weekly-quizzes) where students will be expected to answer conceptual questions about the content covered during the week. These quizzes are meant to help you keep track of your progress and will count towards your final grade.
 
-**APPLY**: Every couple weeks, you will also have a problem set due. These problem sets will help you build on the skills you learn in class and review through the quiz, and apply them to new data. There are some [in-built options](#problem-sets) regarding these problem sets that are discussed in detail below.
+**APPLY**: Every week, you will also have a problem set due. These problem sets will help you build on the *computational* skills you learn in class and through watching the videos, and apply them to new data. There is some flexibility with how these [problem sets](#problem-sets) can be completed that are discussed in detail below.
 
 
 ## Course Schedule
@@ -108,7 +105,7 @@ Weekly learning modules include three components to encourage engagement with th
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
 #library(data.table)
 library(readxl)
-Lectures <- read_excel("data_2024_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures <- read_excel("data_2025_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
 Lectures$Week <- as.character(Lectures$Week)
 Lectures[is.na(Lectures)] <- " "
 knitr::kable(Lectures)
@@ -134,7 +131,7 @@ The grading scale for this class is as follows:
 
 Grades will be determined based on the following rubric, which is based on emphasizing our [three learning goals](#why-take-this-course-a.k.a.-learning-goals).
 
-There are multiple ways for students to engage with class and course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
+There are multiple ways for students to engage with class and course materials and achieve their desired grade. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
 
 ### Points
 
@@ -155,7 +152,7 @@ Please note that all assignments **must** be submitted before the due date each 
 
 ### Weekly Quizzes
 
-At the end of each weekly module, there will be a Canvas quiz that covers the content discussed in class through multiple-choice or true-false questions. Quizzes will test your conceptual understanding of the material each week. All quizzes will be open-book but not open-person. That is, you can use our course material, but you cannot collaborate with other students or use generative AI. 
+At the end of each weekly module, there will be a Canvas quiz that covers the content discussed in class through multiple-choice or true-false questions. Quizzes will test your *conceptual* understanding of the material each week. All quizzes will be open-book but not open-person. That is, you can use our course material, but you cannot collaborate with other students or use generative AI. 
 
 Once you open the quiz you will have 30 minutes to complete it—this should be more than enough time if you are prepared.  You will have at most 2 attempts for each quiz and your *average* score will be recorded, i.e., if you do really poorly on the first attempt and get a perfect score on the second attempt, you will still get an overall low score. Therefore, you are encouraged to study the week's content carefully before the first attempt. Also, ALL attempts must be completed BEFORE the Sunday deadline. 
 
@@ -163,17 +160,17 @@ Overall, these quizzes contribute 10 TOTAL points towards your final grade, but 
 
 ### Problem Sets
 
-Problem sets are an additional mechanism for you to practice and accumulate points over the course of the semester. Most problem sets will come from the course textbook and will involve solving small problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the [video tutorials](videos.html#tutorial-library) on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform. 
+Problem sets are meant to help you practice actually conducting data analysis on new datasets. Most problem sets will come from the course textbook and will involve solving problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the [video tutorials](videos.html#tutorial-library) on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform. 
 
 Each problem set is worth 5 points and there will be 7 problem sets throughout the semester. Problem sets will be due roughly every week and will contain questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines. 
 
-You are **strongly encouraged** to work regularly on the problem sets, i.e., try to attempt problems after each class so that the work does not pile up right before the deadline. You will find that you are able to grasp the concepts and calculations better this way.
+You are **strongly encouraged** to work regularly on the problem sets, i.e., try to attempt problems after each class so that the work does not pile up right before the deadline. You will find that you are able to grasp the concepts and analyses better this way.
 
 All submissions must be made through Canvas. Please make sure to carefully review the [instructions on the submission format](videos.html#submitting-assignments) for these problem sets. The document with all problem sets is also available on Canvas.
 
 Some students find it useful to consistently practice problem solving throughout the semester, whereas others are more comfortable with sporadic assessments. You will have the option to choose between two possibilities:
 
-- **Option 1**: You may complete (and grade) all problem sets. If you choose this option: 
+- **Option 1**: You may complete (and self-grade) **all** problem sets. If you choose this option: 
   - You must submit an initial attempt by the deadline for the specific problem set. This initial attempt is worth 2.5 points and will be graded as whether or not you have attempted at least 75% of the problems. An "attempt" only counts if you have genuinely tried to solve the problem and demonstrated your work. To calculate 75%, add up each individual item (e.g., 1a, b, c, d counts as 4 problems) and then take 75% of that total.
   - Once the solution set has been released and you receive your initial attempt back (by Wednesday), to gain the remaining 2.5 points, you must grade your initial attempt and re-attempt the problems by the resubmission deadline. If you submit a corrected version (that includes ALL corrected problems), you will receive the additional 2.5 points for that problem set. Please follow the template described in this [video](videos.html#submitting-assignments) to submit corrections and explanations. 
 - **Option 2**: You may choose to forego the problem sets and add these points to your exams. Specifically, there will be three deadlines to drop out of doing the problem sets:
@@ -185,43 +182,23 @@ If you choose to opt out of problem sets, those points will be re-distributed to
 
 ### Exams
 
-The two midterm exams are not cumulative. Each exam is divided into two parts: a **conceptual** in-person part and a **computational** take-home part.
+The two midterm exams are not cumulative. The final is cumulative. Each exam is divided into two parts: a **conceptual** in-person part and a **computational** take-home part.
 
-- The **conceptual** in-person part includes multiple choice questions, definitions, matching items, and short answer questions. It will be given during our Friday class time. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.
+- The **conceptual** in-person part includes multiple choice questions, definitions, matching items, and short answer questions. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.
 
-- The **computational** take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me for help. 
+- The **computational** take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me (not even LAs) for help. 
 
 ### Class participation
 
-Students are encouraged to participate during class by responding to and reflecting on the course content, as well as engaging with other students via activities and group work. Additionally, there will be an opportunity to participate in a discussion board throughout the semester.
+To encourage you to critically engage with the class content, there will be class activities that you may be asked to complete before you come to class, in-class practice exercises that you will work on during class, and practice exams that you can use to prepare for the midterm and final. Your participation in these activities and exercises will be recorded and will contribute 5% towards your final grade.
 
-Overall, here is a breakdown of how class participation will be assessed:
-
-| Component        | Points |    
-|:------------------|-------:|
-| In-class participation and/or attending office hours |     2.5 |
-| Discussion board participation     |      2.5 |
-|             Total      |     5   |    
-
-In-class participation will be assessed based on how engaged you are in or outside class - I will be looking for engagement via participating in in-class activities, asking questions, volunteering answers, attending my or LA's office hours etc. on an *overall* basis. 
-
-There will be a Canvas discussion board (Data Around Us) that will remain active all semester. You will post about data and statistics you see in the world around you. The goal is to notice how data are presented and interpreted in different non-academic contexts. There are two ways to participate in the discussion board:
-
-- You can make a discussion post by taking a screenshot of a graph or statistical claim you see in any non-academic source/media (e.g., news articles, media analysis, books, etc.), and commenting on (1) what type of data may have contributed to the plot/claim, and (2) what kind of graph/statistical test is being discussed or could be conducted on the data being described
-
-- You may also respond to someone else's discussion post by commenting on (1) whether you agree or disagree with the original poster's assessment about the type of data and  graph/statistical test being discussed or the data being described, and (2) any questions that came to mind based on the graph/claim or the poster's assessment.
-
-Participation in the discussion board will be assessed in the following manner: 
-
-- Posting at least 5 times during the semester will earn you the full 2.5 points. Each individual post is worth 0.5 points. 
-- The two students who are most active in this discussion board (above and beyond the 5 required posts) will receive 1 extra credit point each (see [extra credit](#extra-credit)).
-
+You will get full credit if you participate in at least 90% of the class participation activities and exercises. Beyond that, you will be assigned partial credit based on the number of activities/exercises you miss, i.e., 1 point will be deducted for each 10% drop in participation (e.g., if you participate in 80% of the activities, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.).
 
 ### Extra credit
 
 There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
 
-1. <u>Complete class surveys (2 points) </u>: There will be 4 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey, all other surveys will be anonymous, and you will be able to earn 0.5 point for each survey you complete. 
+1. <u>Complete class surveys (2 points) </u>: There will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey (which is mandatory and does not count toward extra credit), all other surveys will be anonymous, and you will be able to earn 1 point for each survey you complete. 
 
 2. <u> Win Data Detective (1 point)</u>: At different points in the semester, there will be opportunities to find instances of statistics being used in the world around us, and assessing the quality of these statistics via a Canvas discusson board. The two students who are most active and incisive in this discussion board will receive 1 extra credit point each.  
 
@@ -251,7 +228,9 @@ Please make sure that your devices are fully charged when you arrive to class. I
 ### Attendance: How many classes can you miss? 
 It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. 
 
-Attendance will not count towards your grade. If you miss class, it is entirely your responsibility to make sure you get notes and keep track of the material. I will be happy to meet to answer questions about the content, but will not redo/review the material outside of class time. You may also make use of LA’s office hours to ask **questions** about the material, but they are not expected to redo/review the material with you. 
+While attendance will not count directly count towards your grade, participating in in-class activities does count towards class participation. (see [here](#class-participation)).
+
+If you miss class, you cannot make submissions for activities that are for class participation. Additionally, it is entirely your responsibility to make sure you get notes and keep track of the material. I will be happy to meet to answer questions about the content, but will not redo/review the material outside of class time. You may also make use of LA’s office hours to ask **questions** about the material, but they are not expected to redo/review the material with you. 
 
 **Note: If you are sick, please stay home**. 
 
@@ -260,7 +239,7 @@ Attendance will not count towards your grade. If you miss class, it is entirely 
 Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
 
 1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester. You can use both days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments. 
-2. Flex days can ONLY be used for quizzes and **initial attempts** to problem sets unless otherwise stated in class.
+2. Flex days can ONLY be used for quizzes and problem sets unless otherwise stated in class.
 3. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
 4. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 90% of the original points if it is 12 hours late, 70% of the original points if it is between 12-24 hours late, and 50% of the original points if it is over 24 hours late.
 5. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension and any work that is handed in beyond 24 hours after a flex day was requested will either need to use an additional flex day or will be graded based on the policy specified in Point 4 above.

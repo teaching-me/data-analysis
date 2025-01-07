@@ -1,5 +1,5 @@
 ---
-title: "W6: Probabilty and Sampling"
+title: "W6: Sampling"
 description: "This is the module for Week 6. We will cover some basic ideas from probability theory and connect them to ideas of making inferences about populations from samples."
 order: 5
 ---
@@ -34,16 +34,16 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-### Before Wednesday
+### Before Tuesday
 
 - Read Chapter 6 (Sections 6.1, 6.4, and 6.5) from the Gravetter & Wallnau (2017) textbook.
 
-### Before Friday
+### Before Thursday
 
 - Read Chapter 7 from the Gravetter & Wallnau (2017) textbook.
 
 
-### After Friday
+### After Thursday
 
 - Review your Exam 1 performance
 - Decide if you want to opt-out of Problem Sets
@@ -74,9 +74,9 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W6_probability.pdf" role="button" target="_blank">W6: Slides 1</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W6_probability.pdf" role="button" target="_blank">W6: Slides 1</a> -->
 
-<a class="btn btn-outline-info" href="../../slides/W6_sampling.pdf" role="button" target="_blank">W6: Slides 2</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W6_sampling.pdf" role="button" target="_blank">W6: Slides 2</a> -->
 
 
 ::::

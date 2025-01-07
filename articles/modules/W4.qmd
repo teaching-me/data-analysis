@@ -32,18 +32,18 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-### Before Wednesday
+### Before Tuesday
 
 - Read Chapter 15 (everything before Section 15.4) from the Gravetter & Wallnau (2017) textbook.
 - Read Chapter 16 (everything before Section 16.2) from the Gravetter & Wallnau (2017) textbook.
 
 
-### Before Friday
+### Before Thursday
 
 - Read Chapter 15 (Section 15.5) from the Gravetter & Wallnau (2017) textbook.
 - Watch videos for <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a> and <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a>
 
-### After Friday
+### After Thursday
   - Watch the video for <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a>
   - Review everything!
   - Work on Problem Set #3
@@ -75,9 +75,9 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W4_correlation_regression.pdf" role="button" target="_blank">W4: Slides 1</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W4_correlation_regression.pdf" role="button" target="_blank">W4: Slides 1</a> -->
 
-<a class="btn btn-outline-info" href="../../slides/W4_correlations_2.pdf" role="button" target="_blank">W4: Slides 2</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W4_correlations_2.pdf" role="button" target="_blank">W4: Slides 2</a> -->
 
 
 

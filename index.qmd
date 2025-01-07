@@ -1,8 +1,6 @@
 ---
 title: "Data Analysis (PSYC 2520)"
 description: "A course on statistical data analysis"
-image: 'images/cognition_social.jpg'
-image-alt: "A course on statistical data analysis"
 opengraph:
   twitter:
     card: summary_large_image
@@ -11,21 +9,23 @@ editor: source
 title-block-style: none
 ---
 
-Welcome! This is the course website for **Data Analysis** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+Welcome! This is the course website for **Data Analysis**, taught by Professor Abhilasha Kumar at the Department of Psychology at Bowdoin College.
+
+This course is an introduction to the statistical procedures commonly used by *psychologists* to describe, analyze, and interpret data. You will acquire skills to empirically test questions and claims about human behavior and mental processes. You will learn the types of inferences and conclusions that can (and cannot) be drawn from various scientific research procedures. As such, this course provides a conceptual and mathematical understanding of common statistical procedures. 
 
 **Instructor**: 
 
-- <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a> (she/her)<br> 
+- <a href="https://thelexiconlab.github.io/people/" target="_blank">Prof. Abhilasha Kumar </a> (she/her)<br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
 
 
 **Learning Assistants**: 
 
-- Whitt Dodge (he/him)<br>
-Email: [edodge\@bowdoin.edu](edodge@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
+- Sydney Morrison (she/her)<br>
+Email: [smorrison\@bowdoin.edu](smorrison@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
 
-- Yanevith Peña (she/her)<br>
-Email: [ypena2\@bowdoin.edu](ypena2@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
+- Jon Sides (he/him)<br>
+Email: [jsides\@bowdoin.edu](jsides@bowdoin.edu) (**students**, please put PSYC 2520 in the subject line)
 
 
 
@@ -51,4 +51,4 @@ This course has been developed using the materials and wisdom generously shared 
 
 This is an open-educational resource that is free to use, share, copy, edit, and remix, with attribution and following the [CC BY-SA 4.0 creative-commons license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-The suite is developed using open-source software (R, RStudio, Bookdown). The source code for this project is available at <https://github.com/teaching-me.github.io/mindsandmachines>. These materials are being actively developed.
+The suite is developed using open-source software (R, RStudio, Bookdown). The source code for this project is available at <https://github.com/teaching-me.github.io/data-analysis>. These materials are being actively developed.

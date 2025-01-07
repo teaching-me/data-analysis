@@ -35,12 +35,12 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class
 
-### Wednesday
+### Tuesday
 
 
 - Read Chapter 8 from the Gravetter & Wallnau (2017) textbook.
 
-### Friday
+### Thursday
 
 - Read Chapter 9 from the Gravetter & Wallnau (2017) textbook.
 
@@ -70,9 +70,9 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W7_hypothesis_testing.pdf" role="button" target="_blank">W7: Slides 1</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W7_hypothesis_testing.pdf" role="button" target="_blank">W7: Slides 1</a> -->
 
-<a class="btn btn-outline-info" href="../../slides/W7_hypothesis_testing_2.pdf" role="button" target="_blank">W7: Slides 2</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W7_hypothesis_testing_2.pdf" role="button" target="_blank">W7: Slides 2</a> -->
 
 
 ::::

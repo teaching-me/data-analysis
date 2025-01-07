@@ -33,11 +33,11 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-### Wednesday
+### Tuesday
 
 - Complete all practice assessments, review the material, and bring questions to class!
 
-### Friday
+### Thursday
 
 - Exam 1
 
@@ -67,7 +67,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W5_review.pdf" role="button" target="_blank">W5: Slides </a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W5_review.pdf" role="button" target="_blank">W5: Slides </a> -->
 
 
 

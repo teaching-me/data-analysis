@@ -37,19 +37,19 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-### Wednesday
+### Before Tuesday
 
 
 - [optional] Read Chapter 11 from the Gravetter & Wallnau (2017) textbook.
 - [optional] Read Chapter 13 from the Gravetter & Wallnau (2017) textbook.
 
-### Before Friday
+### Before Thursday
 
 - Watch <a href="https://drive.google.com/file/d/1uOQEaG6Y8qtFtL7dzvkmQf9EwgOI-sU1/view?usp=sharing" target="_blank">Dependent Groups t-test </a> [6 min]
 - Watch <a href="https://drive.google.com/file/d/1UzjppvZhRpoOlARZv01KiSG1RuKo97dU/view?usp=drive_link" target="_blank">Repeated Measures ANOVA </a> [16 min]
 - [optional] Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.
 
-### After Friday
+### After Thursday
 
 - Watch <a href="https://drive.google.com/file/d/1wlatMsrdIqa3tfGPCwIw9Vma-ygRdQg0/view?usp=sharing" target="_blank">Chi-square Goodness of Fit Test </a> [13 min]
 - Watch <a href="https://drive.google.com/file/d/1O7ecae2KLkrBCceNmuTMGz7TVBNRyD04/view?usp=drive_link" target="_blank">Chi-square Test of Independence </a> [11 min]
@@ -81,9 +81,9 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W14_dependent_data.pdf" role="button" target="_blank">W14: Slides 1</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W14_dependent_data.pdf" role="button" target="_blank">W14: Slides 1</a> -->
 
-<a class="btn btn-outline-info" href="../../slides/W14_chi_square.pdf" role="button" target="_blank">W14: Slides 2</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W14_chi_square.pdf" role="button" target="_blank">W14: Slides 2</a> -->
 
 
 

@@ -36,11 +36,11 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class
 
-### Wednesday
+### Tuesday
 
 - Complete all practice assessments, review the material, and bring questions to class!
 
-### Friday
+### Thursday
 
 - Exam 2
 
@@ -70,7 +70,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W12_review.pdf" role="button" target="_blank">W12: Review Slides</a>
+<!-- <a class="btn btn-outline-info" href="../../slides/W12_review.pdf" role="button" target="_blank">W12: Review Slides</a> -->
 
 ::::
 :::
