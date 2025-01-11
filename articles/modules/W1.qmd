@@ -44,8 +44,6 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-Please complete the following BEFORE class.
-
 ### Before/End of Tuesday
 
 - Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or on the pre-class survey.
