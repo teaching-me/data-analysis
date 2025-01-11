@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Review research methods and design principles
+- Understand the logic behind summarizing data
 - Understand histograms and frequency distributions
 - Discuss the concept of a statistical model and how it can be used to describe data
 - Describe the concepts of central tendencies
