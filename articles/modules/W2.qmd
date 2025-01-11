@@ -116,9 +116,8 @@ Here are the to-do's for this week:
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/assignments/73289?module_item_id=430224" target="_blank">Problem Set 1</a></span> OR <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430223" target="_blank">Opt out of Problem Sets</a></span>
 
 - Extra credit opportunities:
-  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/assignments/73288?module_item_id=430220" target="_blank">Pre-class survey</a></span> 
-  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/431358" target="_blank">Exra Credit Questions</a></span>
-  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434591" target="_blank">Optional Meme Submission</a></span> 
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434891" target="_blank">Exra Credit Questions</a></span>
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434892" target="_blank">Optional Meme Submission</a></span> 
 
 
 
