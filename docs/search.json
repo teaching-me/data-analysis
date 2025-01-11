@@ -39,7 +39,7 @@
     "href": "articles/course_docs/syllabus.html#grading",
     "title": "Syllabus: Data Analysis",
     "section": "Grading",
-    "text": "Grading\nThe grading scale for this class is as follows:\n\n\n\nLetter grade\nPoints\n\n\n\n\nA\n95 - 100+\n\n\nA-\n90 - 94.99\n\n\nB+\n87 - 89.99\n\n\nB\n83 - 86.99\n\n\nB-\n80 - 82.99\n\n\nC+\n77 - 79.99\n\n\nC\n73 - 77.99\n\n\nC-\n70 - 72.99\n\n\nD\n60 - 69.99\n\n\nF\nfewer than 60%\n\n\n\nGrades will be determined based on the following rubric, which is based on emphasizing our three learning goals.\nThere are multiple ways for students to engage with class and course materials and achieve their desired grade. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.\n\nPoints\n\n\n\nComponent\nPoints\n\n\n\n\nWeekly quizzes\n10\n\n\nProblem sets\n35\n\n\nExam: Midterm 1\n15\n\n\nExam: Midterm 2\n15\n\n\nExam: Final\n20\n\n\nClass participation\n5\n\n\nExtra credit\n4\n\n\nTotal\n104\n\n\n\nPlease note that all assignments must be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see late work policy).\n\n\nWeekly Quizzes\nAt the end of each weekly module, there will be a Canvas quiz that covers the content discussed in class through multiple-choice or true-false questions. Quizzes will test your conceptual understanding of the material each week. All quizzes will be open-book but not open-person. That is, you can use our course material, but you cannot collaborate with other students or use generative AI.\nOnce you open the quiz you will have 30 minutes to complete it—this should be more than enough time if you are prepared. You will have at most 2 attempts for each quiz and your average score will be recorded, i.e., if you do really poorly on the first attempt and get a perfect score on the second attempt, you will still get an overall low score. Therefore, you are encouraged to study the week’s content carefully before the first attempt. Also, ALL attempts must be completed BEFORE the Sunday deadline.\nOverall, these quizzes contribute 10 TOTAL points towards your final grade, but each quiz will be individually graded for 10 points and then all quizzes will be scaled to total up to 10 points at the end of the semester.\n\n\nProblem Sets\nProblem sets are meant to help you practice actually conducting data analysis on new datasets. Most problem sets will come from the course textbook and will involve solving problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the video tutorials on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform.\nEach problem set is worth 5 points and there will be 7 problem sets throughout the semester. Problem sets will be due roughly every week and will contain questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines.\nYou are strongly encouraged to work regularly on the problem sets, i.e., try to attempt problems after each class so that the work does not pile up right before the deadline. You will find that you are able to grasp the concepts and analyses better this way.\nAll submissions must be made through Canvas. Please make sure to carefully review the instructions on the submission format for these problem sets. The document with all problem sets is also available on Canvas.\nSome students find it useful to consistently practice problem solving throughout the semester, whereas others are more comfortable with sporadic assessments. You will have the option to choose between two possibilities:\n\nOption 1: You may complete (and self-grade) all problem sets. If you choose this option:\n\nYou must submit an initial attempt by the deadline for the specific problem set. This initial attempt is worth 2.5 points and will be graded as whether or not you have attempted at least 75% of the problems. An “attempt” only counts if you have genuinely tried to solve the problem and demonstrated your work. To calculate 75%, add up each individual item (e.g., 1a, b, c, d counts as 4 problems) and then take 75% of that total.\nOnce the solution set has been released and you receive your initial attempt back (by Wednesday), to gain the remaining 2.5 points, you must grade your initial attempt and re-attempt the problems by the resubmission deadline. If you submit a corrected version (that includes ALL corrected problems), you will receive the additional 2.5 points for that problem set. Please follow the template described in this video to submit corrections and explanations.\n\nOption 2: You may choose to forego the problem sets and add these points to your exams. Specifically, there will be three deadlines to drop out of doing the problem sets:\n\nDeadline 1: At the beginning of the course\nDeadline 2: After the first midterm\nDeadline 3: After the second midterm\n\n\nIf you choose to opt out of problem sets, those points will be re-distributed to the exam points for that portion of the semester (e.g., if you opt out at the beginning of the semester, the 15 points for the first three problem sets are re-allocated to Midterm 1). You must opt out of Option 1 (or back into Option 1) by indicating so on Canvas, so that we both have a record of your decision. Due dates for opting in and out are on the course schedule and Canvas. These are hard deadlines. You are strongly encouraged to opt for Option 1 at least through the first midterm. At that point, you may consider opting out. I am happy to meet with anyone who wants to talk about which approach would be best for them.\n\n\nExams\nThe two midterm exams are not cumulative. The final is cumulative. Each exam is divided into two parts: a conceptual in-person part and a computational take-home part.\n\nThe conceptual in-person part includes multiple choice questions, definitions, matching items, and short answer questions. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.\nThe computational take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me (not even LAs) for help.\n\n\n\nClass participation\nTo encourage you to critically engage with the class content, there will be practice questions/exercises that you will work on during class, and practice exams that you can use to prepare for the midterm and final. Your participation in these activities and exercises will be recorded and will contribute 5% towards your final grade.\nYou will get full credit if you participate in at least 90% of the class participation activities and exercises. Beyond that, you will be assigned partial credit based on the number of activities/exercises you miss, i.e., 1 point will be deducted for each 10% drop in participation (e.g., if you participate in 80% of the activities, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.).\n\n\nExtra credit\nThere will be some opportunities to earn extra credit during the semester. These opportunities are described below:\n\nComplete class surveys (2 points) : There will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey (which is mandatory and does not count toward extra credit), all other surveys will be anonymous, and you will be able to earn 1 point for each survey you complete.\n Win Data Detective (1 point): At different points in the semester, there will be opportunities to find instances of statistics being used in the world around us, and assessing the quality of these statistics via a Canvas discusson board. The two students who are most active and incisive in this discussion board will receive 1 extra credit point each.\n Win Memer of the Semester (1 point) : Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be original, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will both receive 1 additional point. Note: A student can only receive a maximum of 1 point through this mechanism, even if the same student has the highest average score in the context and the best scoring meme."
+    "text": "Grading\nThe grading scale for this class is as follows:\n\n\n\nLetter grade\nPoints\n\n\n\n\nA\n95 - 100+\n\n\nA-\n90 - 94.99\n\n\nB+\n87 - 89.99\n\n\nB\n83 - 86.99\n\n\nB-\n80 - 82.99\n\n\nC+\n77 - 79.99\n\n\nC\n73 - 77.99\n\n\nC-\n70 - 72.99\n\n\nD\n60 - 69.99\n\n\nF\nfewer than 60%\n\n\n\nGrades will be determined based on the following rubric, which is based on emphasizing our three learning goals.\nThere are multiple ways for students to engage with class and course materials and achieve their desired grade. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.\n\nPoints\n\n\n\nComponent\nPoints\n\n\n\n\nWeekly quizzes\n10\n\n\nProblem sets\n30\n\n\nExam: Midterm 1\n15\n\n\nExam: Midterm 2\n15\n\n\nExam: Final\n20\n\n\nClass participation\n10\n\n\nExtra credit\n4\n\n\nTotal\n104\n\n\n\nPlease note that all assignments must be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see late work policy).\n\n\nWeekly Quizzes\nAt the end of each weekly module, there will be a Canvas quiz that covers the content discussed in class through multiple-choice or true-false questions. Quizzes will test your conceptual understanding of the material each week. All quizzes will be open-book but not open-person. That is, you can use our course material, but you cannot collaborate with other students or use generative AI.\nOnce you open the quiz you will have 30 minutes to complete it—this should be more than enough time if you are prepared. You will have at most 2 attempts for each quiz and your average score will be recorded, i.e., if you do really poorly on the first attempt and get a perfect score on the second attempt, you will still get an overall low score. Therefore, you are encouraged to study the week’s content carefully before the first attempt. Also, ALL attempts must be completed BEFORE the Sunday deadline.\nOverall, these quizzes contribute 10 TOTAL points towards your final grade, but each quiz will be individually graded for 10 points and then all quizzes will be scaled to total up to 10 points at the end of the semester. All quizzes will be due Monday midnight before class.\n\n\nProblem Sets\nProblem sets are meant to help you practice actually conducting data analysis on new datasets. Most problem sets will come from the course textbook and will involve solving problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the video tutorials on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform.\nEach problem set is worth 5 points and there will be 7 problem sets throughout the semester. Your lowest scoring problem set will be dropped. Problem sets will be due roughly every week and will contain questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines - they will usually be due the Monday midnight before class.\nYou are strongly encouraged to work regularly on the problem sets, i.e., try to attempt problems after each class so that the work does not pile up right before the deadline. You will find that you are able to grasp the concepts and analyses better this way.\nAll submissions must be made through Canvas. Please make sure to carefully review the instructions on the submission format for these problem sets. The document with all problem sets is also available on Canvas.\nSome students find it useful to consistently practice problem solving throughout the semester, whereas others are more comfortable with sporadic assessments. You will have the option to choose between two possibilities:\n\nOption 1: You may complete (and self-grade) all problem sets. If you choose this option:\n\nYou must submit an initial attempt by the deadline for the specific problem set. This initial attempt is worth 2.5 points and will be graded as whether or not you have attempted at least 75% of the problems. An “attempt” only counts if you have genuinely tried to solve the problem and demonstrated your work. To calculate 75%, add up each individual item (e.g., 1a, b, c, d counts as 4 problems) and then take 75% of that total.\nOnce the solution set has been released and you receive your initial attempt back (by Wednesday), to gain the remaining 2.5 points, you must grade your initial attempt and re-attempt the problems by the resubmission deadline. If you submit a corrected version (that includes ALL corrected problems), you will receive the additional 2.5 points for that problem set. Please follow the template described in this video to submit corrections and explanations.\n\nOption 2: You may choose to forego the problem sets and add these points to your exams. Specifically, there will be three deadlines to drop out of doing the problem sets:\n\nDeadline 1: At the beginning of the course\nDeadline 2: After the first midterm\nDeadline 3: After the second midterm\n\n\nIf you choose to opt out of problem sets, those points will be re-distributed to the exam points for that portion of the semester (e.g., if you opt out at the beginning of the semester, the 15 points for the first three problem sets are re-allocated to Midterm 1). You must opt out of Option 1 (or back into Option 1) by indicating so on Canvas, so that we both have a record of your decision. Due dates for opting in and out are on the course schedule and Canvas. These are hard deadlines. You are strongly encouraged to opt for Option 1 at least through the first midterm. At that point, you may consider opting out. I am happy to meet with anyone who wants to talk about which approach would be best for them.\n\n\nExams\nThe two midterm exams are not cumulative. The final is cumulative. Each exam is divided into two parts: a conceptual in-person part and a computational take-home part.\n\nThe conceptual in-person part includes multiple choice questions, definitions, matching items, and short answer questions. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.\nThe computational take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me (not even LAs) for help.\n\n\n\nClass participation\nWe all learn better by actively participating in and outside of class. To encourage you to critically engage with the class content, your participation will be assessed through the following mechanisms:\n\nIn-class exercises[2.5]: You will work on several exercises by yourself and with your peers during class. You will submit responses to these exercises via Canvas and your participation will be recorded. You will get full credit if you participate in at least 90% of the class exercises. Beyond that, you will be assigned partial credit based on the number of activities/exercises you miss, i.e., 0.5 point will be deducted for each 10% drop in participation (e.g., if you participate in 80% of the activities, you will earn 2 points, if you attend 70% of the classes, you will earn 1.5 points etc.).\nVideos [2.5]: Each week, there will be videos that will describe how to conduct statistical analyses via Google Sheets. Watching these videos will count towards class participation. If you watch 80% of these videos, you will be awarded the full 2.5 points. Beyond that, you will be assigned partial credit based on the number of videos you watch.\nPractice assessments [5]: Before each exam, practice exams will be made available to you to help with your preparation. Submitting these practice exams and getting at least 50% on them will count towards class participation. Practice exams for midterms are worth 1.5 point each and the practice exam for the final will be worth 2 points.\n\n\n\nExtra credit\nThere will be some opportunities to earn extra credit during the semester. These opportunities are described below:\n\nComplete class surveys (2 points) : There will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. You will be able to earn 1 point for completing the first survey, and 0.5 for the other two surveys. With the exception of the pre-class survey, the two other surveys will be anonymous.\n Win Conceptual Czar (1 point): To incentivize timely preparation and encourage you to master the class content, you will have the opportunity to submit multiple-choice and/or true/false questions based on the course content covered each week. Submitting questions for 8 of the 11 content weeks will earn you this extra credit point. Additionally, if your question is selected to be on any of the exams, you will earn an additional extra credit point.\n Win Analysis Ace (1 point): To incentivize timely preparation and encourage you to master data analysis, the two students who score the highest on the computational exams throughout the semester will earn 1 extra credit point each.\n Win Memer of the Semester (1 point) : Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be original, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will both receive 1 additional point. Note: A student can only receive a maximum of 1 point through this mechanism, even if the same student has the highest average score in the context and the best scoring meme."
   },
   {
     "objectID": "articles/course_docs/syllabus.html#course-policies",
@@ -67,7 +67,7 @@
     "href": "articles/modules.html",
     "title": "Learning Modules",
     "section": "",
-    "text": "Title\n\n\nAuthor\n\n\n\n\n\n\nW1: Getting Started on Statistical Thinking\n\n\n\n\n\n\nW2: Summarizing and Fitting Models to Data\n\n\n\n\n\n\nW3: Variability & z-scores\n\n\n\n\n\n\nW4: Correlation and Regression\n\n\n\n\n\n\nW5: Loose Ends / Exam 1\n\n\n\n\n\n\nW6: Probabilty and Sampling\n\n\n\n\n\n\nW7: Hypothesis Testing\n\n\n\n\n\n\nW10: Modeling Relationships I\n\n\n\n\n\n\nW11: Modeling Relationships II\n\n\n\n\n\n\nW12: Loose Ends / Exam 2\n\n\n\n\n\n\nW13: Additional Predictors\n\n\n\n\n\n\nW14: Miscellaneous Data\n\n\n\n\n\n\nW15: Odds and Ends / Final\n\n\n\n\n\n\nW16: Wrapping Up!\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\nAuthor\n\n\n\n\n\n\nW1: Getting Started on Statistical Thinking\n\n\n\n\n\n\nW2: Summarizing and Fitting Models to Data\n\n\n\n\n\n\nW3: Variability & z-scores\n\n\n\n\n\n\nW4: Correlation and Regression\n\n\n\n\n\n\nW5: Loose Ends / Exam 1\n\n\n\n\n\n\nW6: Sampling\n\n\n\n\n\n\nW7: Hypothesis Testing\n\n\n\n\n\n\nW10: Modeling Relationships I\n\n\n\n\n\n\nW11: Modeling Relationships II\n\n\n\n\n\n\nW12: Loose Ends / Exam 2\n\n\n\n\n\n\nW13: Additional Predictors\n\n\n\n\n\n\nW14: Miscellaneous Data\n\n\n\n\n\n\nW15: Odds and Ends / Final\n\n\n\n\n\n\nW16: Wrapping Up!\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "articles/modules/W1.html",
@@ -88,21 +88,21 @@
     "href": "articles/modules/W1.html#prep",
     "title": "W1: Getting Started on Statistical Thinking",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class.\n\nBefore/End of Tuesday\n\nRead the syllabus for this course. If you have questions about the syllabus, then please ask them in class or on the pre-class survey.\nComplete the Pre-class survey!\n\n\n\nBefore Thursday\n\nWatch: Introduction to Google Sheets\nRead Chapter 1 and Appendix A from the Gravetter & Wallnau (2017) textbook."
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class.\n\nBefore/End of Tuesday\n\nRead the syllabus for this course. If you have questions about the syllabus, then please ask them in class or on the pre-class survey.\nComplete the Pre-class survey!\n\n\n\nBefore Thursday\n\nWatch: Introduction to Google Sheets. Leave an annotation to complete participation.\nRead Chapter 1 from the Gravetter & Wallnau (2017) textbook. Leave an annotation for any questions you have.\nTake Skills Assessment Exam and submit a reflection. This will help me support you better in the course.\n\n\n\nAfter Thursday\n\nSee the Apply section."
   },
   {
     "objectID": "articles/modules/W1.html#try",
     "href": "articles/modules/W1.html#try",
     "title": "W1: Getting Started on Statistical Thinking",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\n\nSlides\n\n\n\n\nActivity Links\nW1: Activity 1"
   },
   {
     "objectID": "articles/modules/W1.html#apply",
     "href": "articles/modules/W1.html#apply",
     "title": "W1: Getting Started on Statistical Thinking",
     "section": "Apply",
-    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere are the to-do’s for this week:\n\nSubmit Pre-class survey\nSubmit Week 1 Quiz\nSubmit Optional Meme Submission\nStart working on Problem Set 1 (Chapter 1 problems)"
+    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere are the to-do’s for this week:\n\nSubmit Week 1 Quiz (due Monday midnight)\nStart working on Problem Set 1 (Chapter 1 problems)\nExtra credit opportunities:\n\nSubmit Pre-class survey (1 point)\nSubmit Exra Credit Questions (1 point for 8 submissions)\nSubmit Optional Meme Submission (1 point for winners!)"
   },
   {
     "objectID": "articles/modules/W10.html",
@@ -116,14 +116,14 @@
     "href": "articles/modules/W10.html#prep",
     "title": "W10: Modeling Relationships I",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Wednesday\n\nReview Pearson correlation  [10 min] and Linear regression  [7.5 min] videos\nReview W7 slides!\n[optional] Read Chapter 16 (Section 16.2) from the Gravetter & Wallnau (2017) textbook.\n[optional] Read Chapter 15 (Section 15.4) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Friday\n\nWatch Hypothesis Testing (Pearson correlation)  [8 min]\nWatch  Hypothesis Testing (Linear regression: t-test)  [14 min]\n\n\n\nAfter Friday\n\nWatch Hypothesis Testing (Linear regression: F-test)  [13.5 min]\n[optional] Read Chapter 10 from the Gravetter & Wallnau (2017) textbook.\nWatch Hypothesis Testing (two-groups: t-test)  [11 min]\nWork on Problem Set 5!"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\n\nReview Pearson correlation  [10 min] and Linear regression  [7.5 min] videos\nReview W7 slides!\n[optional] Read Chapter 16 (Section 16.2) from the Gravetter & Wallnau (2017) textbook.\n[optional] Read Chapter 15 (Section 15.4) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nWatch Hypothesis Testing (Pearson correlation)  [8 min]\nWatch  Hypothesis Testing (Linear regression: t-test)  [14 min]\n\n\n\nAfter Thursday\n\nWatch Hypothesis Testing (Linear regression: F-test)  [13.5 min]\n[optional] Read Chapter 10 from the Gravetter & Wallnau (2017) textbook.\nWatch Hypothesis Testing (two-groups: t-test)  [11 min]\nWork on Problem Set 5!"
   },
   {
     "objectID": "articles/modules/W10.html#try",
     "href": "articles/modules/W10.html#try",
     "title": "W10: Modeling Relationships I",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW10: Slides 1\nW10: Slides 2"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W10.html#apply",
@@ -144,14 +144,14 @@
     "href": "articles/modules/W11.html#prep",
     "title": "W11: Modeling Relationships II",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nBefore Wednesday\n\nReview W10 slides on F-test and t-test!\n[optional] Read Chapter 12 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Friday\n\nWatch Hypothesis Testing (two-groups: F-test)  [12 min]\nWatch Hypothesis Testing (one-way ANOVA: F-test)  [18 min]\nReview the compiled slide deck for ALL hypothesis tests so far!\n\n\n\nAfter Friday\n\nWork on Problem Set 6!\nComplete all practice assessments, review the material, and bring questions to class!"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nBefore Tuesday\n\nReview W10 slides on F-test and t-test!\n[optional] Read Chapter 12 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nWatch Hypothesis Testing (two-groups: F-test)  [12 min]\nWatch Hypothesis Testing (one-way ANOVA: F-test)  [18 min]\nReview the compiled slide deck for ALL hypothesis tests so far!\n\n\n\nAfter Thursday\n\nWork on Problem Set 6!\nComplete all practice assessments, review the material, and bring questions to class!"
   },
   {
     "objectID": "articles/modules/W11.html#try",
     "href": "articles/modules/W11.html#try",
     "title": "W11: Modeling Relationships II",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW11: Slides 1\nW11: Review Slides"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W11.html#apply",
@@ -172,14 +172,14 @@
     "href": "articles/modules/W12.html#prep",
     "title": "W12: Loose Ends / Exam 2",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nWednesday\n\nComplete all practice assessments, review the material, and bring questions to class!\n\n\n\nFriday\n\nExam 2"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nTuesday\n\nComplete all practice assessments, review the material, and bring questions to class!\n\n\n\nThursday\n\nExam 2"
   },
   {
     "objectID": "articles/modules/W12.html#try",
     "href": "articles/modules/W12.html#try",
     "title": "W12: Loose Ends / Exam 2",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW12: Review Slides"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W12.html#apply",
@@ -200,14 +200,14 @@
     "href": "articles/modules/W13.html#prep",
     "title": "W13: Additional Predictors",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Wednesday\nPlease complete the following BEFORE class:\n\n[optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Friday\n\nWatch Hypothesis Testing (Factorial ANOVA)  [33 min]\n\n\n\nAfter Friday\n\nStart working on Problem Set #7!"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\nPlease complete the following BEFORE class:\n\n[optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nWatch Hypothesis Testing (Factorial ANOVA)  [33 min]\n\n\n\nAfter Thursday\n\nStart working on Problem Set #7!"
   },
   {
     "objectID": "articles/modules/W13.html#try",
     "href": "articles/modules/W13.html#try",
     "title": "W13: Additional Predictors",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW13: Slides 1\nW13: Slides 2"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W13.html#apply",
@@ -228,14 +228,14 @@
     "href": "articles/modules/W14.html#prep",
     "title": "W14: Miscellaneous Data",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class:\n\nWednesday\n\n[optional] Read Chapter 11 from the Gravetter & Wallnau (2017) textbook.\n[optional] Read Chapter 13 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Friday\n\nWatch Dependent Groups t-test  [6 min]\nWatch Repeated Measures ANOVA  [16 min]\n[optional] Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Friday\n\nWatch Chi-square Goodness of Fit Test  [13 min]\nWatch Chi-square Test of Independence  [11 min]"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class:\n\nBefore Tuesday\n\n[optional] Read Chapter 11 from the Gravetter & Wallnau (2017) textbook.\n[optional] Read Chapter 13 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nWatch Dependent Groups t-test  [6 min]\nWatch Repeated Measures ANOVA  [16 min]\n[optional] Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Thursday\n\nWatch Chi-square Goodness of Fit Test  [13 min]\nWatch Chi-square Test of Independence  [11 min]"
   },
   {
     "objectID": "articles/modules/W14.html#try",
     "href": "articles/modules/W14.html#try",
     "title": "W14: Miscellaneous Data",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW14: Slides 1\nW14: Slides 2"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W14.html#apply",
@@ -256,21 +256,21 @@
     "href": "articles/modules/W15.html#prep",
     "title": "W15: Odds and Ends / Final",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\nComplete all practice assessments, review the material, and bring questions to class!\n\n\n\nFriday\n\nFinal exam (cumulative!)"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday\n\nComplete all practice assessments, review the material, and bring questions to class!\n\n\n\nThursday\n\nComplete all practice assessments, review the material, and bring questions to class!"
   },
   {
     "objectID": "articles/modules/W15.html#try",
     "href": "articles/modules/W15.html#try",
     "title": "W15: Odds and Ends / Final",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW15: Review Slides"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W15.html#apply",
     "href": "articles/modules/W15.html#apply",
     "title": "W15: Odds and Ends / Final",
     "section": "Apply",
-    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):\n\nCanvas discussion board post/Practice questions! (due May 2)\nFinal Exam computational (due May 7)\nOptional Meme"
+    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):"
   },
   {
     "objectID": "articles/modules/W16.html",
@@ -312,21 +312,21 @@
     "href": "articles/modules/W2.html#prep",
     "title": "W2: Summarizing and Fitting Models to Data",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\n\nRead Chapter 2 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nWatch Summarizing data \nRead Chapter 3 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Thursday\n\nWatch Central Tendencies \nReview everything!"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\n\nRead Chapter 2 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nWatch: Summarizing Data.\nRead Chapter 3 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Thursday\n\nWatch: Central Tendencies.\nSee Apply section."
   },
   {
     "objectID": "articles/modules/W2.html#try",
     "href": "articles/modules/W2.html#try",
     "title": "W2: Summarizing and Fitting Models to Data",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\n\nSlides\n\n\n\n\nActivity Links"
   },
   {
     "objectID": "articles/modules/W2.html#apply",
     "href": "articles/modules/W2.html#apply",
     "title": "W2: Summarizing and Fitting Models to Data",
     "section": "Apply",
-    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):\n\nWeek 2 Quiz\nProblem Set 1 due on Feb 5!\nOptional Meme"
+    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere are the to-do’s for this week:\n\nSubmit Week 2 Quiz\nSubmit Problem Set 1 OR Opt out of Problem Sets\nExtra credit opportunities:\n\nSubmit Pre-class survey\nSubmit Exra Credit Questions\nSubmit Optional Meme Submission"
   },
   {
     "objectID": "articles/modules/W3.html",
@@ -340,21 +340,21 @@
     "href": "articles/modules/W3.html#prep",
     "title": "W3: Variability & z-scores",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Wednesday\n\nRead Chapters 4 and 5 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Friday\n\nWatch Variability and z-scores \nRead Chapter 6 (Section 6.2 and 6.3) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Friday\n\nReview everything!\nWork on Problem Set #2"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\n\nRead Chapters 4 and 5 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\n\nRead Chapter 6 (Section 6.2 and 6.3) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Thursday\n\nReview everything!\nWork on Problem Set #2"
   },
   {
     "objectID": "articles/modules/W3.html#try",
     "href": "articles/modules/W3.html#try",
     "title": "W3: Variability & z-scores",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW3: Slides 1\nW3: Slides 2"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W3.html#apply",
     "href": "articles/modules/W3.html#apply",
     "title": "W3: Variability & z-scores",
     "section": "Apply",
-    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):\n\nWeek 3 Quiz\nProblem Set 2 due on Feb 12!\nOptional Meme"
+    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):"
   },
   {
     "objectID": "articles/modules/W4.html",
@@ -368,21 +368,21 @@
     "href": "articles/modules/W4.html#prep",
     "title": "W4: Correlation and Regression",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Wednesday\n\nRead Chapter 15 (everything before Section 15.4) from the Gravetter & Wallnau (2017) textbook.\nRead Chapter 16 (everything before Section 16.2) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Friday\n\nRead Chapter 15 (Section 15.5) from the Gravetter & Wallnau (2017) textbook.\nWatch videos for Pearson correlation  and Linear regression \n\n\n\nAfter Friday\n\nWatch the video for Spearman and point biserial correlations \nReview everything!\nWork on Problem Set #3"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\n\nRead Chapter 15 (everything before Section 15.4) from the Gravetter & Wallnau (2017) textbook.\nRead Chapter 16 (everything before Section 16.2) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nRead Chapter 15 (Section 15.5) from the Gravetter & Wallnau (2017) textbook. \n\n\n\nAfter Thursday\n - Review everything! - Work on Problem Set #3"
   },
   {
     "objectID": "articles/modules/W4.html#try",
     "href": "articles/modules/W4.html#try",
     "title": "W4: Correlation and Regression",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW4: Slides 1\nW4: Slides 2"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W4.html#apply",
     "href": "articles/modules/W4.html#apply",
     "title": "W4: Correlation and Regression",
     "section": "Apply",
-    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):\n\nWeek 4 Quiz\nProblem Set 3 due on Feb 19\nOptional Meme"
+    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):"
   },
   {
     "objectID": "articles/modules/W5.html",
@@ -396,14 +396,14 @@
     "href": "articles/modules/W5.html#prep",
     "title": "W5: Loose Ends / Exam 1",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\nComplete all practice assessments, review the material, and bring questions to class!\n\n\n\nFriday\n\nExam 1"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday\n\nComplete all practice assessments, review the material, and bring questions to class!\n\n\n\nThursday\n\nExam 1"
   },
   {
     "objectID": "articles/modules/W5.html#try",
     "href": "articles/modules/W5.html#try",
     "title": "W5: Loose Ends / Exam 1",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW5: Slides"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W5.html#apply",
@@ -415,28 +415,28 @@
   {
     "objectID": "articles/modules/W6.html",
     "href": "articles/modules/W6.html",
-    "title": "W6: Probabilty and Sampling",
+    "title": "W6: Sampling",
     "section": "",
     "text": "Discuss fundamental concepts in probability\nUnderstand the idea of probability distributions\nDescribe sampling distributions and the basis of inferential statistics"
   },
   {
     "objectID": "articles/modules/W6.html#prep",
     "href": "articles/modules/W6.html#prep",
-    "title": "W6: Probabilty and Sampling",
+    "title": "W6: Sampling",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Wednesday\n\nRead Chapter 6 (Sections 6.1, 6.4, and 6.5) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Friday\n\nRead Chapter 7 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Friday\n\nReview your Exam 1 performance\nDecide if you want to opt-out of Problem Sets\nWork on Problem Set #4 (due March 11)"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\n\nRead Chapter 6 (Sections 6.1, 6.4, and 6.5) from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\nRead Chapter 7 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nAfter Thursday\n\nReview your Exam 1 performance\nDecide if you want to opt-out of Problem Sets\nWork on Problem Set #4 (due March 11)"
   },
   {
     "objectID": "articles/modules/W6.html#try",
     "href": "articles/modules/W6.html#try",
-    "title": "W6: Probabilty and Sampling",
+    "title": "W6: Sampling",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW6: Slides 1\nW6: Slides 2"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W6.html#apply",
     "href": "articles/modules/W6.html#apply",
-    "title": "W6: Probabilty and Sampling",
+    "title": "W6: Sampling",
     "section": "Apply",
     "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):\n\nWeek 6 Quiz\nOptional Meme"
   },
@@ -452,14 +452,14 @@
     "href": "articles/modules/W7.html#prep",
     "title": "W7: Hypothesis Testing",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nWednesday\n\nRead Chapter 8 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nFriday\n\nRead Chapter 9 from the Gravetter & Wallnau (2017) textbook."
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nTuesday\n\nRead Chapter 8 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nThursday\n\nRead Chapter 9 from the Gravetter & Wallnau (2017) textbook."
   },
   {
     "objectID": "articles/modules/W7.html#try",
     "href": "articles/modules/W7.html#try",
     "title": "W7: Hypothesis Testing",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\nW7: Slides 1\nW7: Slides 2"
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
   },
   {
     "objectID": "articles/modules/W7.html#apply",

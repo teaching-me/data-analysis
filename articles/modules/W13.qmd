@@ -41,7 +41,7 @@ Please complete the following BEFORE class:
 
 ### Before Thursday
 
-- Watch <a href="https://drive.google.com/file/d/1aDFkG_VUMJUEkNoE0Y21XhAZgD7yLU6W/view?usp=sharing" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min]
+<!-- - Watch <a href="https://drive.google.com/file/d/1aDFkG_VUMJUEkNoE0Y21XhAZgD7yLU6W/view?usp=sharing" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min] -->
 
 ### After Thursday
 

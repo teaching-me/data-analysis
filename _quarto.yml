@@ -42,8 +42,6 @@ website:
         file: articles/course_docs/syllabus.html#course-schedule
       - text: "Grading"
         file: articles/course_docs/syllabus.html#grading
-      - text: "Video Tutorials"
-        file: articles/course_docs/videos.qmd
       - text: "Additional Resources"
         file: articles/course_docs/resources.qmd
 

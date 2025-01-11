@@ -40,7 +40,7 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Thursday
 
-- Watch  <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a>
+<!-- - Watch  <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a> -->
 - Read Chapter 6 (Section 6.2 and 6.3) from the Gravetter & Wallnau (2017) textbook.
 
 ### After Thursday
@@ -107,9 +107,9 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 3 Quiz
-- Problem Set 2 due on Feb 12!
-- Optional Meme
+<!-- - Week 3 Quiz -->
+<!-- - Problem Set 2 due on Feb 12! -->
+<!-- - Optional Meme -->
 ::::
 :::
 
