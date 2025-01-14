@@ -85,7 +85,7 @@ knitr::include_graphics("imgs/try.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class. Activities are only open for the duration of the class. 
 
 
 ### Slides
@@ -96,7 +96,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 ### Activity Links
 
-<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/assignments/74023" role="button" target="_blank">W1: Activity 1</a>
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/assignments/74528?module_item_id=436591" role="button" target="_blank">W1: Activity 1</a>
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/assignments/74023?module_item_id=434885" role="button" target="_blank">W1: Activity 2</a>
 
 
 
