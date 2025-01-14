@@ -35,8 +35,6 @@ title: "Syllabus: Data Analysis"
 
 **Email**: smorrison\@bowdoin.edu
 
-**Office**: TBD
-
 #### **Jon Sides**
 <img width = "30%" height = "auto" src = "../../images/jon.png"><br>
 **Pronouns**: he/him
@@ -45,23 +43,24 @@ title: "Syllabus: Data Analysis"
 
 **Email**: jsides\@bowdoin.edu
 
-**Office**: Kanbar Hall, Room 101
-
 ### Student/Office Hours 
+
+You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
+
 
 **Prof. Kumar's office hours (Kanbar 217)**: <br>
 
-TBD
+- Tuesdays, 11 AM - 1 PM
+- Tuesdays & Thursdays, 4.15 PM - 5.30 PM
+- Fridays: 11 AM - 12.30 PM (could be virtual, will provide info in class)
 
 **Sydney's office hours (Kanbar 101)**<br>
 
-TBD
+- Mondays: 6-8 pm
 
-**Jon's office hours (Kanbar 101)**<br>
+**Jon's office hours (Kanbar 107)**<br>
 
-TBD
-
-You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
+- Sundays: 8-9 pm
 
 ### What is this course about?
 
