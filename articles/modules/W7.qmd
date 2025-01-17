@@ -38,11 +38,11 @@ Please complete the following BEFORE class
 ### Tuesday
 
 
-- Read Chapter 8 from the Gravetter & Wallnau (2017) textbook.
+<!-- - Read Chapter 8 from the Gravetter & Wallnau (2017) textbook. -->
 
 ### Thursday
 
-- Read Chapter 9 from the Gravetter & Wallnau (2017) textbook.
+<!-- - Read Chapter 9 from the Gravetter & Wallnau (2017) textbook. -->
 
 ::::
 :::

@@ -39,21 +39,22 @@ Please complete the following BEFORE class:
 
 ### Before Tuesday
 
+<!-- - Watch <a href="https://drive.google.com/file/d/1uOQEaG6Y8qtFtL7dzvkmQf9EwgOI-sU1/view?usp=sharing" target="_blank">Dependent Groups t-test </a> [6 min] -->
+<!-- - Watch <a href="https://drive.google.com/file/d/1UzjppvZhRpoOlARZv01KiSG1RuKo97dU/view?usp=drive_link" target="_blank">Repeated Measures ANOVA </a> [16 min] -->
 
-- [optional] Read Chapter 11 from the Gravetter & Wallnau (2017) textbook.
-- [optional] Read Chapter 13 from the Gravetter & Wallnau (2017) textbook.
+<!-- - [optional] Read Chapter 11 from the Gravetter & Wallnau (2017) textbook. -->
+<!-- - [optional] Read Chapter 13 from the Gravetter & Wallnau (2017) textbook. -->
 
 ### Before Thursday
 
-<!-- - Watch <a href="https://drive.google.com/file/d/1uOQEaG6Y8qtFtL7dzvkmQf9EwgOI-sU1/view?usp=sharing" target="_blank">Dependent Groups t-test </a> [6 min] -->
-<!-- - Watch <a href="https://drive.google.com/file/d/1UzjppvZhRpoOlARZv01KiSG1RuKo97dU/view?usp=drive_link" target="_blank">Repeated Measures ANOVA </a> [16 min] -->
-- [optional] Read Chapter 17 from the Gravetter & Wallnau (2017) textbook.
-
-### After Thursday
+<!-- - [optional] Read Chapter 17 from the Gravetter & Wallnau (2017) textbook. -->
 
 <!-- - Watch <a href="https://drive.google.com/file/d/1wlatMsrdIqa3tfGPCwIw9Vma-ygRdQg0/view?usp=sharing" target="_blank">Chi-square Goodness of Fit Test </a> [13 min] -->
 <!-- - Watch <a href="https://drive.google.com/file/d/1O7ecae2KLkrBCceNmuTMGz7TVBNRyD04/view?usp=drive_link" target="_blank">Chi-square Test of Independence </a> [11 min] -->
 
+### After Thursday
+
+- See [Apply](#apply) section.
 
 ::::
 :::
@@ -113,10 +114,10 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 14 Quiz
-- Problem Set 7 due on April 30!
-- Optional Meme
-- Canvas discussion board post OR practice questions!
+<!-- - Week 14 Quiz -->
+<!-- - Problem Set 7 due on April 30! -->
+<!-- - Optional Meme -->
+<!-- - Canvas discussion board post OR practice questions! -->
 
 
 ::::

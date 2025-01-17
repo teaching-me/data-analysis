@@ -35,17 +35,16 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-Please complete the following BEFORE class:
-
-- [optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook.
+<!-- - Watch <a href="https://drive.google.com/file/d/1aDFkG_VUMJUEkNoE0Y21XhAZgD7yLU6W/view?usp=sharing" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min] -->
+<!-- - [optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook. -->
 
 ### Before Thursday
 
-<!-- - Watch <a href="https://drive.google.com/file/d/1aDFkG_VUMJUEkNoE0Y21XhAZgD7yLU6W/view?usp=sharing" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min] -->
+
 
 ### After Thursday
 
-- Start working on Problem Set #7!
+- See [Apply](#apply) section.
 
 ::::
 :::
@@ -103,9 +102,9 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 13 Quiz
-- Optional Meme
-- Canvas discussion board post OR practice questions!
+<!-- - Week 13 Quiz -->
+<!-- - Optional Meme -->
+<!-- - Canvas discussion board post OR practice questions! -->
 
 ::::
 :::

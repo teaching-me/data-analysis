@@ -36,16 +36,15 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Tuesday
 
-- Read Chapters 4 and 5 from the Gravetter & Wallnau (2017) textbook.
+<!-- - Read Chapters 4 and 5 from the Gravetter & Wallnau (2017) textbook. -->
 
 ### Before Thursday
 
 <!-- - Watch  <a href="https://drive.google.com/file/d/1y0jCn4Y3tU1wLQ_1g4rL8ow98d4gZJPU/view?usp=drive_link" target="_blank">Variability and z-scores </a> -->
-- Read Chapter 6 (Section 6.2 and 6.3) from the Gravetter & Wallnau (2017) textbook.
+<!-- - Read Chapter 6 (Section 6.2 and 6.3) from the Gravetter & Wallnau (2017) textbook. -->
 
 ### After Thursday
-- Review everything! 
-- Work on Problem Set #2
+- See [Apply](#apply) section.
 
 ::::
 :::
@@ -112,8 +111,8 @@ Here are the to-do's for this week:
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430228" target="_blank">Problem Set 2</a></span>
 
 - Extra credit opportunities:
-  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434891" target="_blank">Exra Credit Questions</a></span>
-  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434892" target="_blank">Optional Meme Submission</a></span> 
+  - Submit <span style="color:#508AB0"><a href="" target="_blank">Exra Credit Questions</a></span>
+  - Submit <span style="color:#508AB0"><a href="" target="_blank">Optional Meme Submission</a></span> 
 ::::
 :::
 
