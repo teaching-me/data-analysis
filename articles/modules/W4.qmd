@@ -34,19 +34,17 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Tuesday
 
-- Read Chapter 15 (everything before Section 15.4) from the Gravetter & Wallnau (2017) textbook.
-- Read Chapter 16 (everything before Section 16.2) from the Gravetter & Wallnau (2017) textbook.
+<!-- - Watch videos for <a href="" target="_blank">Pearson correlation </a> 
+- Watch <a href="" target="_blank">Linear regression </a> -->
 
 
 ### Before Thursday
 
-- Read Chapter 15 (Section 15.5) from the Gravetter & Wallnau (2017) textbook.
-<!-- - Watch videos for <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a> and <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a> -->
+<!-- - Watch <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a> -->
 
 ### After Thursday
-  <!-- - Watch the video for <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a> -->
-  - Review everything!
-  - Work on Problem Set #3
+
+- See [Apply](#apply) section.
 
 
 ::::

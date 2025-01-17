@@ -35,15 +35,18 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class
 
-### Tuesday
+### Before Tuesday
 
 
-- Read Chapter 8 from the Gravetter & Wallnau (2017) textbook.
+<!-- - Read Chapter 8 from the Gravetter & Wallnau (2017) textbook. -->
 
-### Thursday
+### Before Thursday
 
-- Read Chapter 9 from the Gravetter & Wallnau (2017) textbook.
+<!-- - Read Chapter 9 from the Gravetter & Wallnau (2017) textbook. -->
 
+### After Thursday
+
+- See [Apply](#apply) section.
 ::::
 :::
 ::::
