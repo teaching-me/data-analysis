@@ -38,16 +38,15 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Tuesday
 
-- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434864" target="_blank">Summarizing Data</a></span>.
 - Read Chapter 2 from the Gravetter & Wallnau (2017) textbook.
 
 ### Before Thursday
 
-- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434889" target="_blank">Central Tendencies</a></span>.
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434864" target="_blank">Summarizing Data</a></span>.
 - Read Chapter 3 from the Gravetter & Wallnau (2017) textbook.
 
 ### After Thursday
-
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434889" target="_blank">Central Tendencies</a></span>.
 - See [Apply](#apply) section.
 
 ::::

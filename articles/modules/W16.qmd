@@ -33,12 +33,12 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-<!-- Please complete the following BEFORE class. Refer to the [schedule](../course_docs/syllabus.html#course-schedule) for deadlines. -->
+Please complete the following BEFORE class. Refer to the [schedule](../course_docs/syllabus.html#course-schedule) for deadlines.
 
-<!-- - ALL <i>Data Around Us </i> discussion board posts [Canvas] -->
-<!-- - ALL <i>Student Practice Questions </i> [Canvas] -->
-<!-- - ALL meme submissions -->
-<!-- - ALL PS submissions/revisions -->
+- ALL <i>Data Around Us </i> discussion board posts [Canvas]
+- ALL <i>Student Practice Questions </i> [Canvas]
+- ALL meme submissions
+- ALL PS submissions/revisions
 
 
 - Read about [resampling and bootstrapping](https://statsthinking21.github.io/statsthinking21-core-site/resampling-and-simulation.html)
@@ -99,10 +99,10 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-<!-- This week, you will be submitting the following (on Canvas): -->
+This week, you will be submitting the following (on Canvas):
 
-<!-- - April/May class survey for extra credit (due May 7) -->
-<!-- - BCQs! (in class) -->
+- April/May class survey for extra credit (due May 7)
+- BCQs! (in class)
 ::::
 :::
 
