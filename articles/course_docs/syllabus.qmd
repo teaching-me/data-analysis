@@ -160,7 +160,7 @@ Overall, these quizzes contribute 10 TOTAL points towards your final grade, but 
 
 Problem sets are meant to help you practice actually conducting data analysis on new datasets. Most problem sets will come from the course textbook and will involve solving problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the [video tutorials](videos.html#tutorial-library) on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform. 
 
-Each problem set is worth 5 points and there will be 7 problem sets throughout the semester. Your lowest scoring problem set will be dropped. Problem sets will be due roughly every week and will contain questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines - they will usually be due the Monday midnight before class. 
+Each problem set will be graded on 5 points (2.5 points per attempt) and there will be 7 problem sets throughout the semester. Your lowest scoring (*attempted*) problem set will be dropped. Problem sets will be due roughly every week and will contain questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines - they will usually be due the Monday midnight before class. 
 
 You are **strongly encouraged** to work regularly on the problem sets, i.e., try to attempt problems after each class so that the work does not pile up right before the deadline. You will find that you are able to grasp the concepts and analyses better this way.
 
@@ -176,13 +176,13 @@ Some students find it useful to consistently practice problem solving throughout
   - Deadline 2: After the first midterm
   - Deadline 3: After the second midterm
   
-If you choose to opt out of problem sets, those points will be re-distributed to the exam points for that portion of the semester (e.g., if you opt out at the beginning of the semester, the 15 points for the first three problem sets are re-allocated to Midterm 1). You must opt out of Option 1 (or back into Option 1) by indicating so on Canvas, so that we both have a record of your decision. Due dates for opting in and out are on the [course schedule](#course-schedule) and Canvas. These are hard deadlines. **You are strongly encouraged to opt for Option 1 at least through the first midterm**. At that point, you may consider opting out. I am happy to meet with anyone who wants to talk about which approach would be best for them.
+If you choose to opt out of problem sets, those points will be re-distributed to the exam points for that portion of the semester (e.g., if you opt out at the beginning of the semester, the 15 points for the first three problem sets are re-allocated to Midterm 1, meaning your midterm will be worth 30 points instead of 15 points). You must opt out of Option 1 (or back into Option 1) by indicating so on Canvas, so that we both have a record of your decision. Due dates for opting in and out are on the [course schedule](#course-schedule) and Canvas. These are hard deadlines. **You are strongly encouraged to opt for Option 1 at least through the first midterm**. At that point, you may consider opting out. I am happy to meet with anyone who wants to talk about which approach would be best for them.
 
 ### Exams
 
 The two midterm exams are not cumulative. The final is cumulative. Each exam is divided into two parts: a **conceptual** in-person part and a **computational** take-home part.
 
-- The **conceptual** in-person part includes multiple choice questions, definitions, matching items, and short answer questions. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.
+- The **conceptual** in-person part includes multiple choice questions, matching items, and short answer questions. You may use a Help Sheet. The Help Sheet includes both sides of a single, 8 1/2 X 11 sheet of paper.
 
 - The **computational** take-home part contains computational (problem-set like) questions; you will analyze various sets of data using the statistical techniques you have learned in the course. All take-homes are open-book but not open-person. That is, you can use our course materials, but you cannot collaborate with other students or ask anyone other than me (not even LAs) for help. 
 
