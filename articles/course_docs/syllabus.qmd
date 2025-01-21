@@ -158,7 +158,7 @@ Overall, these quizzes contribute 10 TOTAL points towards your final grade, but 
 
 ### Problem Sets
 
-Problem sets are meant to help you practice actually conducting data analysis on new datasets. Most problem sets will come from the course textbook and will involve solving problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the [video tutorials](videos.html#tutorial-library) on the course website so that you get comfortable with using Google Sheets and using simple formulas within that platform. 
+Problem sets are meant to help you practice actually conducting data analysis on new datasets. Most problem sets will come from the course textbook and will involve solving problems that will resemble the kinds of questions you may see on the exams in the course. These problem sets will test your ability to work with datasets and conduct simple statistical analyses via Google Sheets. You are encouraged to look over the videos on the course website (inside each module) so that you get comfortable with using Google Sheets and using simple formulas within that platform. 
 
 Each problem set will be graded on 5 points (2.5 points per attempt) and there will be 7 problem sets throughout the semester. Your lowest scoring (*attempted*) problem set will be dropped. Problem sets will be due roughly every week and will contain questions that will require you to do basic calculations and/or analyses. They may also contain some short answer questions. Please refer to Canvas for exact deadlines - they will usually be due the Monday midnight before class. 
 
