@@ -1,6 +1,6 @@
 ---
 title: "W16: Wrapping Up!"
-description: "It's a wrap! This module gives you some more details about end-of-semester things."
+description: "We will start wrapping up and tying up loose ends before the final exam! things."
 order: 13
 ---
 

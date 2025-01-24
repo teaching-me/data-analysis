@@ -1,6 +1,6 @@
 ---
 title: "W13: Additional Predictors"
-description: "This is the module for Week 13. We will discuss how to model data using more than one predictor"
+description: "This is the module for Week 13. We will discuss how to model data using more than one predictor."
 order: 10
 ---
 

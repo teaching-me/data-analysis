@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="This is the module for Week 7. We will learn about the ideas behind why we use statistics to make claims about the world around us.">
+<meta name="description" content="This is the module for Week 7. We will cover some basic ideas about making inferences about populations from samples. We will learn about the ideas behind why we use statistics to make claims about the world around us.">
 
-<title>data-analysis - W7: Hypothesis Testing</title>
+<title>data-analysis - W7: Sampling and Hypothesis Testing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,11 +71,11 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="data-analysis - W7: Hypothesis Testing">
-<meta property="og:description" content="This is the module for Week 7. We will learn about the ideas behind why we use statistics to make claims about the world around us.">
+<meta property="og:title" content="data-analysis - W7: Sampling and Hypothesis Testing">
+<meta property="og:description" content="This is the module for Week 7. We will cover some basic ideas about making inferences about populations from samples.">
 <meta property="og:site-name" content="data-analysis">
-<meta name="twitter:title" content="data-analysis - W7: Hypothesis Testing">
-<meta name="twitter:description" content="This is the module for Week 7. We will learn about the ideas behind why we use statistics to make claims about the world around us.">
+<meta name="twitter:title" content="data-analysis - W7: Sampling and Hypothesis Testing">
+<meta name="twitter:description" content="This is the module for Week 7. We will cover some basic ideas about making inferences about populations from samples.">
 <meta name="twitter:creator" content="@abhilashaakumar">
 <meta name="twitter:card" content="summary">
 </head>
@@ -123,7 +123,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">W7: Hypothesis Testing</h1>
+      <h1 class="quarto-secondary-nav-title">W7: Sampling and Hypothesis Testing</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -163,17 +163,17 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W5.html" class="sidebar-item-text sidebar-link">W5: Loose Ends / Exam 1</a>
+  <a href="../../articles/modules/W5.html" class="sidebar-item-text sidebar-link">W5: More Correlation and Regression</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W6.html" class="sidebar-item-text sidebar-link">W6: Sampling</a>
+  <a href="../../articles/modules/W6.html" class="sidebar-item-text sidebar-link">W6: Loose Ends / Exam 1</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W7.html" class="sidebar-item-text sidebar-link active">W7: Hypothesis Testing</a>
+  <a href="../../articles/modules/W7.html" class="sidebar-item-text sidebar-link active">W7: Sampling and Hypothesis Testing</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -198,12 +198,12 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W14.html" class="sidebar-item-text sidebar-link">W14: Miscellaneous Data</a>
+  <a href="../../articles/modules/W14.html" class="sidebar-item-text sidebar-link">W14: Repeated Measures</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W15.html" class="sidebar-item-text sidebar-link">W15: Odds and Ends / Final</a>
+  <a href="../../articles/modules/W15.html" class="sidebar-item-text sidebar-link">W15: Miscellaneous Data</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -232,12 +232,12 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">W7: Hypothesis Testing</h1>
+<h1 class="title d-none d-lg-block">W7: Sampling and Hypothesis Testing</h1>
 </div>
 
 <div>
   <div class="description">
-    This is the module for Week 7. We will learn about the ideas behind why we use statistics to make claims about the world around us.
+    This is the module for Week 7. We will cover some basic ideas about making inferences about populations from samples. We will learn about the ideas behind why we use statistics to make claims about the world around us.
   </div>
 </div>
 

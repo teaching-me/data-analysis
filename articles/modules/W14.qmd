@@ -1,6 +1,6 @@
 ---
-title: "W14: Miscellaneous Data"
-description: "This is the module for Week 14. We will discuss how to model data that are non-independent. We will also learn about how to model data that violate assumptions or have formats that we haven't discussed yet!"
+title: "W14: Repeated Measures"
+description: "This is the module for Week 14. We will discuss how to model data that are non-independent."
 order: 11
 ---
 

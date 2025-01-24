@@ -1,6 +1,6 @@
 ---
-title: "W7: Hypothesis Testing"
-description: "This is the module for Week 7. We will learn about the ideas behind why we use statistics to make claims about the world around us."
+title: "W7: Sampling and Hypothesis Testing"
+description: "This is the module for Week 7. We will cover some basic ideas about making inferences about populations from samples. We will learn about the ideas behind why we use statistics to make claims about the world around us."
 order: 6
 ---
 

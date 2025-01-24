@@ -1,6 +1,6 @@
 ---
-title: "W5: Loose Ends / Exam 1"
-description: "This is the module for Week 5. We will tie up some loose ends and do a brief review of concepts to get you ready for Exam 1!"
+title: "W5: More Correlation and Regression"
+description: "This is the module for Week 6. We will continue our discussion of correlation and regression."
 order: 4
 ---
 
@@ -13,8 +13,9 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Review key concepts 
-- Complete Exam 1
+- Discuss fundamental concepts in probability
+- Understand the idea of probability distributions
+- Describe sampling distributions and the basis of inferential statistics
 
 ## Prep 
 
@@ -33,14 +34,18 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-### Tuesday
+### Before Tuesday
 
-- Complete all practice assessments, review the material, and bring questions to class!
+<!-- - Read Chapter 6 (Sections 6.1, 6.4, and 6.5) from the Gravetter & Wallnau (2017) textbook. -->
 
-### Thursday
+### Before Thursday
 
-- Exam 1
+<!-- - Read Chapter 7 from the Gravetter & Wallnau (2017) textbook. -->
 
+
+### After Thursday
+
+- See [Apply](#apply) section.
 ::::
 :::
 ::::
@@ -67,8 +72,9 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W5_review.pdf" role="button" target="_blank">W5: Slides </a> -->
+<!-- <a class="btn btn-outline-info" href="../../slides/W6_probability.pdf" role="button" target="_blank">W6: Slides 1</a> -->
 
+<!-- <a class="btn btn-outline-info" href="../../slides/W6_sampling.pdf" role="button" target="_blank">W6: Slides 2</a> -->
 
 
 ::::
@@ -97,8 +103,8 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-<!-- - Exam 1 computational worksheet -->
-<!-- - Optional Meme -->
+- Week 6 Quiz
+- Optional Meme
 
 ::::
 :::

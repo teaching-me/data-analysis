@@ -1,6 +1,6 @@
 ---
-title: "W15: Odds and Ends / Final"
-description: "This is the module for Week 15. We will start wrapping up and tying up loose ends before the final exam!"
+title: "W15: Miscellaneous Data"
+description: "This is the module for Week 15. We will also learn about how to model data that violate assumptions or have formats that we haven't discussed yet!"
 order: 12
 ---
 
