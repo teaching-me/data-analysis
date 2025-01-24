@@ -13,8 +13,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Review course goals and content
-- Ready, set, and go for final exam!
+- Discuss non-continuous data
+- Introduce non-parametric tests
 
 ## Prep 
 

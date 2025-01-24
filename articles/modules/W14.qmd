@@ -15,8 +15,6 @@ knitr::opts_chunk$set(
 
 - Discuss paired t-tests
 - Discuss repeated measures ANOVA
-- Discuss non-continuous data
-- Introduce non-parametric tests
 
 ## Prep 
 
