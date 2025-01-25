@@ -1,6 +1,6 @@
 ---
 title: "W6: Loose Ends / Exam 1"
-description: "This is the module for Week 5. We will tie up some loose ends and do a brief review of concepts to get you ready for Exam 1!"
+description: "This is the module for Week 6. We will tie up some loose ends and do a brief review of concepts to get you ready for Exam 1!"
 order: 5
 ---
 

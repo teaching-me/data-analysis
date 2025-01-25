@@ -34,15 +34,18 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Tuesday
 
-<!-- - Watch videos for <a href="https://drive.google.com/file/d/12_c49z9-YW0FzYHgJAsMsYnWZASq189i/view?usp=drive_link" target="_blank">Pearson correlation </a> and <a href="https://drive.google.com/file/d/1dSN9ng_7h9D-CltLEKZ68PGu178QAnUE/view?usp=drive_link" target="_blank">Linear regression </a> -->
-<!-- - Read Chapter 15 (everything before Section 15.4) from the Gravetter & Wallnau (2017) textbook. -->
-<!-- - Read Chapter 16 (everything before Section 16.2) from the Gravetter & Wallnau (2017) textbook. -->
+Note that February 11th's class is canceled. In lieu of this class, please review the material we have covered thus far and start preparing for Midterm 1.
 
+Some optional material to consider reading:
+
+- OPTIONAL: Read Chapter 15 (everything before Section 15.4) from the Gravetter & Wallnau (2017) textbook.
+- OPTIONAL: Read Chapter 16 (everything before Section 16.2) from the Gravetter & Wallnau (2017) textbook.
 
 ### Before Thursday
 
-<!-- - Read Chapter 15 (Section 15.5) from the Gravetter & Wallnau (2017) textbook. -->
-<!-- - Watch the video for <a href="https://drive.google.com/file/d/1WUiPCeEvma1UtRRgccYZWkpOSA2nA7Ki/view?usp=drive_link" target="_blank">Spearman and point biserial correlations </a> -->
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/436240" target="_blank">Pearson correlation</a></span>.
+
+- Watch: <span style="color:#508AB0"><a href="" target="_blank">Linear regression</a></span>.
 
 ### After Thursday
   
@@ -106,11 +109,17 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
+Here are the to-do's for this week:
 
-<!-- - Week 4 Quiz -->
-<!-- - Problem Set 3 due on Feb 19 -->
-<!-- - Optional Meme -->
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430229" target="_blank">Problem Set 2 revisions </a></span>
+
+- Start working on <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430230" target="_blank">Problem Set 3 </a></span>
+
+- Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>! 
+
+- Extra credit opportunities:
+  - Submit <span style="color:#508AB0"><a href="" target="_blank">Exra Credit Questions</a></span>
+  - Submit <span style="color:#508AB0"><a href="" target="_blank">Optional Meme Submission</a></span> 
 ::::
 :::
 
