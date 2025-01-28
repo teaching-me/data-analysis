@@ -38,12 +38,12 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Tuesday
 
-- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434864" target="_blank">Summarizing Data</a></span>.
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434864" target="_blank">Summarizing Data</a></span>. ([See Google Sheets Solution Here](https://docs.google.com/spreadsheets/d/1uD6vX4JxAJYn7jdYEE6RLl6eh0kDihLDP0_ArTMelaA/edit?usp=sharing))
 - Read Chapter 2 from the Gravetter & Wallnau (2017) textbook.
 
 ### Before Thursday
 
-- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434889" target="_blank">Central Tendencies</a></span>.
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/434889" target="_blank">Central Tendencies</a></span>. ([See Google Sheets Solution Here](https://docs.google.com/spreadsheets/d/1gu065KktLc3UMqEXTxw7_2rfmuYYeDDCJ6bLcB-zoVQ/edit?usp=sharing))
 - Read Chapter 3 from the Gravetter & Wallnau (2017) textbook.
 
 ### After Thursday
@@ -78,13 +78,13 @@ Here you will find the slides for each class session as well as links to any dem
 ### Slides
 
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W2_summarize.pdf" role="button" target="_blank">W2: Slides 1</a> -->
+<a class="btn btn-outline-info" href="../../slides/W2_summarize.pdf" role="button" target="_blank">W2: Slides 1</a>
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W2_central_tendency.pdf" role="button" target="_blank">W2: Slides 2</a> -->
 
 ### Activity Links
 
-<!-- <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/assignments/74023" role="button" target="_blank">W1: Activity 1</a> -->
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/447761" role="button" target="_blank">W2: Activity 1</a>
 
 
 ::::
