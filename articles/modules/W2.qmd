@@ -80,11 +80,15 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W2_summarize.pdf" role="button" target="_blank">W2: Slides 1</a>
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W2_central_tendency.pdf" role="button" target="_blank">W2: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W2_central_tendency.pdf" role="button" target="_blank">W2: Slides 2</a>
 
 ### Activity Links
 
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/447761" role="button" target="_blank">W2: Activity 1</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/quizzes/10581" role="button" target="_blank">W2: Activity 2</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/quizzes/10582" role="button" target="_blank">W2: Activity 3</a>
 
 
 ::::
