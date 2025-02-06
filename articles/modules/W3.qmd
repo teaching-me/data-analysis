@@ -75,7 +75,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W3_variability_zscores.pdf" role="button" target="_blank">W3: Slides 1</a>
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W3_normal_distribution.pdf" role="button" target="_blank">W3: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W3_normal_distribution.pdf" role="button" target="_blank">W3: Slides 2</a>
 
 
 ### Activity Links
@@ -83,6 +83,10 @@ Here you will find the slides for each class session as well as links to any dem
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/449452" role="button" target="_blank">W3: Activity 1</a>
 
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/449473" role="button" target="_blank">W3: Activity 2</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/449782" role="button" target="_blank">W3: Activity 3</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/450877" role="button" target="_blank">W3: Activity 4</a>
 
 
 ::::
@@ -112,8 +116,9 @@ knitr::include_graphics("imgs/apply.png")
 Here are the to-do's for this week:
 
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/quizzes/10207?module_item_id=430226" target="_blank">Week 3 Quiz</a></span> 
-- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430225" target="_blank">Problem Set 1 revisions </a></span>
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430228" target="_blank">Problem Set 2</a></span>
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430225" target="_blank">Problem Set 1 revisions </a></span>
+- Work on [W3 Review Activity](https://docs.google.com/document/d/1Q34N__aHLzf0V-quRLL37gW4w-orqX3AheR7_8rk2k0/edit?usp=sharing)
 - Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>! 
 
 - Extra credit opportunities:
