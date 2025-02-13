@@ -51,8 +51,7 @@ Some optional material to consider reading (Note: Our approach towards regressio
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430225" target="_blank">Problem Set 1 revisions </a></span>
 - Complete [W3 Review Activity](https://docs.google.com/document/d/1Q34N__aHLzf0V-quRLL37gW4w-orqX3AheR7_8rk2k0/edit?usp=sharing)
 - Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/436240" target="_blank">Pearson correlation</a></span>.
-
-- Watch: <span style="color:#508AB0"><a href="" target="_blank">Linear regression</a></span>.
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/447894" target="_blank">Linear regression</a></span>.
 
 ### After Thursday
   
@@ -85,11 +84,13 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W4_correlation_regression.pdf" role="button" target="_blank">W4: Slides 1</a> -->
+<a class="btn btn-outline-info" href="../../slides/W4_correlation_regression.pdf" role="button" target="_blank">W4: Slides </a>
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W4_correlations_2.pdf" role="button" target="_blank">W4: Slides 2</a> -->
 
+### Activity Links
 
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/452874" role="button" target="_blank">W4: Activity</a>
 
 
 ::::

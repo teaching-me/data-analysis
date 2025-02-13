@@ -244,10 +244,10 @@ Sometimes, life doesn't go as planned and you have way too much going on to turn
 
 1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester. You can use both days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments. 
 2. Flex days can ONLY be used for quizzes and problem sets unless otherwise stated in class.
-3. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
-4. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 90% of the original points if it is 12 hours late, 70% of the original points if it is between 12-24 hours late, and 50% of the original points if it is over 24 hours late.
-5. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension and any work that is handed in beyond 24 hours after a flex day was requested will either need to use an additional flex day or will be graded based on the policy specified in Point 4 above.
-6. To request a flex day, you can send me an email within the 24-hour extension window, or simply leave a comment on your submitted assignment on Canvas. 
+3. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.
+4. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension.
+5. Work that is handed in late beyond the flex days or without an **approved extension** will automatically incur a 10% penalty per day, with a lowest possible score of 50% of the original points.
+6. To request a flex day, you can leave a comment on your submitted assignment on Canvas. If your work is late and no comment is made on Canvas, the late penalty will be automatically applied.
 
 ### Inclusion
 I will do my very best to ensure that students from all backgrounds and perspectives receive equitable access and opportunity in this course, that students' learning needs be addressed both in and out of class, and that the diversity students bring to this class is viewed as a resource, strength, and benefit. I hope to employ materials and engage in activities and dialogue that are respectful of different aspects of your identity. 
