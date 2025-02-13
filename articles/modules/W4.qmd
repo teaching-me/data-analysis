@@ -84,7 +84,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W4_correlation_regression.pdf" role="button" target="_blank">W4: Slides </a>
+<a class="btn btn-outline-info" href="../../slides/W4_correlation_regression.pptx" role="button" target="_blank">W4: Slides </a>
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W4_correlations_2.pdf" role="button" target="_blank">W4: Slides 2</a> -->
 
