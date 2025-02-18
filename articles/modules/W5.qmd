@@ -14,6 +14,7 @@ knitr::opts_chunk$set(
 ## Goals
 
 - Discuss special cases
+- Discuss model fit
 - Introduce other forms of correlation
 
 ## Prep 
@@ -35,10 +36,7 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Tuesday
 
-- Start preparing for Midterm 1! Practice Midterm will be uploaded here soon.
-
-<!-- - Read Chapter 15 (Section 15.5) from the Gravetter & Wallnau (2017) textbook. -->
-<!-- - Read Chapter 6 (Sections 6.1, 6.4, and 6.5) from the Gravetter & Wallnau (2017) textbook. -->
+- Start preparing for Midterm 1. Practice midterm is now available: see the [Apply](#apply) section. Submitting the practice midterm by next Monday counts towards class participation.
 
 ### Before Thursday
 
@@ -75,9 +73,18 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W6_probability.pdf" role="button" target="_blank">W6: Slides 1</a> -->
+<a class="btn btn-outline-info" href="../../slides/W5_model_fit.pdf" role="button" target="_blank">W5: Slides 1</a>
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W6_sampling.pdf" role="button" target="_blank">W6: Slides 2</a> -->
+
+### Activities
+
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1ntMP0RihLRZOR7FyDOXMFBFk3qOu93qtogF9-yuD7m4/edit?usp=sharing" role="button" target="_blank">W5: Activity 1</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/453459" role="button" target="_blank">W5: Activity 2</a>
+
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1ntMP0RihLRZOR7FyDOXMFBFk3qOu93qtogF9-yuD7m4/edit?usp=sharing" role="button" target="_blank">W5: Activity 3</a>
+
 
 
 ::::
@@ -108,6 +115,8 @@ Here are the to-do's for this week:
 
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430227" target="_blank">Week 5 Quiz</a></span> 
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430230" target="_blank">Problem Set 3</a></span>
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430213" target="_blank">Practice Midterm 1 (Conceptual)</a></span>
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/453110" target="_blank">Practice Midterm 1 (Computational)</a></span>
 - Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>! 
 
 - Extra credit opportunities:
