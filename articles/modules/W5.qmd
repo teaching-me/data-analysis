@@ -80,9 +80,13 @@ Here you will find the slides for each class session as well as links to any dem
 
 ### Activities
 
-<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1ntMP0RihLRZOR7FyDOXMFBFk3qOu93qtogF9-yuD7m4/edit?usp=sharing" role="button" target="_blank">W5: Activity 1, 3, and 4</a>
-
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/453459" role="button" target="_blank">W5: Activity 2</a>
+
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1ntMP0RihLRZOR7FyDOXMFBFk3qOu93qtogF9-yuD7m4/edit?usp=sharing" role="button" target="_blank">W5: Activity 1, 3, 4 & 5</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/454267" role="button" target="_blank">W5: Activity 6</a>
+
+
 
 
 [W5 Activity Solutions](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=sharing)
