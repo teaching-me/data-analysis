@@ -35,6 +35,8 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Tuesday
 
+Try to complete these or at least skim through them by Tuesday. They will remain open until Wednesday night.
+
 - Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430213" target="_blank">Practice Midterm 1 (Conceptual)</a></span>
 - Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/453110" target="_blank">Practice Midterm 1 (Computational)</a></span>
 
