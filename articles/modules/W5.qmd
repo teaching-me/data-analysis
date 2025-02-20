@@ -76,13 +76,20 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W5_model_fit.pdf" role="button" target="_blank">W5: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W5_assumptions.pdf" role="button" target="_blank">W5: Slides 2</a>
+
 <!-- <a class="btn btn-outline-info" href="../../slides/W6_sampling.pdf" role="button" target="_blank">W6: Slides 2</a> -->
 
 ### Activities
 
+#### Tuesday
+
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1ntMP0RihLRZOR7FyDOXMFBFk3qOu93qtogF9-yuD7m4/edit?usp=sharing" role="button" target="_blank">W5: Activity 1 and 3 </a>
+
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/453459" role="button" target="_blank">W5: Activity 2</a>
 
-<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1ntMP0RihLRZOR7FyDOXMFBFk3qOu93qtogF9-yuD7m4/edit?usp=sharing" role="button" target="_blank">W5: Activity 1, 3, 4 & 5</a>
+#### Thursday
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1ntMP0RihLRZOR7FyDOXMFBFk3qOu93qtogF9-yuD7m4/edit?usp=sharing" role="button" target="_blank">W5: Activity 4 & 5</a>
 
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/454267" role="button" target="_blank">W5: Activity 6</a>
 
