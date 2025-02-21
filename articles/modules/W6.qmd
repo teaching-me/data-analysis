@@ -39,6 +39,10 @@ Complete before class. Solutions will be released by Tuesday noon.
 
 - Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430213" target="_blank">Practice Midterm 1 (Conceptual)</a></span>
 - Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/453110" target="_blank">Practice Midterm 1 (Computational)</a></span>
+- Review [W5 Activity Solutions](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=sharing)
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/454716" target="_blank">Calculating Model Fits</a></span>.([See Google Sheets Solution Here](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=drive_link))
+
+Bring questions to class!
 
 ### Thursday
 

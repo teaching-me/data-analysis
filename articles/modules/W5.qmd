@@ -41,12 +41,12 @@ knitr::include_graphics("imgs/prep.png")
 ### Before Thursday
 
 - Review [W5 Activity Solutions](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=sharing)
-
 - Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/447896" target="_blank">Spearman and Point Biserial Correlations</a></span>.([See Google Sheets Solution Here](https://docs.google.com/spreadsheets/d/10Qt8QBd-l6da4as99_5jtqqxVXfKs8yOI9qILnbiDFo/edit?usp=sharing))
 
 
 ### After Thursday
-
+- Review [W5 Activity Solutions](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=sharing)
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/454716" target="_blank">Calculating Model Fits</a></span>.([See Google Sheets Solution Here](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=drive_link))
 - See [Apply](#apply) section.
 ::::
 :::
@@ -93,10 +93,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/454267" role="button" target="_blank">W5: Activity 6</a>
 
-
-
-
-[W5 Activity Solutions](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=sharing)
+-[W5 Activity Solutions](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=sharing)
 
 
 ::::
