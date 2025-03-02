@@ -1,5 +1,5 @@
 ---
-title: "W11: Modeling Relationships II"
+title: "W11: Special Cases"
 description: "This is the module for Week 11. We will learn how to conceptualize different statistical procedures for different kinds of data within the same general framework of a linear model"
 order: 8
 ---

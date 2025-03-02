@@ -1,6 +1,6 @@
 ---
-title: "W10: Modeling Relationships I"
-description: "Welcome back!! This is the module for Week 10. We will revisit hypothesis testing, t-tests, and linear models!"
+title: "W10: Modeling Relationships"
+description: "Welcome back!! This is the module for Week 10. We will revisit hypothesis testing and linear models!"
 order: 7
 ---
 

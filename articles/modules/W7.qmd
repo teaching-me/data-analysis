@@ -33,16 +33,24 @@ knitr::include_graphics("imgs/prep.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-Please complete the following BEFORE class
+### Before Tuesday
 
-### Tuesday
+Make sure you submit your Midterm 1 (Computational) on time! 
+
+### Before Thursday
+
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/456223" target="_blank">Hypothesis Testing (Correlations)</a></span>.
+
+<!-- ([See Google Sheets Solution Here](https://docs.google.com/spreadsheets/d/14XuoLvnl9BpY0-ul54TQ8zCeoBcS0n_hfKV3OpSOFgQ/edit?usp=drive_link)) -->
 
 
-<!-- - Read Chapter 8 from the Gravetter & Wallnau (2017) textbook. -->
+### After Thursday
 
-### Thursday
+- Fill out the <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/453353" target="_blank">Mid-Semester Survey</a></span> for extra credit! 
+  - Due after spring break
+- See [Apply](#apply) section.
 
-<!-- - Read Chapter 9 from the Gravetter & Wallnau (2017) textbook. -->
+
 
 ::::
 :::
@@ -99,11 +107,18 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
+Here are the to-do's for this week:
 
-<!-- - Week 7 Quiz -->
-<!-- - Problem Set 4 due on March 12! -->
-<!-- - Optional Meme -->
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/456220" target="_blank">Week 7 Quiz</a></span> 
+- Submit  <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430231" target="_blank">Problem Set 3 Revision</a></span>
+- Start working on <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430235" target="_blank">Problem Set 4</a></span>
+- Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>!
+- Have a wonderful spring break!!
+
+- Extra credit opportunities:
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/453353" target="_blank">Mid-Semester Survey</a></span>
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/456216" target="_blank">Exra Credit Questions</a></span>
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/456217" target="_blank">Optional Meme Submission</a></span> 
 
 ::::
 :::
