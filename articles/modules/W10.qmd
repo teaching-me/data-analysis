@@ -97,7 +97,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="../../slides/W10_regression_F.pdf" role="button" target="_blank">W10: Slides 1</a>
+<a class="btn btn-outline-info" href="../../slides/W10_F_regression.pdf" role="button" target="_blank">W10: Slides 1</a>
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W10_relationships_2.pdf" role="button" target="_blank">W10: Slides 2</a> -->
 
