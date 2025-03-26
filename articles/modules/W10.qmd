@@ -41,25 +41,23 @@ knitr::include_graphics("imgs/prep.png")
 <!-- - Watch <a href="https://drive.google.com/file/d/1xeFdH3wDgfJZ--BBmjQgIjIeNnnCl3i1/view?usp=sharing" target="_blank">Hypothesis Testing (Pearson correlation) </a> [8 min] -->
 <!-- - Watch <a href="https://drive.google.com/file/d/1SCGHcyaPTyodO8yOl3TvUU5m-HmJ50PD/view?usp=sharing" target="_blank"> Hypothesis Testing (Linear regression: t-test) </a> [14 min] -->
 - Review [W7](../modules/W7.html#slides) slides!
-- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450215" target="_blank">Hypothesis Testing (Linear Regression)</a></span>. (ok to watch after Tuesday!)
-  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/109elfDzZX2xnguy680JKUnjuPdEKdV1wCDdKn31HM3Q/edit?usp=sharing" target="_blank">Practice Data</a></span>
-  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1sU1h3I33AweSmHrDTMAShPrs8WWfgRAefMTZ0vWKWVg/edit?usp=sharing" target="_blank">Solution Sheet</a></span>
 
 <!-- - [optional] Read Chapter 16 (Section 16.2) from the Gravetter & Wallnau (2017) textbook. -->
 <!-- - [optional] Read Chapter 15 (Section 15.4) from the Gravetter & Wallnau (2017) textbook. -->
 
 ### Before Thursday
 
+- Review <span style="color:#508AB0"><a href="https://docs.google.com/document/d/1C6QQkBGHs1uwSTo2_PkHqMqJDNj3fFK5CXAbhCMlFEY/edit?usp=sharing" target="_blank">W10 Activity 1 Solutions</a></span>.
+
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450215" target="_blank">Hypothesis Testing (Linear Regression)</a></span>
+  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/109elfDzZX2xnguy680JKUnjuPdEKdV1wCDdKn31HM3Q/edit?usp=sharing" target="_blank">Practice Data</a></span>
+  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1sU1h3I33AweSmHrDTMAShPrs8WWfgRAefMTZ0vWKWVg/edit?usp=sharing" target="_blank">Solution Sheet</a></span>
+
 - Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450216" target="_blank">Hypothesis Testing (Two groups F Test)</a></span>.
 
   - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/109elfDzZX2xnguy680JKUnjuPdEKdV1wCDdKn31HM3Q/edit?usp=sharing" target="_blank">Practice Data</a></span>
-
   - For solution, see the three groups solution below and adapt to two groups.
   
-- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450225" target="_blank">Hypothesis Testing (One-way ANOVA)</a></span>.
-  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/109elfDzZX2xnguy680JKUnjuPdEKdV1wCDdKn31HM3Q/edit?usp=sharing" target="_blank">Practice Data</a></span>
-  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1RaWqoSi5UvziRDVYmlHUkGaqdK3s3Jpf7rFdnbfVqfE/edit?usp=sharing" target="_blank">Solution Sheet</a></span>
-
 
 <!-- - Watch <a href="https://drive.google.com/file/d/1ynV0050sH3nLTdXqBjMGGw0NzXQgKcAC/view?usp=drive_link" target="_blank">Hypothesis Testing (Linear regression: F-test) </a> [13.5 min] -->
 <!-- - [optional] Read Chapter 10 from the Gravetter & Wallnau (2017) textbook. -->
@@ -67,6 +65,10 @@ knitr::include_graphics("imgs/prep.png")
 
 
 ### After Thursday
+
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450225" target="_blank">Hypothesis Testing (One-way ANOVA)</a></span>.
+  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/109elfDzZX2xnguy680JKUnjuPdEKdV1wCDdKn31HM3Q/edit?usp=sharing" target="_blank">Practice Data</a></span>
+  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1RaWqoSi5UvziRDVYmlHUkGaqdK3s3Jpf7rFdnbfVqfE/edit?usp=sharing" target="_blank">Solution Sheet</a></span>
 
 - Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450218" target="_blank">Completing F tables</a></span>.
 
