@@ -101,6 +101,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W10_F_regression.pdf" role="button" target="_blank">W10: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W10_F_tests.pdf" role="button" target="_blank">W10: Slides 2</a>
+
 <!-- <a class="btn btn-outline-info" href="../../slides/W10_relationships_2.pdf" role="button" target="_blank">W10: Slides 2</a> -->
 
 ### Activities
