@@ -111,6 +111,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1a0Q2Eq5Js6_OO2e_GiXSy62gs6gY3h381SIcdT6FLzE/edit?usp=sharing" role="button" target="_blank">W10: Activity 2</a>
 
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1iBmAQypal7GQlSmwJQyBehhFFFbZETABmaArny_Ipnk/edit?usp=sharing" role="button" target="_blank">W10: Activity 3</a>
+
 ::::
 :::
 
