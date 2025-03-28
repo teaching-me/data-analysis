@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="This is the module for Week 11. We will learn how to conceptualize different statistical procedures for different kinds of data within the same general framework of a linear model">
+<meta name="description" content="This is the module for Week 11. We will learn about some special cases where different kinds of statistical tests are conducted.">
 
 <title>data-analysis - W11: Special Cases</title>
 <style>
@@ -72,10 +72,10 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="data-analysis - W11: Special Cases">
-<meta property="og:description" content="This is the module for Week 11. We will learn how to conceptualize different statistical procedures for different kinds of data within the same general framework of a linear model">
+<meta property="og:description" content="This is the module for Week 11. We will learn about some special cases where different kinds of statistical tests are conducted.">
 <meta property="og:site-name" content="data-analysis">
 <meta name="twitter:title" content="data-analysis - W11: Special Cases">
-<meta name="twitter:description" content="This is the module for Week 11. We will learn how to conceptualize different statistical procedures for different kinds of data within the same general framework of a linear model">
+<meta name="twitter:description" content="This is the module for Week 11. We will learn about some special cases where different kinds of statistical tests are conducted.">
 <meta name="twitter:creator" content="@abhilashaakumar">
 <meta name="twitter:card" content="summary">
 </head>
@@ -237,7 +237,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 <div>
   <div class="description">
-    This is the module for Week 11. We will learn how to conceptualize different statistical procedures for different kinds of data within the same general framework of a linear model
+    This is the module for Week 11. We will learn about some special cases where different kinds of statistical tests are conducted.
   </div>
 </div>
 
@@ -255,8 +255,8 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <section id="goals" class="level2">
 <h2 class="anchored" data-anchor-id="goals">Goals</h2>
 <ul>
-<li>Discuss how to fit models with categorical/nominal predictors</li>
-<li>Re-introduce ANOVAs and its variations</li>
+<li>Discuss single sample variations (one sample z-test and t-test)</li>
+<li>Discuss independent t-test as a subset of ANOVAs</li>
 </ul>
 </section>
 <section id="prep" class="level2">
@@ -278,15 +278,25 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </div>
 <div class="g-col-9">
 <div class="card-body">
-<p>Please complete the following BEFORE class</p>
 <section id="before-tuesday" class="level3">
 <h3 class="anchored" data-anchor-id="before-tuesday">Before Tuesday</h3>
+<!-- - Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: F-test) </a> [12 min] -->
+<!-- - Watch <a href="https://drive.google.com/file/d/1vTOd9K0wxKDy7s1YmsIaTC-FE3dxtzjr/view?usp=sharing" target="_blank">Hypothesis Testing (one-way ANOVA: F-test) </a> [18 min] -->
+<!-- - Review the <a href="../../slides/all_tests.pdf" role="button" target="_blank">compiled slide deck</a> for ALL hypothesis tests so far! -->
 <ul>
-<li>Review <a href="../modules/W10.html#slides">W10</a> slides on F-test and t-test! <!-- - Watch <a href="https://drive.google.com/file/d/1Wg1vFdzJoxUUnXn9F-O-h5HhsKSUg6Ek/view?usp=drive_link" target="_blank">Hypothesis Testing (two-groups: F-test) </a> [12 min] --> <!-- - Watch <a href="https://drive.google.com/file/d/1vTOd9K0wxKDy7s1YmsIaTC-FE3dxtzjr/view?usp=sharing" target="_blank">Hypothesis Testing (one-way ANOVA: F-test) </a> [18 min] --> <!-- - Review the <a href="../../slides/all_tests.pdf" role="button" target="_blank">compiled slide deck</a> for ALL hypothesis tests so far! --> <!-- - [optional] Read Chapter 12 from the Gravetter & Wallnau (2017) textbook. --></li>
+<li>[optional but encouraged] Read Chapters 7, 8, and 9 from the Gravetter &amp; Wallnau (2017) textbook.</li>
 </ul>
 </section>
 <section id="before-thursday" class="level3">
 <h3 class="anchored" data-anchor-id="before-thursday">Before Thursday</h3>
+<ul>
+<li>[optional but encouraged] Read Chapter 10 from the Gravetter &amp; Wallnau (2017) textbook.</li>
+<li>Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450225" target="_blank">Hypothesis Testing (Independent Sample t-test)</a></span>.
+<ul>
+<li><span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1VPVUHcTh99cs353_z_r3bZ0FbEgGsfrxj_5U4m-0q8w/edit?usp=sharing" target="_blank">Practice Data</a></span></li>
+<li><span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1sLI5W5TJsfbE43uBtnn8CvSSxYMi-TEMTZ8eeot_ymc/edit?usp=sharing" target="_blank">Solution Sheet</a></span></li>
+</ul></li>
+</ul>
 </section>
 <section id="after-thursday" class="level3">
 <h3 class="anchored" data-anchor-id="after-thursday">After Thursday</h3>
@@ -317,12 +327,19 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </div>
 </div>
 <div class="g-col-9">
-<section id="slides" class="level3 card-body">
+<div class="card-body">
+<section id="slides" class="level3">
 <h3 class="anchored" data-anchor-id="slides">Slides</h3>
 <p>Here you will find the slides for each class session as well as links to any demos/activities we may do in class.</p>
 <!-- <a class="btn btn-outline-info" href="../../slides/W11_anovas.pdf" role="button" target="_blank">W11: Slides 1</a> -->
 <!-- <a class="btn btn-outline-info" href="../../slides/W11_review.pdf" role="button" target="_blank">W11: Review Slides</a> -->
 </section>
+<section id="activities" class="level3">
+<h3 class="anchored" data-anchor-id="activities">Activities</h3>
+<!-- <a class="btn btn-outline-info" href="" role="button" target="_blank">Hypothesis Tests Flowchart</a> -->
+<!-- <a class="btn btn-outline-info" href="" role="button" target="_blank">Hypothesis Tests Process</a> -->
+</section>
+</div>
 </div>
 </div>
 </div>
@@ -346,10 +363,18 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </div>
 <div class="g-col-9">
 <div class="card-body">
-<p>This week, you will be submitting the following (on Canvas):</p>
-<!-- - March class survey for extra credit -->
-<!-- - Problem Set 6 due on April 9! -->
-<!-- - Optional Meme -->
+<p>Here are the to-do’s for this week:</p>
+<ul>
+<li><p>Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430237" target="_blank">Week 11 Quiz</a></span></p></li>
+<li><p>Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430238" target="_blank">Problem Set 5</a></span></p></li>
+<li><p>Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430243" target="_blank">Practice Midterm 2 (Conceptual)</a></span></p></li>
+<li><p>Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>!</p></li>
+<li><p>Extra credit opportunities:</p>
+<ul>
+<li>Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/449132" target="_blank">Exra Credit Questions</a></span></li>
+<li>Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/449133" target="_blank">Optional Meme Submission</a></span></li>
+</ul></li>
+</ul>
 </div>
 </div>
 </div>

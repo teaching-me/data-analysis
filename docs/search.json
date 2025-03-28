@@ -137,28 +137,28 @@
     "href": "articles/modules/W11.html",
     "title": "W11: Special Cases",
     "section": "",
-    "text": "Discuss how to fit models with categorical/nominal predictors\nRe-introduce ANOVAs and its variations"
+    "text": "Discuss single sample variations (one sample z-test and t-test)\nDiscuss independent t-test as a subset of ANOVAs"
   },
   {
     "objectID": "articles/modules/W11.html#prep",
     "href": "articles/modules/W11.html#prep",
     "title": "W11: Special Cases",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nBefore Tuesday\n\nReview W10 slides on F-test and t-test!    \n\n\n\nBefore Thursday\n\n\nAfter Thursday\n\nSee Apply section."
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Tuesday\n\n\n\n\n[optional but encouraged] Read Chapters 7, 8, and 9 from the Gravetter & Wallnau (2017) textbook.\n\n\n\nBefore Thursday\n\n[optional but encouraged] Read Chapter 10 from the Gravetter & Wallnau (2017) textbook.\nWatch: Hypothesis Testing (Independent Sample t-test).\n\nPractice Data\nSolution Sheet\n\n\n\n\nAfter Thursday\n\nSee Apply section."
   },
   {
     "objectID": "articles/modules/W11.html#try",
     "href": "articles/modules/W11.html#try",
     "title": "W11: Special Cases",
     "section": "Try",
-    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class."
+    "text": "Try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlides\nHere you will find the slides for each class session as well as links to any demos/activities we may do in class.\n\n\n\n\nActivities"
   },
   {
     "objectID": "articles/modules/W11.html#apply",
     "href": "articles/modules/W11.html#apply",
     "title": "W11: Special Cases",
     "section": "Apply",
-    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):"
+    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere are the to-do’s for this week:\n\nSubmit Week 11 Quiz\nSubmit Problem Set 5\nComplete Practice Midterm 2 (Conceptual)\nSubmit any lingering questions here!\nExtra credit opportunities:\n\nSubmit Exra Credit Questions\nSubmit Optional Meme Submission"
   },
   {
     "objectID": "articles/modules/W12.html",
@@ -172,7 +172,7 @@
     "href": "articles/modules/W12.html#prep",
     "title": "W12: Loose Ends / Exam 2",
     "section": "Prep",
-    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nTuesday\n\nComplete all practice assessments, review the material, and bring questions to class!\n\n\n\nThursday\n\nExam 2"
+    "text": "Prep\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlease complete the following BEFORE class\n\nTuesday\n\nComplete Practice Midterm 2 (Conceptual)\nSubmit any lingering questions here!\n\n\n\nThursday\n\nComplete Midterm 2 (Conceptual): IN CLASS\n\n\n\nAfter Thursday\n\nComplete Practice Midterm 2 (Computational): due Friday night (solutions will be released Friday night)\nSubmit Midterm 2 (Computational): Due Monday midnight, NO late submissions will be graded"
   },
   {
     "objectID": "articles/modules/W12.html#try",
@@ -186,7 +186,7 @@
     "href": "articles/modules/W12.html#apply",
     "title": "W12: Loose Ends / Exam 2",
     "section": "Apply",
-    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the following (on Canvas):\n\nComputational worksheet for Exam 2\nOptional Meme"
+    "text": "Apply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis week, you will be submitting the computational portion of Midterm 2. No late submissions will be accepted or graded.\n\nSubmit Midterm 2 (Computational): Due Monday midnight"
   },
   {
     "objectID": "articles/modules/W13.html",

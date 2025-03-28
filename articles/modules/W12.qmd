@@ -1,6 +1,6 @@
 ---
 title: "W12: Loose Ends / Exam 2"
-description: "This is the module for Week 7. We will tie up some loose ends and do a brief review of concepts to get you ready for Exam 2!"
+description: "This is the module for Week 12. We will tie up some loose ends and do a brief review of concepts to get you ready for Exam 2!"
 order: 9
 ---
 
@@ -38,11 +38,21 @@ Please complete the following BEFORE class
 
 ### Tuesday
 
-- Complete all practice assessments, review the material, and bring questions to class!
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430243" target="_blank">Practice Midterm 2 (Conceptual)</a></span>
+- Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>!
+
 
 ### Thursday
 
-- Exam 2
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430218" target="_blank">Midterm 2 (Conceptual)</a></span>: IN CLASS
+
+### After Thursday
+
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/458784" target="_blank">Practice Midterm 2 (Computational)</a></span>: due Friday night (solutions will be released Friday night)
+
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430217" target="_blank">Midterm 2 (Computational)</a></span>: Due Monday midnight, NO late submissions will be graded
+
+
 
 ::::
 :::
@@ -96,10 +106,12 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
+This week, you will be submitting the computational portion of Midterm 2. No late submissions will be accepted or graded.
 
-- Computational worksheet for Exam 2
-- Optional Meme
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430217" target="_blank">Midterm 2 (Computational)</a></span>: Due Monday midnight
+
+
+
 
 ::::
 :::
