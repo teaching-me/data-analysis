@@ -78,6 +78,9 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W11_one_sample_zt.pdf" role="button" target="_blank">W11: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W11_independent_t.pdf" role="button" target="_blank">W11: Slides 2</a>
+
+
 <!-- <a class="btn btn-outline-info" href="../../slides/W11_review.pdf" role="button" target="_blank">W11: Review Slides</a> -->
 
 ### Activities
@@ -85,6 +88,8 @@ Here you will find the slides for each class session as well as links to any dem
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/459371" role="button" target="_blank">W11: Activity 1</a>
 
 <a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/459375" role="button" target="_blank">W11: Activity 2</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/459407" role="button" target="_blank">W11: Activity 3</a>
 
 <!-- <a class="btn btn-outline-info" href="" role="button" target="_blank">Hypothesis Tests Process</a> -->
 
