@@ -35,11 +35,16 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
+- Nothing to do, take a breather! 
+
 <!-- - Watch <a href="https://drive.google.com/file/d/1aDFkG_VUMJUEkNoE0Y21XhAZgD7yLU6W/view?usp=sharing" target="_blank">Hypothesis Testing (Factorial ANOVA) </a> [33 min] -->
 <!-- - [optional] Read Chapter 14 from the Gravetter & Wallnau (2017) textbook. -->
 
 ### Before Thursday
 
+- Watch: <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/450219" target="_blank">Factorial ANOVA (30 minute video)</a></span>.
+  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1T2SLriEQjCRmHnDCHibi9IOGK9eZ6JnKUCenNmpRffQ/edit?usp=sharing" target="_blank">Practice Data</a></span>
+  - <span style="color:#508AB0"><a href="https://docs.google.com/spreadsheets/d/1Bl70rEXUfpZ8G6wfrfAvvoF2qBKWaj42SMvrWwdzMoM/edit?usp=sharing" target="_blank">Solution Sheet</a></span>
 
 
 ### After Thursday
@@ -72,10 +77,13 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W13_additional_predictors_1.pdf" role="button" target="_blank">W13: Slides 1</a> -->
+<a class="btn btn-outline-info" href="../../slides/W13_additional_predictors_1.pdf" role="button" target="_blank">W13: Slides 1</a>
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W13_additional_predictors_2.pdf" role="button" target="_blank">W13: Slides 2</a> -->
+### Activities
 
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1T2SLriEQjCRmHnDCHibi9IOGK9eZ6JnKUCenNmpRffQ/edit?usp=sharing" role="button" target="_blank">W13: Activity 1</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6949/modules/items/461494" role="button" target="_blank">W13: Activity 2</a>
 ::::
 :::
 
@@ -100,11 +108,15 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
+Here are the to-do's for this week:
 
-<!-- - Week 13 Quiz -->
-<!-- - Optional Meme -->
-<!-- - Canvas discussion board post OR practice questions! -->
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430248" target="_blank">Week 13 Quiz</a></span> 
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430240" target="_blank">Problem Set 6</a></span>
+- Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>!
+
+- Extra credit opportunities:
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/449136" target="_blank">Exra Credit Questions</a></span>
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/449137" target="_blank">Optional Meme Submission</a></span> 
 
 ::::
 :::
