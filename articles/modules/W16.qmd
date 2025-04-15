@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 - Review course goals and content
 - Ready, set, and go for final exam!
 
-## Prep 
+## Final TO-DOs 
 
 :::::{.card .border .border-2 .border-info}
 :::: {.grid .g-0}
@@ -45,6 +45,8 @@ knitr::include_graphics("imgs/prep.png")
  
   -<span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430201" target="_blank">Weeks 13-15 Practice</a></span>
 
+- Submit any lingering questions <a href="https://forms.gle/pv2XV6e1Jist7SUf7" target="_blank">here</a>!
+
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430197" target="_blank">Final Class Survey</a></span>
 
 <!-- - Vote in the <span style="color:#508AB0"><a href="https://e20yvn2sra.cognition.run/" target="_blank">Memer of the Semester Contest</a></span> -->
@@ -59,19 +61,21 @@ knitr::include_graphics("imgs/prep.png")
 
 - Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/461994" target="_blank">Practice Final (Computational)</a></span>
 
-- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430193" target="_blank">Final (Computational)</a></span>
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430193" target="_blank">Final (Computational)</a></span> **BEFORE YOU COME TO CLASS**
+
+- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430253" target="_blank">PS7 Revision</a></span> **BEFORE YOU COME TO CLASS**
 
 
 ## ON May 15
 
-- Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430192" target="_blank">Final (Conceptual)</a></span>
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430192" target="_blank">Final (Conceptual)</a></span>: IN CLASS
 
 ::::
 :::
 ::::
 :::::
 
-## Try {.mt-5}
+## Slides {.mt-5}
 
 :::::{.card .border .border-2 .border-info}
 :::: {.grid .g-0}
@@ -87,8 +91,6 @@ knitr::include_graphics("imgs/try.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-
-### Slides
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
@@ -106,30 +108,3 @@ Here you will find the slides for each class session as well as links to any dem
 ::::
 :::::
 
-## Apply {.mt-5}
-
-:::::{.card .border .border-2 .border-info}
-:::: {.grid .g-0}
-::: {.g-col-3}
-:::: {.card-body}
-
-```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/apply.png")
-```
-
-::::
-:::
-
-::: {.g-col-9}
-:::: {.card-body}
-
-This week, you will be submitting the following (on Canvas):
-
-<!-- - April/May class survey for extra credit (due May 7) -->
-<!-- - BCQs! (in class) -->
-::::
-:::
-
-
-::::
-:::::
