@@ -95,7 +95,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 ### Activities
 
-<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1GdLpB0uxnjulUM_Xx8r_ULDhViwwzb1r_UrThsPqs0U/edit?usp=sharing" role="button" target="_blank">W13: Activity 1</a>
+<a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1GdLpB0uxnjulUM_Xx8r_ULDhViwwzb1r_UrThsPqs0U/edit?usp=sharing" role="button" target="_blank">W14: Activity 1</a>
 
 ::::
 :::
