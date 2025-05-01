@@ -80,6 +80,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W15_chi_square.pdf" role="button" target="_blank">W15: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W15_bootstrap.pdf" role="button" target="_blank">W15: Slides 2</a>
+
 ### Activities
 
 <a class="btn btn-outline-info" href="https://docs.google.com/spreadsheets/d/1duesn3I0UkCMokFU60MoPtggQ0y122ItMwAX8GXRk_g/edit?usp=sharing" role="button" target="_blank">W15: Activity 1 & 2</a>
