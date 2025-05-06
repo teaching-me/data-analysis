@@ -49,6 +49,9 @@ knitr::include_graphics("imgs/prep.png")
 
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430197" target="_blank">Final Class Survey</a></span>
 
+<a class="btn btn-outline-info" href="../../slides/W16_wrap.pdf" role="button" target="_blank">W16: Review Slides</a>
+
+
 ## BEFORE May 15
 
 **Final Conceptual Exam is on May 15 from 1.30 - 3 pm in VAC South. Your COMPUTATIONAL exam is due BEFORE you come to class!!**
