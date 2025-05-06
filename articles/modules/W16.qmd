@@ -49,17 +49,15 @@ knitr::include_graphics("imgs/prep.png")
 
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430197" target="_blank">Final Class Survey</a></span>
 
-<!-- - Vote in the <span style="color:#508AB0"><a href="https://e20yvn2sra.cognition.run/" target="_blank">Memer of the Semester Contest</a></span> -->
-
-
-
 ## BEFORE May 15
 
 **Final Conceptual Exam is on May 15 from 1.30 - 3 pm in VAC South. Your COMPUTATIONAL exam is due BEFORE you come to class!!**
 
+- Review <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/464734" target="_blank">Compiled Resources</a></span>
+
 - Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430202" target="_blank">Practice Final (Conceptual)</a></span>
 
-- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/461994" target="_blank">Practice Final (Computational)</a></span>
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/464655" target="_blank">Practice Final (Computational)</a></span>
 
 - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6949/modules/items/430193" target="_blank">Final (Computational)</a></span> **BEFORE YOU COME TO CLASS**
 
@@ -75,36 +73,4 @@ knitr::include_graphics("imgs/prep.png")
 ::::
 :::::
 
-## Slides {.mt-5}
-
-:::::{.card .border .border-2 .border-info}
-:::: {.grid .g-0}
-::: {.g-col-3}
-:::: {.card-body}
-
-```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/try.png")
-```
-
-::::
-:::
-
-::: {.g-col-9}
-:::: {.card-body}
-
-Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
-
-<!--
-<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
-
-<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
--->
-
-
-::::
-:::
-
-
-::::
-:::::
 
